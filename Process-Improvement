@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T09:15:45.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="X9KgRpMTJhpogQtvhnhh" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T09:43:09.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="YOoxWiZAllWsFTmN3dbU" version="14.0.1" type="github">
   <diagram id="Otq_TJcXnXnN0-s5WKu5" name="Process-imporvment">
     <mxGraphModel dx="1186" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,11 @@
         </mxCell>
         <mxCell id="3r42bxVPG4xSna7iSpJ4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3r42bxVPG4xSna7iSpJ4-16" target="3r42bxVPG4xSna7iSpJ4-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3r42bxVPG4xSna7iSpJ4-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3r42bxVPG4xSna7iSpJ4-21">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3r42bxVPG4xSna7iSpJ4-16" value="Customer agrees?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="80" height="80" as="geometry" />
