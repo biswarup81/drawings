@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T08:06:07.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.2.3" etag="Is9HeHKYrTkQuE1tIjpv" type="github"><diagram id="hYq2s5YmrRwCfZYG4jDq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-15T08:41:38.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="TMwVho1lK0wRNao209PV" version="14.2.3" type="github">
+  <diagram id="hYq2s5YmrRwCfZYG4jDq" name="Page-1">
+    <mxGraphModel dx="2013" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-1" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="50" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-2" value="" style="shape=mxgraph.cisco.people.pc_man;html=1;pointerEvents=1;dashed=0;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#ffffff;strokeColor=none;fillColor=#036897;" vertex="1" parent="1">
+          <mxGeometry x="630" y="373" width="80" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-4" value="" style="shape=mxgraph.cisco.people.running_man;html=1;pointerEvents=1;dashed=0;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fillColor=#97057A;" vertex="1" parent="1">
+          <mxGeometry x="-24.5" y="61" width="99" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-5" value="" style="shape=mxgraph.cisco.people.man_woman;html=1;pointerEvents=1;dashed=0;strokeColor=#6F0000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#ffffff;fillColor=#068D97;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="106" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-12" value="&lt;br&gt;We&#39;re loosing against our competitor because we cannot go to market because of -&lt;br&gt;1.&amp;nbsp;My time to market is very high because of tightly integrated legacy system, some reasons are -&lt;br&gt;1.1. &amp;nbsp;New products are taking time to get enriched.&lt;br&gt;1.2. Global products are missing valuable information (translation and proper language specific description)&lt;br&gt;1.3. Our marketing partners could not work properly as we couldn&#39;t provide marketing information (META, keywords etc. )&lt;br&gt;1.4 Our content partners could not provide fast responses because we&#39;ve very adequate number of people and at this point we cannot add more people in that team.&lt;br&gt;1.5 Not able to target people with the proper products since we&#39;re missing real-time integration. Hence, discounts and special offers are not spontaneous.&lt;br&gt;2. The Legacy system is not good -&lt;br&gt;2.1 It cannot be coupled with the 3rd Party latest REST Feed&lt;br&gt;2.2 System and Human are working differently and there is no link/process in the system&lt;br&gt;2.3 The quality of marketing information is not good. Sometimes we&#39;re missing important data.&lt;br&gt;2.4 3rd Party can access the complete system, including pricing and other sensitive information which we do&#39;t want.&lt;br&gt;2.5 The classification of the products are good. Addition of new features / classification is very tedious job for us.&lt;br&gt;3. Last year we&#39;ve added a new ERP System, it costs us a lot of man power to incorporate the changes.&lt;br&gt;4. We&#39;re in the process of Digital Transformation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="195" width="310" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-13" value="VQD BA - Let&#39;s do an assessment and MVP. An minimum viable product can demonstrate your problem and it&#39;s solution with micro level implementation. This analysis also gives you overview for your future profit." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#036897;strokeColor=none;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-14" value="VQD Sales team and partnership - We&#39;ll discuss the problem with our partners (informatica, Stibo, Semarcy, Professy etc.) and we will look into the problems in details for a good product selection.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fontColor=#F2F2F2;fillColor=#068D97;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-15" value="VQD Architect defines the architecture and provides the visualised implementation. Here we&#39;ll estimate the work and provide you the phase-wise implementation plan keeping the priority of work in mind." style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fontColor=#F2F2F2;fillColor=#036897;" vertex="1" parent="1">
+          <mxGeometry x="570" y="493" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-16" value="" style="group;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="430" width="242" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-3" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry x="163.5" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-6" value="" style="shape=mxgraph.cisco.people.standing_woman;html=1;pointerEvents=1;dashed=0;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fillColor=#97057A;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry x="70" y="10" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-7" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry y="50" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-8" value="" style="shape=mxgraph.cisco.people.standing_woman;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry x="120" y="57" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-9" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fillColor=#97057A;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry x="163.5" y="100" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-10" value="" style="shape=mxgraph.cisco.people.standing_woman;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry x="60" y="100" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-11" value="" style="shape=mxgraph.cisco.people.standing_woman;html=1;pointerEvents=1;dashed=0;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fillColor=#036897;" vertex="1" parent="LkcO-ecK7WcnTfz65Zye-16">
+          <mxGeometry x="220" y="57" width="22" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-17" value="&lt;font color=&quot;#000000&quot;&gt;VQD Works -&lt;br&gt;1. Offshore/Onsite Model&lt;br&gt;2. Only Offshore with Staff-Augmentation&lt;br&gt;3. Fix Cost model&lt;br&gt;4. Time and material&lt;br&gt;5. Agile or Waterfall&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fontColor=#F2F2F2;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-19" value="&lt;font color=&quot;#0d0d0d&quot;&gt;Customer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-20" value="&lt;font color=&quot;#0d0d0d&quot;&gt;VQD-BA&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-21" value="&lt;font color=&quot;#0d0d0d&quot;&gt;&lt;span&gt;VQD Sales +&amp;nbsp;Partners&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="583" y="10" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-22" value="&lt;font color=&quot;#0d0d0d&quot;&gt;&lt;span&gt;VQD Consultants /&amp;nbsp;&lt;/span&gt;&lt;span&gt;Architects&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LkcO-ecK7WcnTfz65Zye-23" value="&lt;font color=&quot;#0d0d0d&quot;&gt;Implementation team (VQD + Customer)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="301" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
