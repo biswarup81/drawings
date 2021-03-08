@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T09:04:47.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="_4wsmHWcIdH7c3xodzEy" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T09:11:15.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="4jpxQFg0nsmtwcqogWmJ" version="14.4.2" type="github" pages="2">
   <diagram id="fDZf-wZPp6z3Qil5l9yd" name="Case-1">
     <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,73 @@
         </mxCell>
         <mxCell id="cmRCbZKJlRiaQYSfIgf4-22" value="Change &amp;nbsp;status of the image in Media Manager/PIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xMddT3S-YpPswUFytrBc" name="Case-2">
+    <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-0" />
+        <mxCell id="Z977mUTGdK9i5-hAKJza-1" parent="Z977mUTGdK9i5-hAKJza-0" />
+        <mxCell id="Z977mUTGdK9i5-hAKJza-3" value="ConvertedImage&lt;br&gt;Folder" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="90" y="285" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-4" value="ConvertedImage " style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="600" y="452" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-7" target="Z977mUTGdK9i5-hAKJza-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-7" value="FTPS Script&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.script;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="243" y="285" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.442;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-21" target="Z977mUTGdK9i5-hAKJza-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-11" target="Z977mUTGdK9i5-hAKJza-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-11" value="Remote Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/folder-remote-128.png" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="600" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Source Folder&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Folder contains all the files after conversion from IMM&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="50" y="402" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-14" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Script runs the WinSCP script and transfer the images to remote folder&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="243" y="402" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-15" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Source Folder&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Folder is empty after transfer.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="600" y="570" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-16" value="Log file" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="540" y="355" width="33.43" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-7" target="Z977mUTGdK9i5-hAKJza-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="362" as="sourcePoint" />
+            <mxPoint x="650" y="462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-18" value="Change &amp;nbsp;status of the image in Media Manager/PIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-19" target="Z977mUTGdK9i5-hAKJza-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-19" target="Z977mUTGdK9i5-hAKJza-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-19" value="MM Workflow - Convert Image" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z977mUTGdK9i5-hAKJza-1" source="Z977mUTGdK9i5-hAKJza-21" target="Z977mUTGdK9i5-hAKJza-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z977mUTGdK9i5-hAKJza-21" value="MM Workflow&lt;br&gt;Transfer Image" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="Z977mUTGdK9i5-hAKJza-1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
