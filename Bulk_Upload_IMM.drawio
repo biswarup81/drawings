@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T08:37:58.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.4.2" etag="1i4BGu8XAhJD0x450dyX" type="github"><diagram id="fDZf-wZPp6z3Qil5l9yd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-08T08:51:42.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="9O0YJD2E5sCCwcmzFVpl" version="14.4.2" type="github">
+  <diagram id="fDZf-wZPp6z3Qil5l9yd" name="Case-1">
+    <mxGraphModel dx="1186" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmRCbZKJlRiaQYSfIgf4-2" target="cmRCbZKJlRiaQYSfIgf4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-2" value="ConvertedImage&lt;br&gt;Folder" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="43" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-3" value="ConvertedImage " style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmRCbZKJlRiaQYSfIgf4-4" target="cmRCbZKJlRiaQYSfIgf4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-4" value="FTPS Script&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.script;" vertex="1" parent="1">
+          <mxGeometry x="400" y="43" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmRCbZKJlRiaQYSfIgf4-5" target="cmRCbZKJlRiaQYSfIgf4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-5" value="Schduler" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/mimetypes/Schedule_File.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="46" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmRCbZKJlRiaQYSfIgf4-6" target="cmRCbZKJlRiaQYSfIgf4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-6" value="Remote Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/folder-remote-128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="38" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Source Folder&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Folder contains all the files after conversion from IMM&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-12" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Windows Scheduler&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Windows scorn job which runs daily 1 time during offload&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-13" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Script runs the WinSCP script and transfer the images to remote folder&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-15" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Source Folder&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Folder is empty after transfer.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-16" value="Log file" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="113" width="33.43" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cmRCbZKJlRiaQYSfIgf4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cmRCbZKJlRiaQYSfIgf4-4" target="cmRCbZKJlRiaQYSfIgf4-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="120" as="sourcePoint" />
+            <mxPoint x="650" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
