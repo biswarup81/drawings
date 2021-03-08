@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T16:50:29.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Ia-DBxRvGafZrFbhjmAG" version="14.4.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-08T16:51:14.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="csYvZ9ZMJnjEu8v_anfM" version="14.4.2" type="github" pages="5">
   <diagram id="fDZf-wZPp6z3Qil5l9yd" name="Case-1">
     <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,7 +289,7 @@
         <mxCell id="QD9QVcmDGh9-8mQoxsCH-9" value="Remote Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/folder-remote-128.png" vertex="1" parent="QD9QVcmDGh9-8mQoxsCH-1">
           <mxGeometry x="630" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QD9QVcmDGh9-8mQoxsCH-10" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Get the Derivative path from IMM using REST&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. runs the WinSCP script and transfer the images to remote folder.&amp;nbsp;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="QD9QVcmDGh9-8mQoxsCH-1">
+        <mxCell id="QD9QVcmDGh9-8mQoxsCH-10" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Get the Derivative path from Workflow (Media)&lt;/p&gt;&lt;p&gt;2. runs the WinSCP script and transfer the images to remote folder.&amp;nbsp;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="QD9QVcmDGh9-8mQoxsCH-1">
           <mxGeometry x="251" y="260" width="166" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QD9QVcmDGh9-8mQoxsCH-11" value="Log file" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="QD9QVcmDGh9-8mQoxsCH-1">
