@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T09:39:04.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="LZygznWs__-97dcCZvcy" version="14.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-08T09:42:11.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="8-kUIkWrDEMQRRI4xLu9" version="14.4.2" type="github" pages="4">
   <diagram id="fDZf-wZPp6z3Qil5l9yd" name="Case-1">
     <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,11 +155,8 @@
         <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1" source="ZGVLYEm1zA7WoQ62o9Zd-7" target="ZGVLYEm1zA7WoQ62o9Zd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rKjN9QAA85QXvRUVMwj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1" source="ZGVLYEm1zA7WoQ62o9Zd-7" target="1rKjN9QAA85QXvRUVMwj-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-7" value="FTPS Script&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.script;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
-          <mxGeometry x="350" y="285" width="80" height="70" as="geometry" />
+          <mxGeometry x="353" y="285" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.442;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1" source="ZGVLYEm1zA7WoQ62o9Zd-21" target="ZGVLYEm1zA7WoQ62o9Zd-7">
           <mxGeometry relative="1" as="geometry">
@@ -169,8 +166,8 @@
         <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-10" value="Remote Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/folder-remote-128.png" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
           <mxGeometry x="600" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-12" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Get the Derivative path from IMM using REST&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. runs the WinSCP script and transfer the images to remote folder.&amp;nbsp;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
-          <mxGeometry x="220" y="340" width="110" height="220" as="geometry" />
+        <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-12" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Script runs the WinSCP script and transfer the images to remote folder&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
+          <mxGeometry x="220" y="340" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-14" value="Log file" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
           <mxGeometry x="540" y="355" width="33.43" height="40" as="geometry" />
@@ -190,65 +187,76 @@
         <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-21" value="MM Workflow&lt;br&gt;Transfer Image" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
           <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rKjN9QAA85QXvRUVMwj-0" value="Get Derivative path" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
-          <mxGeometry x="340" y="490" width="120" height="40" as="geometry" />
+        <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1" source="ZGVLYEm1zA7WoQ62o9Zd-24" target="ZGVLYEm1zA7WoQ62o9Zd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGVLYEm1zA7WoQ62o9Zd-24" value="MM Workflow&lt;br&gt;Set &amp;nbsp;a property with Derivative Path" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZGVLYEm1zA7WoQ62o9Zd-1">
+          <mxGeometry x="70" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ktsMWdP5pJufKhpfGJ3B" name="Page-4">
+  <diagram id="ycNMw-9yeYJM8pTLuFKu" name="Page-5">
     <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-0" />
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-1" parent="JW-vsJSf2ygV6Gwy37CX-0" />
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="JW-vsJSf2ygV6Gwy37CX-1" source="JW-vsJSf2ygV6Gwy37CX-4" target="JW-vsJSf2ygV6Gwy37CX-7">
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-0" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-1" parent="nCFhWU5ezoWYjSgyee-s-0" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-4" target="nCFhWU5ezoWYjSgyee-s-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-3" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JW-vsJSf2ygV6Gwy37CX-2">
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-3" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nCFhWU5ezoWYjSgyee-s-2">
           <mxGeometry x="-0.0323" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-4" value="IMM Folder &lt;br&gt;where derivative is stored" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-4" value="IMM Folder &lt;br&gt;where derivative is stored" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
           <mxGeometry x="90" y="285" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JW-vsJSf2ygV6Gwy37CX-1" source="JW-vsJSf2ygV6Gwy37CX-7" target="JW-vsJSf2ygV6Gwy37CX-10">
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-7" target="nCFhWU5ezoWYjSgyee-s-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.442;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JW-vsJSf2ygV6Gwy37CX-1" source="JW-vsJSf2ygV6Gwy37CX-17" target="JW-vsJSf2ygV6Gwy37CX-7">
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-7" target="nCFhWU5ezoWYjSgyee-s-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-7" value="FTPS Script&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.script;" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="350" y="285" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.442;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-15" target="nCFhWU5ezoWYjSgyee-s-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-10" value="Remote Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/folder-remote-128.png" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="540" y="255" width="80" height="80" as="geometry" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-9" value="Remote Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/folder-remote-128.png" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="600" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Source Folder&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Folder is empty after transfer.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="600" y="570" width="110" height="90" as="geometry" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-10" value="&lt;h1&gt;&lt;font style=&quot;line-height: 94% ; font-size: 10px&quot;&gt;Script&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Get the Derivative path from IMM using REST&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. runs the WinSCP script and transfer the images to remote folder.&amp;nbsp;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="220" y="340" width="110" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-13" value="Log file" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="443.29" y="220" width="33.43" height="40" as="geometry" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-11" value="Log file" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="540" y="355" width="33.43" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-15" value="Change &amp;nbsp;status of the image in Media Manager/PIM to &lt;b&gt;Transferred&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="453.43" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-7" target="nCFhWU5ezoWYjSgyee-s-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="362" as="sourcePoint" />
+            <mxPoint x="650" y="462" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JW-vsJSf2ygV6Gwy37CX-1" source="JW-vsJSf2ygV6Gwy37CX-17" target="JW-vsJSf2ygV6Gwy37CX-15">
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-13" value="Change &amp;nbsp;status of the image in Media Manager/PIM to &lt;b&gt;Transferred&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-15" target="nCFhWU5ezoWYjSgyee-s-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-17" value="MM Workflow&lt;br&gt;Transfer Image" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-15" value="MM Workflow&lt;br&gt;Transfer Image" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JW-vsJSf2ygV6Gwy37CX-1" source="JW-vsJSf2ygV6Gwy37CX-19" target="JW-vsJSf2ygV6Gwy37CX-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zuO6NgzXPoH1omsHAIt5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="nCFhWU5ezoWYjSgyee-s-1" source="nCFhWU5ezoWYjSgyee-s-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-19" value="MM Workflow&lt;br&gt;Set &amp;nbsp;a property with Derivative Path" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="400" y="472" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="JW-vsJSf2ygV6Gwy37CX-1" source="JW-vsJSf2ygV6Gwy37CX-7" target="JW-vsJSf2ygV6Gwy37CX-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JW-vsJSf2ygV6Gwy37CX-7" value="FTPS Script&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.script;" vertex="1" parent="JW-vsJSf2ygV6Gwy37CX-1">
-          <mxGeometry x="250" y="260" width="80" height="70" as="geometry" />
+        <mxCell id="nCFhWU5ezoWYjSgyee-s-16" value="Get Derivative path" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nCFhWU5ezoWYjSgyee-s-1">
+          <mxGeometry x="340" y="490" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
