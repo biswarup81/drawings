@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T11:42:21.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="4740FLoCsbXRL9v3ttV3" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-25T14:35:58.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="RYa1JbXO-B7ciks38w5l" version="14.4.4" type="github" pages="4">
   <diagram id="YuKTOaxIg94aLrwmU1MW" name="General Design">
     <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,7 +289,7 @@
           <mxGeometry x="1023.06" y="393.39" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uz6rWptoQf6fMfHY_UlT-116" value="6" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.55;dx=29;notch=0;fillColor=#fff2cc;fontSize=14;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1163.06" y="386.89" width="50" height="40" as="geometry" />
+          <mxGeometry x="1130" y="240" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uz6rWptoQf6fMfHY_UlT-73" value="Source System" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="163.59" y="162" width="120" height="40" as="geometry" />
@@ -314,15 +314,6 @@
         </mxCell>
         <mxCell id="HxfGAES-n8Ir9NKPSYv1-35" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#660066;gradientColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1211.76" y="80" width="106.47" height="112.11" as="geometry" />
-        </mxCell>
-        <mxCell id="HxfGAES-n8Ir9NKPSYv1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HxfGAES-n8Ir9NKPSYv1-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320" y="136" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1333" y="556" />
-              <mxPoint x="1333" y="136" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="2Vg_VZGtr79mkvcwFbjV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="HxfGAES-n8Ir9NKPSYv1-43" target="n3CsMj492itdPXzmWZ_J-11">
           <mxGeometry relative="1" as="geometry" />
@@ -355,9 +346,6 @@
               <mxPoint x="980" y="540" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7O3j25u3Nx6528imEP-0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7O3j25u3Nx6528imEP-0-3" target="uz6rWptoQf6fMfHY_UlT-56">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t8YVT9JavFtHWD4s7Xi-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;" edge="1" parent="1" source="-t8YVT9JavFtHWD4s7Xi-64" target="-t8YVT9JavFtHWD4s7Xi-65">
           <mxGeometry relative="1" as="geometry" />
@@ -621,7 +609,7 @@
           <mxGeometry width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="2Vg_VZGtr79mkvcwFbjV-94" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1315.06" y="162" width="212" height="110.00000000000006" as="geometry" />
+          <mxGeometry x="1360" y="140.89" width="212" height="110.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="2Vg_VZGtr79mkvcwFbjV-95" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Real time &amp;nbsp; &amp;nbsp;interfaces minimise or reduce the Delay&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#fff2cc;strokeColor=#0D0D0D;" vertex="1" parent="2Vg_VZGtr79mkvcwFbjV-94">
           <mxGeometry x="16.600000000000023" y="18.57000000000005" width="195.4" height="91.43" as="geometry" />
@@ -795,46 +783,46 @@
         <mxCell id="bcxEaOiZ24mUcbg10NG3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-4" target="bcxEaOiZ24mUcbg10NG3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-4" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-3 (MVP-1)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Implement and configure 20% DQ Rules&lt;/p&gt;&lt;p&gt;2.&amp;nbsp;&lt;span style=&quot;text-indent: -0.19in ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 30 , 70) ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;Configure Entity 360 for Data Steward user interface.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;3. Define User&amp;nbsp;&lt;span style=&quot;text-indent: -0.19in ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 30 , 70) ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;Roles &amp;amp; Privileges, Hierarchies, Relationships.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;4. Implement custom User Exits.&lt;/p&gt;&lt;p&gt;5. Roll-out &lt;b&gt;Source#1 for Batch process&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-4" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-3 (MVP)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Implement and configure 20% DQ Rules&lt;/p&gt;&lt;p&gt;2.&amp;nbsp;&lt;span style=&quot;text-indent: -0.19in ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 30 , 70) ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;Configure Entity 360 for Data Steward user interface.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;3. Define User&amp;nbsp;&lt;span style=&quot;text-indent: -0.19in ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 30 , 70) ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;Roles &amp;amp; Privileges, Hierarchies, Relationships.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;4. Implement custom User Exits.&lt;/p&gt;&lt;p&gt;5. Roll-out &lt;b&gt;Source#1 for Batch process&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#82b366;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="640" y="102.5" width="190" height="305" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-6" target="bcxEaOiZ24mUcbg10NG3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-6" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-4 (MVP-2)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;Source #2 Batch Process&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. Modify MDM Hub for source#2&amp;nbsp;&lt;/p&gt;&lt;p&gt;3. Create match and logic&lt;/p&gt;&lt;p&gt;4. Integrate with source#2&lt;/p&gt;&lt;p&gt;5. Start building Data stewardship in Entity 360&lt;/p&gt;" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-6" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-4&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;Source #2 Batch Process&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. Modify MDM Hub for source#2&amp;nbsp;&lt;/p&gt;&lt;p&gt;3. Create match and logic&lt;/p&gt;&lt;p&gt;4. Integrate with source#2&lt;/p&gt;&lt;p&gt;5. Start building Data stewardship in Entity 360&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#000000;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="880" y="130" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-8" target="bcxEaOiZ24mUcbg10NG3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-8" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Sprint-5 (MVP-3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. &lt;b&gt;Source #3, 4,5 Batch&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;2. Bug fixing for source(1,2)&lt;/p&gt;&lt;p&gt;3. Performance tuning for MDM starts.&lt;/p&gt;&lt;p&gt;4. Identify design flaw (if any) and prepare alternative &amp;nbsp;&lt;/p&gt;&lt;p&gt;5. Integration with Informatica highway&lt;/p&gt;" style="text;html=1;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#82b366;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-8" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Sprint-5&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. &lt;b&gt;Source #3, 4,5 Batch&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;2. Bug fixing for source(1,2)&lt;/p&gt;&lt;p&gt;3. Performance tuning for MDM starts.&lt;/p&gt;&lt;p&gt;4. Identify design flaw (if any) and prepare alternative &amp;nbsp;&lt;/p&gt;&lt;p&gt;5. Integration with Informatica highway&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#82b366;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="1130" y="127.5" width="190" height="255" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-10" target="bcxEaOiZ24mUcbg10NG3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-6 (MVP-4)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;Source #6, 7, 8 Batch&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. Implement additional rules related to the sources&lt;/p&gt;&lt;p&gt;3. Implement extra user exits and conditional MDM.&lt;/p&gt;&lt;p&gt;4. &lt;b&gt;Source #1,2,3,4,5 Real Time&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#9673a6;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-6&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;Source #6, 7, 8 Batch&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. Implement additional rules related to the sources&lt;/p&gt;&lt;p&gt;3. Implement extra user exits and conditional MDM.&lt;/p&gt;&lt;p&gt;4. &lt;b&gt;Source #1,2,3,4,5 Real Time&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#9673a6;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="1140" y="460" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-12" target="bcxEaOiZ24mUcbg10NG3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Sprint-7 (MVP-5)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. Source# 9, 10, 11 both Batch and Real time.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. Finalise data migration plan.&lt;/p&gt;&lt;p&gt;3. 90% bug fixed from the initial module.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#b85450;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Sprint-7&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. Source# 9, 10, 11 both Batch and Real time.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. Finalise data migration plan.&lt;/p&gt;&lt;p&gt;3. 90% bug fixed from the initial module.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#b85450;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="880" y="460" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-14" target="bcxEaOiZ24mUcbg10NG3-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-14" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-8 (MVP-6)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. Source#12, 13, 14 both for batch and real time.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;2. Power Center readiness for data migration&lt;/p&gt;&lt;p&gt;3. IDQ readiness for data migration&lt;/p&gt;&lt;p&gt;MDM readiness for data migration&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#d6b656;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-14" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-8&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. Source#12, 13, 14 both for batch and real time.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;2. Power Center readiness for data migration&lt;/p&gt;&lt;p&gt;3. IDQ readiness for data migration&lt;/p&gt;&lt;p&gt;MDM readiness for data migration&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#d6b656;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="630" y="467" width="190" height="235" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fontSize=14;" edge="1" parent="gXtSOcbHWG7AlP08yzny-1" source="bcxEaOiZ24mUcbg10NG3-16" target="bcxEaOiZ24mUcbg10NG3-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-16" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-9 (Data Migration)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Perform Data Migration for 12 million data.&lt;/p&gt;&lt;p&gt;2. Decision on remaining bugs (if any) and release plan for show stoppers.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#d79b00;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-16" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Sprint-9&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Perform Data Migration for 12 million data.&lt;/p&gt;&lt;p&gt;2. Decision on remaining bugs (if any) and release plan for show stoppers.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#d79b00;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="360" y="460" width="190" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="bcxEaOiZ24mUcbg10NG3-18" value="&lt;h1&gt;Sprint-10 (Production Release)&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#f0a30a;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
+        <mxCell id="bcxEaOiZ24mUcbg10NG3-18" value="&lt;h1&gt;Sprint-10 (Phase-1 Business Go-Live)&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#f0a30a;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="40" y="517.5" width="250" height="135" as="geometry" />
         </mxCell>
         <mxCell id="bcxEaOiZ24mUcbg10NG3-21" value="13-16" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=18;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
