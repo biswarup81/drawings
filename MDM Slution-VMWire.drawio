@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T10:55:45.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="hZ2tAMfldm5OgcH0yzHF" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-27T17:06:44.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="vEHmChjHOqTA2HUChRbz" version="14.4.4" type="github" pages="3">
   <diagram id="YuKTOaxIg94aLrwmU1MW" name="General Design">
-    <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -742,103 +742,6 @@
         </mxCell>
         <mxCell id="Dp6wUZkHgW9tvBbqhoui-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Sprint-3&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. Implement and configure 30% DQ Rules&lt;/p&gt;&lt;p&gt;2. Define User Roles &amp;amp; Privileges, Hierarchies, Relationships.&amp;nbsp;&lt;/p&gt;&lt;p&gt;3. Implement custom User Exits.&lt;/p&gt;&lt;p&gt;4. &lt;b&gt;SaaS Opportunity Management (SFDC) Batch Process&lt;/b&gt;&lt;/p&gt;&lt;div class=&quot;O0&quot; style=&quot;line-height: normal ; margin: 1pt 0in 0pt 0.19in ; text-indent: -0.19in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#000000;" vertex="1" parent="gXtSOcbHWG7AlP08yzny-1">
           <mxGeometry x="637" y="110" width="203" height="270" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="S1-hWtP1ikDBiz72aOgk" name="Page-4">
-    <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-0" />
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-1" parent="sb41Ti1qCj_Fu9oKx5GM-0" />
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-3" target="sb41Ti1qCj_Fu9oKx5GM-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-3" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="80" y="320" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-5" target="sb41Ti1qCj_Fu9oKx5GM-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-5" value="New Image uploaded into Medias" style="rounded=0;whiteSpace=wrap;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-7" target="sb41Ti1qCj_Fu9oKx5GM-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-24" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sb41Ti1qCj_Fu9oKx5GM-20" vertex="1" connectable="0">
-          <mxGeometry x="0.48" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-7" target="sb41Ti1qCj_Fu9oKx5GM-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-25" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sb41Ti1qCj_Fu9oKx5GM-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.9282" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-7" value="Is &lt;br&gt;Image uploaded in &lt;b&gt;Unassigned&lt;/b&gt; &lt;br&gt;Folder?" style="rhombus;whiteSpace=wrap;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="350" y="270" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-9" target="sb41Ti1qCj_Fu9oKx5GM-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-9" value="Convert Image and store it in a &lt;b&gt;specific folder&lt;/b&gt; in the server" style="rounded=0;whiteSpace=wrap;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-11" target="sb41Ti1qCj_Fu9oKx5GM-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-11" value="Convert image and store this into &lt;b&gt;Converted&lt;/b&gt; Group/folder in medias" style="whiteSpace=wrap;html=1;rounded=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="555" y="440" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-13" target="sb41Ti1qCj_Fu9oKx5GM-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-13" value="Store the uploaded image from Unassigned folder to &lt;b&gt;Original Images&lt;/b&gt; folder" style="whiteSpace=wrap;html=1;rounded=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="300" y="430" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-15" target="sb41Ti1qCj_Fu9oKx5GM-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-15" value="Delete the image from &lt;b&gt;Unassigned&lt;/b&gt; folder" style="whiteSpace=wrap;html=1;rounded=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-16" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fillColor=#292929;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="80" y="460" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-17" target="sb41Ti1qCj_Fu9oKx5GM-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-21" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sb41Ti1qCj_Fu9oKx5GM-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" source="sb41Ti1qCj_Fu9oKx5GM-17" target="sb41Ti1qCj_Fu9oKx5GM-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="250" />
-              <mxPoint x="60" y="250" />
-              <mxPoint x="60" y="470" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-26" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sb41Ti1qCj_Fu9oKx5GM-23" vertex="1" connectable="0">
-          <mxGeometry x="-0.8263" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-17" value="Is &lt;br&gt;Image uploaded in &lt;b&gt;Unassigned&lt;/b&gt; &lt;br&gt;Folder?" style="rhombus;whiteSpace=wrap;html=1;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="500" y="270" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-27" value="FINISH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="70" y="500" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sb41Ti1qCj_Fu9oKx5GM-28" value="START" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sb41Ti1qCj_Fu9oKx5GM-1" vertex="1">
-          <mxGeometry x="70" y="350" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
