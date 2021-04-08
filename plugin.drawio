@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T07:58:04.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.5.7" etag="uJHWtdqAX9SEYKBwPHuB" type="github"><diagram id="jq7CLsASXzSHqqgotllC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-08T08:05:27.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="ktw7x6JqDZF2boYjbZSt" version="14.5.7" type="github">
+  <diagram id="jq7CLsASXzSHqqgotllC" name="Merge">
+    <mxGraphModel dx="1102" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OsWPTND-dAeVox1oGxLM-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="-235" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="OsWPTND-dAeVox1oGxLM-4">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-3" value="Default Merge (With EAN)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsWPTND-dAeVox1oGxLM-4">
+          <mxGeometry x="20" y="11.363636363636365" width="80" height="27.27272727272728" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="-235" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="OsWPTND-dAeVox1oGxLM-5">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-7" value="Custom Merge (With GTIN)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsWPTND-dAeVox1oGxLM-5">
+          <mxGeometry x="20" y="11.363636363636365" width="80" height="27.27272727272728" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-8" target="OsWPTND-dAeVox1oGxLM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-19" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OsWPTND-dAeVox1oGxLM-17">
+          <mxGeometry x="-0.5489" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-8" target="OsWPTND-dAeVox1oGxLM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OsWPTND-dAeVox1oGxLM-18">
+          <mxGeometry x="-0.4133" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-8" value="Compare" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-11" target="OsWPTND-dAeVox1oGxLM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-11" value="Get the Remarks from the Supplier Catalog using REST API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-660" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-12" target="OsWPTND-dAeVox1oGxLM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-12" value="Get the Supplier Name &amp;nbsp;from PIM API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-750" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-16" target="OsWPTND-dAeVox1oGxLM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-16" value="Get the Comparison which is defined in server.properties" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-540" width="150" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
