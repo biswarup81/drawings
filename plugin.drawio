@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T08:28:22.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="I2zFtd4YuGzldW27UqD_" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T08:49:33.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="nCUkHmJrTM3lcUVQOw8M" version="14.5.7" type="github">
   <diagram id="jq7CLsASXzSHqqgotllC" name="Merge">
     <mxGraphModel dx="1102" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,41 +41,40 @@
         <mxCell id="OsWPTND-dAeVox1oGxLM-8" value="Compare" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="-410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OsWPTND-dAeVox1oGxLM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-11" target="OsWPTND-dAeVox1oGxLM-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-11" target="OsWPTND-dAeVox1oGxLM-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OsWPTND-dAeVox1oGxLM-11" value="Get the Remarks from the Supplier Catalog using REST API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-660" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="OsWPTND-dAeVox1oGxLM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-12" target="OsWPTND-dAeVox1oGxLM-11">
+        <mxCell id="OsWPTND-dAeVox1oGxLM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-11" target="OsWPTND-dAeVox1oGxLM-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-11" value="Get the Remarks from the Supplier Catalog using REST API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-550" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-12" target="OsWPTND-dAeVox1oGxLM-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OsWPTND-dAeVox1oGxLM-12" value="Get the Supplier Name &amp;nbsp;from PIM API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-750" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OsWPTND-dAeVox1oGxLM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-16" target="OsWPTND-dAeVox1oGxLM-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="-652" />
+              <mxPoint x="610" y="-630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-16" target="OsWPTND-dAeVox1oGxLM-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-16" target="OsWPTND-dAeVox1oGxLM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-16" value="Get the Comparison which is defined in server.properties" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-540" width="150" height="75" as="geometry" />
+          <mxGeometry x="425" y="-800" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-23" value="&lt;div&gt;String user = ServerProperties.getProperty(&quot;rest.user&quot;);&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;   &lt;/span&gt;String password = ServerProperties.getProperty(&quot;rest.password&quot;);&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;   &lt;/span&gt;String merge_catalog = ServerProperties.getProperty(&quot;merge.catalog&quot;);&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;   &lt;/span&gt;String url = ServerProperties.getProperty(&quot;rest.url&quot;);&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;   &lt;/span&gt;String merge_remarks = ServerProperties.getProperty(&quot;merge.remarks&quot;);&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;   &lt;/span&gt;String merge_field = ServerProperties.getProperty(&quot;merge.field&quot;);&lt;/div&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-500" width="390" height="130" as="geometry" />
+          <mxGeometry x="660" y="-820" width="390" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-25" value="ListReadRequest listReadReq = restClient.createListReadRequest();&lt;br&gt;ReportQuery reportQuery = new ReportQuery( &quot;bySearch&quot; );&lt;br&gt;reportQuery.addParameterValue(&quot;query&quot;, &quot;SupplierCatalogLang.Name(en) equals \&quot;&quot;+supplierName+&quot;\&quot;&quot; );&lt;br&gt;listReadReq.setFields(&quot;SupplierCatalogLang.Remarks(en)&quot;);&lt;br&gt;  &amp;nbsp;  &amp;nbsp; &lt;br&gt;  &amp;nbsp;  &amp;nbsp; EntityItemTable resultTable = listReadReq.getRootItems(&quot;SupplierCatalog&quot;, reportQuery);" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-677.5" width="500" height="110" as="geometry" />
+          <mxGeometry x="660" y="-567.5" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-28" value="Field supplierNameField = repositoryService.getFieldByIdentifier( &quot;Article.ManufacturerName&quot; ); &amp;nbsp; &amp;nbsp; FieldPath supplierNameFieldPath = RepositoryUtils.getFieldPath( supplierNameField );&lt;br&gt;String supplierName = ( String ) detailModel.getFieldValue( supplierNameFieldPath );" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-770" width="525" height="60" as="geometry" />
+          <mxGeometry x="635" y="-660" width="525" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-31" target="OsWPTND-dAeVox1oGxLM-2">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +89,7 @@
           <mxGeometry x="575" y="-330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-35" value="FieldPath fieldPath = RepositoryUtils.getFieldPath( field );&#xa;      String fieldPathString = ( String ) detailModel.getFieldValue( fieldPath );&#xa;         EqualExpression eanExpression = new EqualExpression( new FieldPathExpression( fieldPath ),&#xa;                    new ValueExpression( fieldPathString ) );&#xa;         &#xa;         String dataSource = DataSource.MASTER.getIdentifier();&#xa;         SearchParameters searchParameters = new SearchParameters( dataSource, &quot;ArticleType&quot;, eanExpression );&#xa;         EntityProxy[] entityProxies = searchService.searchAsEntityProxies( new NullProgressMonitor(), searchParameters,&#xa;                                                                            null );" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-340" width="400" height="180" as="geometry" />
+          <mxGeometry x="750" y="-392.5" width="400" height="180" as="geometry" />
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-36" target="OsWPTND-dAeVox1oGxLM-35">
           <mxGeometry relative="1" as="geometry" />
@@ -111,6 +110,12 @@
         </mxCell>
         <mxCell id="OsWPTND-dAeVox1oGxLM-39" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;align=center;dashed=1;strokeColor=#0000CC;dashPattern=1 2;strokeWidth=2;fillColor=#FFF2CC;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="280" y="-227.5" width="430" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="OsWPTND-dAeVox1oGxLM-12" target="OsWPTND-dAeVox1oGxLM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWPTND-dAeVox1oGxLM-12" value="Get the Supplier Name &amp;nbsp;from PIM API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-677.5" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
