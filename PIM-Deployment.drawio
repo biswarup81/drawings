@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T11:00:55.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="URZ-eb2xkny2jxKFsLuP" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T13:06:26.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="8kmdyIoJEG2gKrpz_LoI" version="14.5.8" type="github">
   <diagram id="Y4N4YJ1VvW1J7Zvk4voF" name="Page-1">
     <mxGraphModel dx="1102" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -48,12 +48,9 @@
         <mxCell id="n7G3Y2LQpJulJycApbIF-3" value="Virtual Network" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;sketch=0;" parent="n7G3Y2LQpJulJycApbIF-9" vertex="1">
           <mxGeometry x="22" y="18.57" width="65.43" height="37.14" as="geometry" />
         </mxCell>
-        <mxCell id="FSKlmwbiEeOFhiV5nSaX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="n7G3Y2LQpJulJycApbIF-2" target="FSKlmwbiEeOFhiV5nSaX-16">
+        <mxCell id="FSKlmwbiEeOFhiV5nSaX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="n7G3Y2LQpJulJycApbIF-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="63" />
-              <mxPoint x="360" y="183" />
-            </Array>
+            <mxPoint x="354" y="-3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n7G3Y2LQpJulJycApbIF-2" value="VPN Gateway" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;sketch=0;" parent="1" vertex="1">
@@ -135,16 +132,6 @@
         </mxCell>
         <mxCell id="n7G3Y2LQpJulJycApbIF-268" value="Management&lt;br&gt;Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;sketch=0;strokeColor=#3399FF;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="390" y="-195" width="53.91" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="n7G3Y2LQpJulJycApbIF-269" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="n7G3Y2LQpJulJycApbIF-268" target="n7G3Y2LQpJulJycApbIF-2" edge="1">
-          <mxGeometry x="58.44999999999999" y="-105" width="50" height="50" as="geometry">
-            <mxPoint x="629.45" y="-129" as="sourcePoint" />
-            <mxPoint x="489.45000000000005" y="60" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="-165" />
-              <mxPoint x="350" y="60" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="n7G3Y2LQpJulJycApbIF-272" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;fillColor=#76608a;strokeColor=#432D57;exitX=-0.104;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="n7G3Y2LQpJulJycApbIF-2" target="n7G3Y2LQpJulJycApbIF-264" edge="1">
           <mxGeometry x="68.44999999999999" y="-95" width="50" height="50" as="geometry">
@@ -560,14 +547,15 @@
         <mxCell id="FSKlmwbiEeOFhiV5nSaX-15" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif ; font-size: 11px&quot;&gt;250 GB&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FSKlmwbiEeOFhiV5nSaX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSKlmwbiEeOFhiV5nSaX-16" target="n7G3Y2LQpJulJycApbIF-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FSKlmwbiEeOFhiV5nSaX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="FSKlmwbiEeOFhiV5nSaX-16" target="9nRuWMNx_Ox0b5ZtN-DK-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FSKlmwbiEeOFhiV5nSaX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="FSKlmwbiEeOFhiV5nSaX-16" target="n7G3Y2LQpJulJycApbIF-268">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="-170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FSKlmwbiEeOFhiV5nSaX-16" value="Jumpbox / Utility Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;sketch=0;strokeColor=#3399FF;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="403.05" y="157.5" width="53.91" height="50" as="geometry" />
+          <mxGeometry x="327.18" y="-53.06" width="53.91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FSKlmwbiEeOFhiV5nSaX-18" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif ; font-size: 11px&quot;&gt;4 CPU 16 GB&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="430" y="145" width="70" height="20" as="geometry" />
