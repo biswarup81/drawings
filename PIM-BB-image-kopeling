@@ -1,16 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:54:27.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="KulIcucIHlaI-zydQpjN" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T07:55:25.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="lSl9wVaYN20CzFXyykOI" version="14.5.10" type="github">
   <diagram id="WNaQLd1lgxcmRs6qRN7z" name="Page-1">
     <mxGraphModel dx="1129" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MUOkSlyksCU8JvzfbSN9-1" value="Many hoeslakens / bedden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-1" value="hoeslakens / bedden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MUOkSlyksCU8JvzfbSN9-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;" edge="1" parent="1" source="MUOkSlyksCU8JvzfbSN9-1" target="MUOkSlyksCU8JvzfbSN9-3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="490" y="200" as="sourcePoint" />
             <mxPoint x="450" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-34" value="many" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MUOkSlyksCU8JvzfbSN9-2">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MUOkSlyksCU8JvzfbSN9-3" value="Products met EAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
