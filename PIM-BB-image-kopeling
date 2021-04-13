@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:36:41.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.5.10" etag="ZWCgeMw8u2sEcSorUWoa" type="github"><diagram id="WNaQLd1lgxcmRs6qRN7z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T07:45:09.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="UafLkyFZYlY0ULdmSDVV" version="14.5.10" type="github">
+  <diagram id="WNaQLd1lgxcmRs6qRN7z" name="Page-1">
+    <mxGraphModel dx="1129" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-1" value="Many hoeslakens / bedden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;" edge="1" parent="1" source="MUOkSlyksCU8JvzfbSN9-1" target="MUOkSlyksCU8JvzfbSN9-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="490" y="200" as="sourcePoint" />
+            <mxPoint x="450" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-3" value="Products met EAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-4" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;" edge="1" parent="1" source="MUOkSlyksCU8JvzfbSN9-3" target="MUOkSlyksCU8JvzfbSN9-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="640" y="130" as="sourcePoint" />
+            <mxPoint x="740" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-5" value="Attributes / klasnaam&lt;br&gt;Maatvoering - 1e Persoon/2e Person / Twiflerlaar&lt;br&gt;Kleurgroep - OFF-WHITE etc.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-7" value="Filename contains EAN" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-8" value="" style="endArrow=block;html=1;endFill=0;startSize=6;endSize=22;" edge="1" parent="1" source="MUOkSlyksCU8JvzfbSN9-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-9" value="MATCH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MUOkSlyksCU8JvzfbSN9-8">
+          <mxGeometry x="-0.2221" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;startSize=6;endSize=6;" edge="1" parent="1" source="MUOkSlyksCU8JvzfbSN9-11" target="MUOkSlyksCU8JvzfbSN9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-11" value="Attribute (Maatvoering)" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=33;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-12" value="Eerstepersoons" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUOkSlyksCU8JvzfbSN9-13" value="Tweedepersoons/&lt;br&gt;Twifelaar" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
