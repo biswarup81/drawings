@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:55:25.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="lSl9wVaYN20CzFXyykOI" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T09:09:21.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="ceAFjHp_nTWYrDKf0sGc" version="14.5.10" type="github" pages="2">
   <diagram id="WNaQLd1lgxcmRs6qRN7z" name="Page-1">
-    <mxGraphModel dx="1129" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,35 @@
         </mxCell>
         <mxCell id="MUOkSlyksCU8JvzfbSN9-33" value="Media Manager&lt;br&gt;Workflow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="540" width="90" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Dc8FVicZgP6i9EREmgsr" name="logo">
+    <mxGraphModel dx="928" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-0" />
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-1" parent="f_mJ2XcBomRfCzqpAXlu-0" />
+        <mxCell id="6FQeODKDeAdKF9B7ABUT-0" value="" style="group" vertex="1" connectable="0" parent="f_mJ2XcBomRfCzqpAXlu-1">
+          <mxGeometry width="433" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/summer-flat-11/272/summer-citrus-fruit-food-tropical-juice-orange-128.png;fillColor=none;align=center;" vertex="1" parent="6FQeODKDeAdKF9B7ABUT-0">
+          <mxGeometry width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-3" value="ORANGE" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;fontSize=69;fontColor=#FFC505;labelBorderColor=none;" vertex="1" parent="6FQeODKDeAdKF9B7ABUT-0">
+          <mxGeometry x="128" y="10" width="282" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-4" value="Digital Consultancy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;fontSize=35;" vertex="1" parent="6FQeODKDeAdKF9B7ABUT-0">
+          <mxGeometry x="131" y="80" width="302" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Garamond;fontSize=69;fontColor=#FFC505;startSize=6;endSize=6;strokeColor=#FFC505;" edge="1" parent="6FQeODKDeAdKF9B7ABUT-0">
+          <mxGeometry width="50" height="50" as="geometry">
+            <mxPoint x="130" y="75" as="sourcePoint" />
+            <mxPoint x="420" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_mJ2XcBomRfCzqpAXlu-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Trademark-128.png;fontFamily=Garamond;fontSize=35;strokeColor=#000000;fillColor=none;align=left;fontColor=#FFC505;" vertex="1" parent="6FQeODKDeAdKF9B7ABUT-0">
+          <mxGeometry x="413" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
