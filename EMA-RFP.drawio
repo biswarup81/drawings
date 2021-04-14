@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T12:17:40.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="A3jQLgzvHb_An0GsHa15" version="14.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-14T12:22:43.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="ZksoreefMNlSQ-j5yG3G" version="14.6.0" type="github" pages="2">
   <diagram id="POrvhyLN4dE86ITFzkWm" name="Azure-MDM-Pipeline">
     <mxGraphModel dx="928" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -654,6 +654,15 @@
         </mxCell>
         <mxCell id="t5ICPvlHD92I4T0VZDVn-3" value="Scripted pipeline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#ffffff;sketch=0;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="RjStmrC4QHmKRymc2-O3-1">
           <mxGeometry x="144" y="-436" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ICPvlHD92I4T0VZDVn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" edge="1" parent="RjStmrC4QHmKRymc2-O3-1" target="0emESH4UaPDbuQceLFqk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="-588" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="-583" />
+              <mxPoint x="1380" y="-646" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
