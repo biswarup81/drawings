@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T09:04:38.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="T3Cwvf8LOK0sTP6s4oMZ" version="14.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-15T09:05:04.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="bCxgEMULZ5z3YaLq2LEt" version="14.6.0" type="github" pages="4">
   <diagram id="POrvhyLN4dE86ITFzkWm" name="Azure-MDM-Pipeline">
     <mxGraphModel dx="1102" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -857,6 +857,9 @@
               <mxPoint x="416" y="-643" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LXbZdTNr6cSj3vnxMMNX-0" value="Manual Trigger for Deployment" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.schmitt_trigger;direction=east;" vertex="1" parent="rWlJtxXTuFyPZIatCYru-1">
+          <mxGeometry x="1330" y="-450" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
