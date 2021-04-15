@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T09:05:04.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="bCxgEMULZ5z3YaLq2LEt" version="14.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-15T09:05:42.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="oFZGz26yCprcXoNZVcVn" version="14.6.0" type="github" pages="4">
   <diagram id="POrvhyLN4dE86ITFzkWm" name="Azure-MDM-Pipeline">
     <mxGraphModel dx="1102" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -671,7 +671,7 @@
         <mxCell id="rWlJtxXTuFyPZIatCYru-72" value="" style="group" vertex="1" connectable="0" parent="rWlJtxXTuFyPZIatCYru-70">
           <mxGeometry y="2" width="180" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="rWlJtxXTuFyPZIatCYru-73" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px&quot;&gt;Deploy MDM Artifacts&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="rWlJtxXTuFyPZIatCYru-72">
+        <mxCell id="rWlJtxXTuFyPZIatCYru-73" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px&quot;&gt;Deploy&amp;nbsp;to Cloud Instances&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="rWlJtxXTuFyPZIatCYru-72">
           <mxGeometry x="14" y="-1" width="158" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rWlJtxXTuFyPZIatCYru-74" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.guest_agent_customization;fontSize=12;" vertex="1" parent="rWlJtxXTuFyPZIatCYru-72">
