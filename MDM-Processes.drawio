@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T10:53:15.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="hpMFIhMo7PlxHOBNwdaS" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T11:22:42.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="UT67FQsxkna81nAEFH1A" version="14.7.0" type="github">
   <diagram id="haYwg5NGreRRzmMgYrGO" name="Page-1">
     <mxGraphModel dx="1102" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,6 +54,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVSjpRfPwQMih9O9_Q70-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zVSjpRfPwQMih9O9_Q70-8" source="zVSjpRfPwQMih9O9_Q70-22" target="zVSjpRfPwQMih9O9_Q70-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-34" value="MDM" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="414.00333333333333" width="980" height="76.66666666666666" as="geometry">
+            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zVSjpRfPwQMih9O9_Q70-34" source="zVSjpRfPwQMih9O9_Q70-62" target="zVSjpRfPwQMih9O9_Q70-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-62" value="Golden Record" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="zVSjpRfPwQMih9O9_Q70-34">
+          <mxGeometry x="30" y="18.01" width="130" height="40.63" as="geometry" />
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-65" value="Publish the data&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zVSjpRfPwQMih9O9_Q70-34">
+          <mxGeometry x="190" y="18.98" width="310" height="39.66" as="geometry" />
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-63" value="Middleware" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490.67" width="980" height="90" as="geometry">
+            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-66" value="Consume the Message and update Target System" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="zVSjpRfPwQMih9O9_Q70-63">
+          <mxGeometry x="285" y="22.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zVSjpRfPwQMih9O9_Q70-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVSjpRfPwQMih9O9_Q70-65" target="zVSjpRfPwQMih9O9_Q70-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
