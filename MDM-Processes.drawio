@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T10:57:20.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="zID0Ou21KRaEiWLg2PhT" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T11:08:17.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="yEU5g7zShIUm2O3DHM2f" version="14.7.3" type="github">
   <diagram id="haYwg5NGreRRzmMgYrGO" name="Processes">
     <mxGraphModel dx="1102" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -440,10 +440,10 @@
           <mxGeometry x="70" y="3800" width="406" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QTGATzNPk6tVHaJ0kIiY-70" value="Golden Record (Asset)" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="626.7844897959183" y="3049.996666666667" width="123.21428571428571" height="40.63" as="geometry" />
+          <mxGeometry x="603.3944897959183" y="3049.996666666667" width="123.21428571428571" height="40.63" as="geometry" />
         </mxCell>
         <mxCell id="QTGATzNPk6tVHaJ0kIiY-71" value="Golden Record (Product)" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="636.7844897959183" y="3289.996666666667" width="123.21428571428571" height="40.63" as="geometry" />
+          <mxGeometry x="603.0044897959183" y="3299.996666666667" width="123.21428571428571" height="40.63" as="geometry" />
         </mxCell>
         <mxCell id="QTGATzNPk6tVHaJ0kIiY-73" value="Golden Record (Location)" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="603.0044897959183" y="3649.996666666667" width="123.21428571428571" height="40.63" as="geometry" />
@@ -492,6 +492,33 @@
         </mxCell>
         <mxCell id="QTGATzNPk6tVHaJ0kIiY-87" value="Target System(s)" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="685.43" y="4047" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-89" value="Match / Merge / Trust Score" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="4240" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTGATzNPk6tVHaJ0kIiY-90" target="QTGATzNPk6tVHaJ0kIiY-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-90" value="Assign Trust score for source systems" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4340" width="132" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTGATzNPk6tVHaJ0kIiY-91" target="QTGATzNPk6tVHaJ0kIiY-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-91" value="Match Rule setup" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="292" y="4340" width="132" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTGATzNPk6tVHaJ0kIiY-93" target="QTGATzNPk6tVHaJ0kIiY-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-93" value="Manual/Auto Merge setup" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="504" y="4340" width="132" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-95" value="Golden Record&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="690.7844897959183" y="4342.1866666666665" width="123.21428571428571" height="40.63" as="geometry" />
+        </mxCell>
+        <mxCell id="QTGATzNPk6tVHaJ0kIiY-97" value="Mapping" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="76.85" y="4460" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
