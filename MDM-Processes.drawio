@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T15:28:01.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="BBzr9tu7-Bo5hb65QbjB" version="14.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-01T15:31:23.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="uoAvA5jEO7r1EAUMb7Uz" version="14.7.3" type="github" pages="2">
   <diagram id="haYwg5NGreRRzmMgYrGO" name="Processes">
     <mxGraphModel dx="1102" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,7 +588,7 @@
         <mxCell id="jzfPq77xKuOD2I9kvFG2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rmufA5AaS3VPiPs6YPNS-0" source="jzfPq77xKuOD2I9kvFG2-32" target="jzfPq77xKuOD2I9kvFG2-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzfPq77xKuOD2I9kvFG2-32" value="Status updated" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rmufA5AaS3VPiPs6YPNS-0">
+        <mxCell id="jzfPq77xKuOD2I9kvFG2-32" value="Customer status updated" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rmufA5AaS3VPiPs6YPNS-0">
           <mxGeometry x="920" y="249.92000000000002" width="120" height="35.43" as="geometry" />
         </mxCell>
         <mxCell id="jzfPq77xKuOD2I9kvFG2-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rmufA5AaS3VPiPs6YPNS-0" source="jzfPq77xKuOD2I9kvFG2-2" target="jzfPq77xKuOD2I9kvFG2-70">
