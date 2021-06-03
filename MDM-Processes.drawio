@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T09:09:36.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="8cbFDF-aN92naElAXnrr" version="14.7.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-03T09:10:47.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="pDwwIaM859d8nut61xJu" version="14.7.4" type="github" pages="8">
   <diagram id="haYwg5NGreRRzmMgYrGO" name="Processes">
-    <mxGraphModel dx="1102" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1824,82 +1824,6 @@
         </mxCell>
         <mxCell id="hBq0MAJlswc4zJUHG01L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="fpF_8asVpLwHQFL1ILy2-1" source="hBq0MAJlswc4zJUHG01L-8" target="fpF_8asVpLwHQFL1ILy2-39">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Customer DQ Monitoring" id="AEh6fWde8rPxfsGeoUL3">
-    <mxGraphModel dx="1102" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-0" />
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-1" parent="0ZAI7EZysZoh2RuqKxVV-0" />
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-2" value="" style="group" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1" connectable="0">
-          <mxGeometry x="31" y="-670" width="1130" height="366.67" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-3" value="Sales Reps" style="swimlane;startSize=30;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-2" vertex="1">
-          <mxGeometry y="-30" width="1130" height="84.91" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-5" value="CRM" style="swimlane;startSize=30;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-2" vertex="1">
-          <mxGeometry y="54.91" width="1130" height="64.47" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-7" value="DQ" style="swimlane;startSize=30;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-2" vertex="1">
-          <mxGeometry y="119.38" width="1130" height="79.62" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-20" value="MDM" style="swimlane;startSize=30;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="31" y="-471" width="1129" height="141" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="34" y="-750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-22" value="Human Processes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="58" y="-750" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="198" y="-750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-24" value="MDM Processes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="214" y="-750" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="354" y="-750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-26" value="Middleware processes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="377" y="-750" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="538" y="-750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-28" value="3rd Party Processes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="566" y="-750" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="683" y="-750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-30" value="Golden Record" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="700" y="-750" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-31" value="Local OpCo&#xa;Systems" style="swimlane;startSize=31;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="30" y="-237" width="1130" height="87" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-32" value="External &#xa;Systems" style="swimlane;startSize=31;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="30" y="-330" width="1130" height="93" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ZAI7EZysZoh2RuqKxVV-33" value="Target&#xa;Systems" style="swimlane;startSize=31;horizontal=0;" parent="0ZAI7EZysZoh2RuqKxVV-1" vertex="1">
-          <mxGeometry x="31" y="-150" width="1130" height="87" as="geometry">
-            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
