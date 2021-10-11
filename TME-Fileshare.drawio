@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T09:03:55.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="xQ91_K0zxDK-S724Fiqe" version="15.0.6" type="github" pages="2">
-  <diagram id="RJTE_h8VSLth2EyMXipS" name="Page-1">
-    <mxGraphModel dx="1102" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-10-11T09:31:04.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="if86uDrfVwb5J0d9Qs-M" version="15.4.0" type="github" pages="2">
+  <diagram id="RJTE_h8VSLth2EyMXipS" name="Option-1">
+    <mxGraphModel dx="1102" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,49 +35,85 @@
             <mxPoint x="260" y="77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="SAObJG75OWpJmbOQa_pi" name="Page-2">
-    <mxGraphModel dx="1102" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-0" />
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-1" parent="afgh8W0y2aVcc69Eiy0E-0" />
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="afgh8W0y2aVcc69Eiy0E-1" source="afgh8W0y2aVcc69Eiy0E-4" edge="1">
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c9EcS_xWmVIi2Dikp1ZK-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="110" as="targetPoint" />
+            <mxPoint x="499" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-4" value="&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;//&amp;lt;HOST&amp;gt;/&amp;lt;FOLDER_NAME&amp;gt;/&amp;lt;IMAGE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/link_go.png" parent="afgh8W0y2aVcc69Eiy0E-1" vertex="1">
-          <mxGeometry x="260" y="60" width="32" height="32" as="geometry" />
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-2" value="&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;//&amp;lt;HOST&amp;gt;/&amp;lt;FOLDER_NAME&amp;gt;/&amp;lt;IMAGE&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/link_go.png" vertex="1" parent="1">
+          <mxGeometry x="279" y="450" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-5" value="User account" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" parent="afgh8W0y2aVcc69Eiy0E-1" vertex="1">
-          <mxGeometry x="60" y="50" width="50" height="48.5" as="geometry" />
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-3" value="User account" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="79" y="440" width="50" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="afgh8W0y2aVcc69Eiy0E-1" source="afgh8W0y2aVcc69Eiy0E-8" edge="1" target="ipdxsDrqrWAuk1Y7_ozC-0">
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c9EcS_xWmVIi2Dikp1ZK-6" target="c9EcS_xWmVIi2Dikp1ZK-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="178" as="targetPoint" />
+            <mxPoint x="529" y="568" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-7" value="JAVA FILE IO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="afgh8W0y2aVcc69Eiy0E-6" vertex="1" connectable="0">
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-5" value="JAVA FILE IO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c9EcS_xWmVIi2Dikp1ZK-4">
           <mxGeometry x="-0.2955" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-8" value="Application" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/SDKs_copy_Java-128.png" parent="afgh8W0y2aVcc69Eiy0E-1" vertex="1">
-          <mxGeometry x="50" y="198" width="80" height="80" as="geometry" />
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-6" value="Application" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/SDKs_copy_Java-128.png" vertex="1" parent="1">
+          <mxGeometry x="69" y="588" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="afgh8W0y2aVcc69Eiy0E-9" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="afgh8W0y2aVcc69Eiy0E-1" edge="1">
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-7" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="77" as="sourcePoint" />
-            <mxPoint x="260" y="77" as="targetPoint" />
+            <mxPoint x="139" y="467" as="sourcePoint" />
+            <mxPoint x="279" y="467" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipdxsDrqrWAuk1Y7_ozC-0" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
-          <mxGeometry x="460" y="118" width="80" height="80" as="geometry" />
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-8" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="479" y="508" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ipdxsDrqrWAuk1Y7_ozC-3" value="&lt;h1&gt;Shared Folder&lt;/h1&gt;&lt;p&gt;1. Accessible by authenticated user group(s) only.&lt;/p&gt;&lt;p&gt;2. Regular clean activity has to be defined. Files should be deleted after 30 days.&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
-          <mxGeometry x="550" y="60" width="190" height="162" as="geometry" />
+        <mxCell id="c9EcS_xWmVIi2Dikp1ZK-9" value="&lt;h1&gt;Shared Folder&lt;/h1&gt;&lt;p&gt;1. Accessible by authenticated user group(s) only.&lt;/p&gt;&lt;p&gt;2. Regular clean activity has to be defined. Files should be deleted after 30 days.&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="569" y="450" width="190" height="162" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SAObJG75OWpJmbOQa_pi" name="Option-2">
+    <mxGraphModel dx="1102" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="afgh8W0y2aVcc69Eiy0E-0" />
+        <mxCell id="afgh8W0y2aVcc69Eiy0E-1" parent="afgh8W0y2aVcc69Eiy0E-0" />
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="afgh8W0y2aVcc69Eiy0E-1" source="DeBJk4nhlfLKa8_icn3x-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-1" value="&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;//&amp;lt;HOST&amp;gt;/DownloadServlet/?filename=Reoprt123.xls&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/link_go.png" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
+          <mxGeometry x="279" y="450" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-2" value="User account" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
+          <mxGeometry x="79" y="440" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="afgh8W0y2aVcc69Eiy0E-1" source="DeBJk4nhlfLKa8_icn3x-5" target="DeBJk4nhlfLKa8_icn3x-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-4" value="Uploads files in IMM using PIM-API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DeBJk4nhlfLKa8_icn3x-3">
+          <mxGeometry x="-0.2955" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-5" value="Java Uploader" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/SDKs_copy_Java-128.png" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
+          <mxGeometry x="69" y="588" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-6" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="afgh8W0y2aVcc69Eiy0E-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="467" as="sourcePoint" />
+            <mxPoint x="279" y="467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-7" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
+          <mxGeometry x="479" y="508" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DeBJk4nhlfLKa8_icn3x-8" value="&lt;h1&gt;Media Manager&lt;/h1&gt;&lt;p&gt;1. Accessible by authenticated user group(s) only.&lt;/p&gt;&lt;p&gt;2. Regular clean activity has to be defined. Files should be deleted after 30 days.&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="afgh8W0y2aVcc69Eiy0E-1">
+          <mxGeometry x="569" y="450" width="190" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
