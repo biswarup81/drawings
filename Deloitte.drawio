@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T12:57:06.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="ZT7OlSPwPzOOv8yHjgRU" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T12:57:49.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="skiBHbW1JXIr6ajQrzR_" version="15.7.4" type="github">
   <diagram id="hHVHGPB__OEgV-n0ZHnZ" name="Page-1">
     <mxGraphModel dx="1102" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -387,8 +387,8 @@
         <mxCell id="675HwpJTXZrzleELEa9g-150" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="990" y="-348.61" width="212" height="110.00000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="675HwpJTXZrzleELEa9g-151" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;nbsp; &amp;nbsp; Golden record creation with merge and match and survivorship is out of the box in INFA MDM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#fff2cc;strokeColor=#0D0D0D;" parent="675HwpJTXZrzleELEa9g-150" vertex="1">
-          <mxGeometry x="16.600000000000023" y="18.57000000000005" width="195.4" height="91.43" as="geometry" />
+        <mxCell id="675HwpJTXZrzleELEa9g-151" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Single record of Truth&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#fff2cc;strokeColor=#0D0D0D;" parent="675HwpJTXZrzleELEa9g-150" vertex="1">
+          <mxGeometry x="16.6" y="18.61" width="195.4" height="40" as="geometry" />
         </mxCell>
         <mxCell id="675HwpJTXZrzleELEa9g-152" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/gradient-ui-1/512/success-128.png;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#0066CC;strokeWidth=3;fillColor=none;gradientColor=none;fontSize=12;" parent="675HwpJTXZrzleELEa9g-150" vertex="1">
           <mxGeometry width="40" height="40" as="geometry" />
