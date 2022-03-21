@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T13:30:02.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="k8pIgwbZzgIwIcNqGuo6" version="17.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-21T14:23:32.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="vTNAjb10lV-iTsIVcoBu" version="17.1.3" type="github" pages="3">
   <diagram id="8M2O4OihS5HP1OsJUyhc" name="Processes">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PqmwsyUcsr4RiKJ7gCox" name="Data Quality Processes">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wWB6iQdm5a10fe4KRY5G-0" />
         <mxCell id="wWB6iQdm5a10fe4KRY5G-1" parent="wWB6iQdm5a10fe4KRY5G-0" />
@@ -128,6 +128,85 @@
         </mxCell>
         <mxCell id="ZrQ1AF8uoY7B4ii7fc5H-2" value="Corrective Measure" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;fontStyle=1;strokeColor=#82b366;" vertex="1" parent="wWB6iQdm5a10fe4KRY5G-1">
           <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zwx4aOVyE7zixKXOMeoB" name="Corrective measure">
+    <mxGraphModel dx="1422" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="oH8rDWgnBw2sqh2rMWox-0" />
+        <mxCell id="oH8rDWgnBw2sqh2rMWox-1" parent="oH8rDWgnBw2sqh2rMWox-0" />
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-0" target="sMwCWJw5Tc_Nz7eYkhnB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-0" value="System notifies the DW Issue to BDDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9924;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="60" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-4" target="sMwCWJw5Tc_Nz7eYkhnB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-4" value="Delegates the problem with MDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-14" target="sMwCWJw5Tc_Nz7eYkhnB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-14" value="Correct Master Data" style="whiteSpace=wrap;html=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-16" value="MDS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="480" y="150" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-17" target="sMwCWJw5Tc_Nz7eYkhnB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-17" target="sMwCWJw5Tc_Nz7eYkhnB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-17" value="Identifies the attribute which is failing" style="whiteSpace=wrap;html=1;fillColor=#FF9924;rounded=0;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-20" target="sMwCWJw5Tc_Nz7eYkhnB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-20" value="Notify BBDS" style="whiteSpace=wrap;html=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="700" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-22" target="sMwCWJw5Tc_Nz7eYkhnB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-22" value="Check DQ Dashboard" style="whiteSpace=wrap;html=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="700" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-35" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-24" target="sMwCWJw5Tc_Nz7eYkhnB-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-24" target="sMwCWJw5Tc_Nz7eYkhnB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-24" value="Meet KPI" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="80" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-36" target="sMwCWJw5Tc_Nz7eYkhnB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-36" value="Delegates the problem with Product Owner" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oH8rDWgnBw2sqh2rMWox-1" source="sMwCWJw5Tc_Nz7eYkhnB-38" target="sMwCWJw5Tc_Nz7eYkhnB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-38" value="Check and correct Transformation" style="whiteSpace=wrap;html=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="550" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-41" value="Product Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="480" y="-20" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sMwCWJw5Tc_Nz7eYkhnB-44" value="DQ Ready" style="whiteSpace=wrap;html=1;" vertex="1" parent="oH8rDWgnBw2sqh2rMWox-1">
+          <mxGeometry x="60" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
