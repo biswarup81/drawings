@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T10:15:14.537Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.0.6" etag="3Dc2FqUnJAyFoHueL04_" type="github"><diagram id="PzXCw5IkMEW5EsFKZ_j3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-26T10:19:03.437Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="6unhhfkQGjHs4t0zq0vb" version="18.0.6" type="github">
+  <diagram id="PzXCw5IkMEW5EsFKZ_j3" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LGfSSTOz11uYERX5loBT-1" value="Create Item for sales in ERP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-2" value="Marketing" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGfSSTOz11uYERX5loBT-3" target="LGfSSTOz11uYERX5loBT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-3" value="Request Item for sales in Sales Force" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-4" value="Marketing" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGfSSTOz11uYERX5loBT-5" target="LGfSSTOz11uYERX5loBT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-5" value="Assign the task to Data Stewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-7" value="Support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-8" value="Create Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-10" value="Data Steward" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.3333333333333333;arrowSize=0.73;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-12" value="TO-BE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfSSTOz11uYERX5loBT-13" value="AS/IS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
