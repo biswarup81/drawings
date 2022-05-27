@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T12:29:07.534Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="CXInI0fiSP6tu13eGB11" version="18.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-27T12:31:06.502Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="QgGZviKf11iWTGz30Ynb" version="18.0.6" type="github" pages="2">
   <diagram id="PzXCw5IkMEW5EsFKZ_j3" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
         <mxCell id="gsq1RMcp_gtOwSmjot5H-1" value="Validate and Approve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
           <mxGeometry x="640" y="550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=baseDash;endFill=0;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="gsq1RMcp_gtOwSmjot5H-3" target="gsq1RMcp_gtOwSmjot5H-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gsq1RMcp_gtOwSmjot5H-3" value="Data Pushed to ERP and other web channels Automatically" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
           <mxGeometry x="640" y="640" width="120" height="86" as="geometry" />
         </mxCell>
@@ -132,8 +135,8 @@
         <mxCell id="gsq1RMcp_gtOwSmjot5H-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=baseDash;endFill=0;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="gsq1RMcp_gtOwSmjot5H-6" target="gsq1RMcp_gtOwSmjot5H-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gsq1RMcp_gtOwSmjot5H-6" value="Quality Check, Standardization in PIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
-          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-6" value="Validation, Quality Check, Standardization in PIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="440" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gsq1RMcp_gtOwSmjot5H-9" value="PIM System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
           <mxGeometry x="520" y="450" width="30" height="60" as="geometry" />
@@ -142,10 +145,13 @@
           <mxGeometry x="190" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gsq1RMcp_gtOwSmjot5H-12" value="PIM Specialist are responsible for creating and changing Rules/Standardization in PIM System" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
-          <mxGeometry x="840" y="430" width="220" height="100" as="geometry" />
+          <mxGeometry x="840" y="425" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gsq1RMcp_gtOwSmjot5H-14" value="1. Forms in PIM (single item)&lt;br&gt;2. Excel upload using template(Bulk upload)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
           <mxGeometry x="840" y="344" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-16" value="Assortments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="850" y="665" width="120" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
