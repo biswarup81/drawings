@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T10:19:22.703Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="OG97HYO9gGrCQnoQfbtM" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T12:29:07.534Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="CXInI0fiSP6tu13eGB11" version="18.0.6" type="github" pages="2">
   <diagram id="PzXCw5IkMEW5EsFKZ_j3" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LGfSSTOz11uYERX5loBT-1" value="Create Item for sales in ERP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGfSSTOz11uYERX5loBT-2" value="Marketing" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="LGfSSTOz11uYERX5loBT-2" value="Sales Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGfSSTOz11uYERX5loBT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGfSSTOz11uYERX5loBT-3" target="LGfSSTOz11uYERX5loBT-5">
@@ -16,7 +16,7 @@
         <mxCell id="LGfSSTOz11uYERX5loBT-3" value="Request Item for sales in Sales Force" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGfSSTOz11uYERX5loBT-4" value="Marketing" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="LGfSSTOz11uYERX5loBT-4" value="Sales Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGfSSTOz11uYERX5loBT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGfSSTOz11uYERX5loBT-5" target="LGfSSTOz11uYERX5loBT-8">
@@ -42,6 +42,110 @@
         </mxCell>
         <mxCell id="LGfSSTOz11uYERX5loBT-13" value="AS-IS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="process-2" id="Q6PO5SMpQeCy-UyQfohj">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-0" />
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-1" parent="Ptt34r3FNiA7aP2ik_N4-0" />
+        <mxCell id="Pp5x3KJrubbFsSZ6sf9U-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Ptt34r3FNiA7aP2ik_N4-2" target="Pp5x3KJrubbFsSZ6sf9U-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-2" value="Create Item for sales in ERP without any validation and standarization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="190" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-3" value="Sales Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="90" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Ptt34r3FNiA7aP2ik_N4-5" target="Ptt34r3FNiA7aP2ik_N4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-5" value="Request Item for sales in SalesForce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="64" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-6" value="Sales Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="520" y="64" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Ptt34r3FNiA7aP2ik_N4-8" target="Ptt34r3FNiA7aP2ik_N4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-8" value="Assign the task to Data Stewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-9" value="Support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="520" y="204" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Ptt34r3FNiA7aP2ik_N4-10" target="gsq1RMcp_gtOwSmjot5H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=baseDash;endFill=0;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Ptt34r3FNiA7aP2ik_N4-10" target="gsq1RMcp_gtOwSmjot5H-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-10" value="Create or Clone Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-11" value="Data Steward" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="520" y="344" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.3333333333333333;arrowSize=0.73;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="360" y="100" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-13" value="TO-BE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="425" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptt34r3FNiA7aP2ik_N4-14" value="AS-IS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="75" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pp5x3KJrubbFsSZ6sf9U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Pp5x3KJrubbFsSZ6sf9U-0" target="Pp5x3KJrubbFsSZ6sf9U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pp5x3KJrubbFsSZ6sf9U-0" value="Data Flows to PIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="190" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="Pp5x3KJrubbFsSZ6sf9U-2" target="gsq1RMcp_gtOwSmjot5H-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pp5x3KJrubbFsSZ6sf9U-2" value="Cleansing, standardization, classification in PIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="190" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pp5x3KJrubbFsSZ6sf9U-4" value="PIM Specialist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="95" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-0" value="Product Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="520" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="gsq1RMcp_gtOwSmjot5H-1" target="gsq1RMcp_gtOwSmjot5H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-1" value="Validate and Approve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-3" value="Data Pushed to ERP and other web channels Automatically" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="640" width="120" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="gsq1RMcp_gtOwSmjot5H-6" target="gsq1RMcp_gtOwSmjot5H-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=baseDash;endFill=0;" edge="1" parent="Ptt34r3FNiA7aP2ik_N4-1" source="gsq1RMcp_gtOwSmjot5H-6" target="gsq1RMcp_gtOwSmjot5H-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-6" value="Quality Check, Standardization in PIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-9" value="PIM System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="520" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-10" value="Data Pushed to ERP and other web channels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="190" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-12" value="PIM Specialist are responsible for creating and changing Rules/Standardization in PIM System" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="840" y="430" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gsq1RMcp_gtOwSmjot5H-14" value="1. Forms in PIM (single item)&lt;br&gt;2. Excel upload using template(Bulk upload)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ptt34r3FNiA7aP2ik_N4-1">
+          <mxGeometry x="840" y="344" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
