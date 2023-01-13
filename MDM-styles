@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T10:57:42.433Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="42UFGkNKYlJZ5VMVq3x_" type="github"><diagram id="Psri-TFsemz7hhDMWiOh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-13T11:05:34.110Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="W77UwbHM4FqYl6PuyqWk" type="github">
+  <diagram id="Xm0Fu6yn81C51GhZnBta" name="Page-1">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-1" value="Registry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="34" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-2" value="Consolidation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oedo2zX1hV7UhkBh7n0z-1" target="Oedo2zX1hV7UhkBh7n0z-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194" y="210" as="sourcePoint" />
+            <mxPoint x="244" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-4" value="Stewardship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="172" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oedo2zX1hV7UhkBh7n0z-7" target="Oedo2zX1hV7UhkBh7n0z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-7" value="Co-existance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="498" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Oedo2zX1hV7UhkBh7n0z-2" target="Oedo2zX1hV7UhkBh7n0z-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="140" as="sourcePoint" />
+            <mxPoint x="304" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-10" value="Update to Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-11" value="Operational/&lt;br&gt;Transactional/&lt;br&gt;Centralized" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="714" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oedo2zX1hV7UhkBh7n0z-13" value="Central MDM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
