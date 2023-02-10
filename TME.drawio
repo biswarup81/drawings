@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T10:10:41.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zKF5SnYQ41Kf-ps94idI" version="20.8.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-10T10:18:42.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lKlpCavdTFuD57JG_zEb" version="20.8.18" type="github" pages="6">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust-Portal - INFA">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,12 +131,9 @@
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-2" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" vertex="1" parent="1">
           <mxGeometry x="442" y="186" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OrqWzSjP3aU3WPAsT8gT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="RqYj1Fic9LRMK6Ap2Z2q-3" target="OrqWzSjP3aU3WPAsT8gT-1">
+        <mxCell id="OrqWzSjP3aU3WPAsT8gT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;" edge="1" parent="1" source="fzvRdtjxUZJkbR7ym9By-3" target="OrqWzSjP3aU3WPAsT8gT-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1030" y="231" />
-              <mxPoint x="1030" y="425" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-3" value="Informatica C360 SaaS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;" vertex="1" parent="1">
@@ -152,10 +149,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-6" value="Attributes" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=GWfvRAXIjcSH;" vertex="1" parent="1">
-          <mxGeometry x="272" y="285" width="50" height="49" as="geometry" />
+        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Attributes to publish&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=GWfvRAXIjcSH;" vertex="1" parent="1">
+          <mxGeometry x="917" y="100" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-7" value="MongoDB Connector" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;lucidId=8WfvRNrdkDAF;" vertex="1" parent="1">
+        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-7" value="MongoDB Connector" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;lucidId=8WfvRNrdkDAF;" vertex="1" parent="1">
           <mxGeometry x="472" y="285" width="78" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-8" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
@@ -206,7 +203,7 @@
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-22" value="Relationship" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" vertex="1" parent="RqYj1Fic9LRMK6Ap2Z2q-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-23" value="MongoDB" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=MpmvVpDzw-.8;" vertex="1" parent="1">
+        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MongoDB&lt;br&gt;hosted in AWS&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=MpmvVpDzw-.8;" vertex="1" parent="1">
           <mxGeometry x="157" y="276" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-10" value="Data Mapping" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
@@ -221,11 +218,33 @@
         <mxCell id="OrqWzSjP3aU3WPAsT8gT-5" value="Downstream Application&lt;br&gt;(Consume the messageas)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="200" y="392" width="130" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="fzvRdtjxUZJkbR7ym9By-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=none;" edge="1" parent="1" source="RqYj1Fic9LRMK6Ap2Z2q-3" target="fzvRdtjxUZJkbR7ym9By-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="967" y="231" as="sourcePoint" />
+            <mxPoint x="700" y="425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="231" />
+              <mxPoint x="1030" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzvRdtjxUZJkbR7ym9By-3" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" vertex="1" parent="1">
+          <mxGeometry x="877" y="386.5" width="120" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AT4f37tP4Nv576xhiSoV-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Attributes to ingest&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=bUlvYQVKywe3;" vertex="1" parent="1">
+          <mxGeometry x="270" y="288" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="AT4f37tP4Nv576xhiSoV-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="880" y="94" width="20" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="AT4f37tP4Nv576xhiSoV-4" value="Data Mapping" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="825.125" y="80" width="38.875" height="89" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="UVDug5b21YhGtQuizG79" name="INFA - Cust Portal">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
