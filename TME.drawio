@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T15:29:53.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Nk8-fJTi7xlFhww2Bbe3" version="20.8.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-10T15:53:44.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="c_mZc3SisZ4Ut21DJIt4" version="20.8.18" type="github" pages="6">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
-    <mxGraphModel dx="2534" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust-Portal - INFA">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,6 +377,9 @@
         </mxCell>
         <mxCell id="9bwRXOG8_oiSmjypCv_q-17" value="sourcePK2.1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="38--m0pIiYdEIvijsGhO-1">
           <mxGeometry x="315" y="1340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7NgZBLjTuj6qDK36TPR-0" value="MDM_ID and all the consolidated attribute for person and organization" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" vertex="1" parent="38--m0pIiYdEIvijsGhO-1">
+          <mxGeometry x="720" y="160" width="100" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
