@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T14:26:36.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0nD5oftd_Y1TvycM8WUm" version="20.8.20" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-13T14:27:02.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="35ivGhWcc9i6Di4mJN-b" version="20.8.20" type="github" pages="7">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
     <mxGraphModel dx="2534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -439,25 +439,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-1" value="1. Extract" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VqQqrb6Ma-tYH99k6fd2-2" target="VqQqrb6Ma-tYH99k6fd2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-2" value="2. Transform" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-3" value="3. Load" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="740" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-6" value="Extract data from a source and load to a staging area" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="190" height="100" as="geometry" />
+          <mxGeometry x="60" y="120" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-7" value="Cleanse and transform the staged data." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="190" height="100" as="geometry" />
+          <mxGeometry x="320" y="120" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VqQqrb6Ma-tYH99k6fd2-8" value="Load the cleansed data to a target asset" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="720" y="290" width="190" height="100" as="geometry" />
+          <mxGeometry x="580" y="120" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
