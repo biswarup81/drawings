@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T12:05:59.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qWBvceHoMtxsLcaTdl8C" version="20.8.20" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-02-14T12:06:15.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Kk1grQ8A3ZQQXonI8D4u" version="20.8.20" type="github" pages="9">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
     <mxGraphModel dx="2534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -548,7 +548,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6AaaQi1rOL5PPzXIvO7-6" value="Name, Address, E-Mail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="_6AaaQi1rOL5PPzXIvO7-4">
+        <mxCell id="_6AaaQi1rOL5PPzXIvO7-6" value="Name, Address, E-Mail etc.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="_6AaaQi1rOL5PPzXIvO7-4">
           <mxGeometry x="-0.6463" y="-4" relative="1" as="geometry">
             <mxPoint x="16" y="-24" as="offset" />
           </mxGeometry>
