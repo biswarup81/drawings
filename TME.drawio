@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T11:49:55.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uJYU4mKi9ukzPu3xijZQ" version="20.8.20" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-14T11:51:30.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="puzsGeMKtorklDN39B2c" version="20.8.20" type="github" pages="8">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
     <mxGraphModel dx="2534" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -327,9 +327,6 @@
         <mxCell id="38--m0pIiYdEIvijsGhO-10" value="Created and updated Golden Records" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
           <mxGeometry x="360" y="260" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="38--m0pIiYdEIvijsGhO-12" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json;gradientColor=#DFDEDE;fontSize=14;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
-          <mxGeometry x="588.8" y="217.6" width="102.4" height="102.4" as="geometry" />
-        </mxCell>
         <mxCell id="38--m0pIiYdEIvijsGhO-14" value="Ingested into Azure Data Lake&lt;br&gt;(Part of DMS System)" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
           <mxGeometry x="900" y="190" width="140" height="120" as="geometry" />
         </mxCell>
@@ -339,22 +336,23 @@
             <mxPoint x="580" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9bwRXOG8_oiSmjypCv_q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="38--m0pIiYdEIvijsGhO-1" target="38--m0pIiYdEIvijsGhO-12" edge="1">
+        <mxCell id="9bwRXOG8_oiSmjypCv_q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="38--m0pIiYdEIvijsGhO-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="175" as="sourcePoint" />
+            <mxPoint x="640" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9bwRXOG8_oiSmjypCv_q-4" value="Immediately sends the reords" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
           <mxGeometry x="195" y="230" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9bwRXOG8_oiSmjypCv_q-5" value="Azure Blob Storage Connector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
+        <mxCell id="9bwRXOG8_oiSmjypCv_q-5" value="SFTP connectors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
           <mxGeometry x="360" y="70" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c7NgZBLjTuj6qDK36TPR-0" value="MDM_ID and all the consolidated attribute for person and organization" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=13;" parent="38--m0pIiYdEIvijsGhO-1" vertex="1">
           <mxGeometry x="720" y="187" width="120" height="113" as="geometry" />
         </mxCell>
         <mxCell id="2r1TqHAxbQ7AUt01euSl-1" value="CSV" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/file-text-o-128.png;fontSize=16;" vertex="1" parent="38--m0pIiYdEIvijsGhO-1">
-          <mxGeometry x="605" y="340" width="70" height="70" as="geometry" />
+          <mxGeometry x="608" y="235" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OX9QYKvmN1nc2aOrDXYn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;endArrow=none;" edge="1" parent="38--m0pIiYdEIvijsGhO-1" target="OX9QYKvmN1nc2aOrDXYn-0">
           <mxGeometry relative="1" as="geometry">
