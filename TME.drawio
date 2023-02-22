@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T15:42:49.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Yn875qCjej-U1HNERNfI" version="20.8.20" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-22T16:21:36.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="E7GAzLZ5tC0gz92IDvof" version="20.8.20" type="github" pages="15">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
     <mxGraphModel dx="2534" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -396,7 +396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Rough-Copy" id="q3nbPFHhG3eIU3_PXTyN">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="IGOvzx2a-Q8EaSg4keQB-0" />
         <mxCell id="IGOvzx2a-Q8EaSg4keQB-1" parent="IGOvzx2a-Q8EaSg4keQB-0" />
@@ -484,7 +484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GoDRqRCyeNko47vE2_tg" name="Publish-JSON">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,7 +495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zu0FmYBq3nrZf4LQwaN9" name="PK-FK-Integration">
-    <mxGraphModel dx="1434" dy="-54" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="-111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bbi50HxAAe09NS8PjSEP" name="exctract-transform-load (MDM)">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,7 +559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xMMUa4bT3e4jTUvDhEqV" name="Ingestion-DMS">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1059,6 +1059,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0dmjFG-VNGugwyKYdHGU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#050505;" edge="1" parent="1" source="uwXsixBLd8bJvzO36mOU-2" target="0dmjFG-VNGugwyKYdHGU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uwXsixBLd8bJvzO36mOU-2" value="Customer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1124,6 +1127,12 @@
         </mxCell>
         <mxCell id="uwXsixBLd8bJvzO36mOU-31" value="Has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="710" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0dmjFG-VNGugwyKYdHGU-1" value="Dealer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="312" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0dmjFG-VNGugwyKYdHGU-3" value="Preferred Dealer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
