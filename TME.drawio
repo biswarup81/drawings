@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T10:37:03.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Qsluy5h2NEKmt6UiWhXO" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-23T10:39:57.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-cvJgbknpgqXc7uWd-An" version="20.8.20" type="github" pages="16">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
     <mxGraphModel dx="2534" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
         <mxCell id="iavFKJaPp_5RSXFfakQU-6" value="Business need of publication and&amp;nbsp; it&#39;s impact has to be called out" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="510" width="217.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iavFKJaPp_5RSXFfakQU-7" value="All the attributes of customer portal.&amp;nbsp;&lt;br&gt;Any Additional attributes is under discussion" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+        <mxCell id="iavFKJaPp_5RSXFfakQU-7" value="All the attributes of customer portal.&amp;nbsp;&lt;br&gt;&lt;i&gt;Any Additional attributes is under discussion&lt;/i&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
           <mxGeometry x="987" y="40" width="98" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Eynk5AJ8al8NvpA766xT-1" value="Using &lt;b&gt;&lt;i&gt;Cloud Application Integration (CAI)&lt;/i&gt;&lt;/b&gt;. it is possible to integrate near-real time events from Customer 360 SaaS" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#da1010;" vertex="1" parent="1">
