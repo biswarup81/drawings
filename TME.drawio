@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T10:25:02.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sH1EVH0j7ofpgxvbKi29" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-23T10:25:43.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YjXvMxGlSNvFxQv3KMFw" version="20.8.20" type="github" pages="16">
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
     <mxGraphModel dx="2534" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
           <mxGeometry x="825.125" y="80" width="38.875" height="89" as="geometry" />
         </mxCell>
         <mxCell id="KaWcFXeA7FNh-Y4rB5F8-2" value="B360 Connector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="757" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="744" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KaWcFXeA7FNh-Y4rB5F8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaWcFXeA7FNh-Y4rB5F8-3" target="RqYj1Fic9LRMK6Ap2Z2q-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
