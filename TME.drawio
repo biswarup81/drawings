@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T09:07:17.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Wd7XM7gbldd58PhRC0ig" version="20.8.23" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-02-24T10:31:03.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="smKmM4jE1GMyjCnhZloc" version="20.8.23" type="github" pages="13">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
           <mxGeometry x="-885" y="299" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-7" value="MSD Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" parent="1" vertex="1">
-          <mxGeometry x="-685" y="299" width="60" height="60" as="geometry" />
+          <mxGeometry x="-700" y="299" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-8" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
           <mxGeometry x="-810" y="290" width="50" height="89" as="geometry" />
@@ -263,7 +263,7 @@
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-18" value="Hierarchy" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=0.8;lucidId=bUlvytaZ2RYU;" parent="1" vertex="1">
           <mxGeometry x="-220" y="306" width="65" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;" parent="1" source="PYleG9Tigm1waNkjYXM3-1" target="55Xy1Wuzpp9JHucnG_1e-1" edge="1">
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;" parent="1" source="55ZpHvoEU4gKxhg3eMm8-4" target="55Xy1Wuzpp9JHucnG_1e-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1037" y="558" />
@@ -300,6 +300,37 @@
         </mxCell>
         <mxCell id="dSxSk_7cQHGUhECG6MVQ-1" value="Person to Vehicle relationship" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-140" y="425" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-1" value="Synchronization Task" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-639" y="120" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Need info about the interval&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-655.25" y="14" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-3" value="Synchronization Task" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-282.5" y="580" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-5" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PYleG9Tigm1waNkjYXM3-1" target="55ZpHvoEU4gKxhg3eMm8-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-205" y="558" as="sourcePoint" />
+            <mxPoint x="-940" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-4" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=bUlvn9g4rLrz;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="512.75" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-6" value="MSD Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="610" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-7" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="610" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-8" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="55ZpHvoEU4gKxhg3eMm8-7">
+          <mxGeometry width="8.25" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-9" value="Connects  MSD to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="55ZpHvoEU4gKxhg3eMm8-7">
+          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1076,7 +1107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pqziB8kc1PgE-bA7k1TG" name="Multi country roll-out">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
