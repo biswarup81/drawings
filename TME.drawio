@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T10:31:03.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="smKmM4jE1GMyjCnhZloc" version="20.8.23" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-02-24T10:31:42.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ORLb1myGYe60p4CMU0BO" version="20.8.23" type="github" pages="13">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -331,6 +331,9 @@
         </mxCell>
         <mxCell id="55ZpHvoEU4gKxhg3eMm8-9" value="Connects  MSD to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="55ZpHvoEU4gKxhg3eMm8-7">
           <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Need info about the connector&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="380" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
