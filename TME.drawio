@@ -1,117 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T09:04:56.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OckHDJXEm8rwbrdeT_Gu" version="20.8.23" type="github" pages="13">
-  <diagram id="YAG_m8FKvapoZAz-z-hm" name="MSD-INFA">
-    <mxGraphModel dx="2534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-1" value="MSD" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=bUlvpztL_vZH;" parent="1" vertex="1">
-          <mxGeometry x="-940" y="215" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-2" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=bUlvn9g4rLrz;" parent="1" vertex="1">
-          <mxGeometry x="-715" y="200" width="210" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="PYleG9Tigm1waNkjYXM3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;strokeColor=#ac1111;" parent="1" target="PYleG9Tigm1waNkjYXM3-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-185" y="245" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-15" y="245" />
-              <mxPoint x="-15" y="558" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-3" value="Informatica C360 SaaS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=bUlvinlmgR~6;" parent="1" vertex="1">
-          <mxGeometry x="-385" y="200" width="195" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-4" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=bUlvj-nnMmwv;" parent="1" source="55Xy1Wuzpp9JHucnG_1e-1" target="55Xy1Wuzpp9JHucnG_1e-2" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-5" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=bUlvlj02tcWa;" parent="1" source="55Xy1Wuzpp9JHucnG_1e-2" target="55Xy1Wuzpp9JHucnG_1e-3" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-6" value="Attributes" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=bUlvYQVKywe3;" parent="1" vertex="1">
-          <mxGeometry x="-885" y="299" width="50" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-7" value="MSD Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" parent="1" vertex="1">
-          <mxGeometry x="-685" y="299" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-8" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="290" width="50" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-9" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-8" vertex="1">
-          <mxGeometry width="11.125" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-10" value="Data Mapping" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-8" vertex="1">
-          <mxGeometry x="11.125" width="38.875" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;AWS Secured Agent&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=bUlvb7MhZSi5;" parent="1" vertex="1">
-          <mxGeometry x="-805" y="120" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-12" value="INGRESS JOBS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvAMRIZ7et;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="114" width="90" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-13" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="299" width="125" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-14" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-13" vertex="1">
-          <mxGeometry width="8.25" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-15" value="Connects  MSD to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-13" vertex="1">
-          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-16" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvYD6kmpxl;" parent="1" vertex="1">
-          <mxGeometry x="-395" y="311" width="70" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-17" value="Organizations" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#b85450;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f8cecc;strokeWidth=0.8;lucidId=bUlvPkUPyNve;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="307.5" width="80" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-18" value="Hierarchy" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=0.8;lucidId=bUlvytaZ2RYU;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="306" width="65" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;" parent="1" source="PYleG9Tigm1waNkjYXM3-1" target="55Xy1Wuzpp9JHucnG_1e-1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1037" y="558" />
-              <mxPoint x="-1037" y="245" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-20" value="EGRESS JOBS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" parent="1" vertex="1">
-          <mxGeometry x="-175" y="127" width="90" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-21" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/f46f2021-4d45-42d7-9c89-75c820f80cf2/content;imageAspect=0;lucidId=2Ulv0K1G5tmi;" parent="1" vertex="1">
-          <mxGeometry x="-985" y="298" width="61" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-22" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/9d3bc0cd-0a96-4a7c-a0e9-641003121c62/content;imageAspect=0;lucidId=MWlvqWu-Pxan;" parent="1" vertex="1">
-          <mxGeometry x="-715" y="379" width="245" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-23" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=_0lvATdMyfsU;" parent="1" vertex="1">
-          <mxGeometry x="-385" y="85" width="180" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-24" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Ingest the records sourced from Local CRM and MSD.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Artificial records created during clustering should be filtered out.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=document;boundedLbl=1;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=a5lvIaTQ~gkd;" parent="1" vertex="1">
-          <mxGeometry x="-392" y="49" width="195" height="139" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-31" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Currently MSD contains records from all the srouces&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Additionally one artificial record is created after clustering is also stored in MSD&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=document;boundedLbl=1;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=e~lvVH--_mER;" parent="1" vertex="1">
-          <mxGeometry x="-985" y="379" width="195" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="PYleG9Tigm1waNkjYXM3-1" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="520" width="120" height="75.5" as="geometry" />
-        </mxCell>
-        <mxCell id="PYleG9Tigm1waNkjYXM3-5" value="Using &lt;b&gt;&lt;i&gt;Cloud Application Integration (CAI)&lt;/i&gt;&lt;/b&gt;. it is possible to integrate near-real time events from Customer 360 SaaS" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#da1010;" parent="1" vertex="1">
-          <mxGeometry x="-705" y="570" width="370" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PYleG9Tigm1waNkjYXM3-7" value="MDM_ID and all the attributes which are mapped during ingestion" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="264.5" width="100" height="142" as="geometry" />
-        </mxCell>
-        <mxCell id="dSxSk_7cQHGUhECG6MVQ-1" value="Person to Vehicle relationship" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="425" width="100" height="85" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2023-02-24T09:05:41.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Xk48-9vZpuadzh8dI_55" version="20.8.23" type="github" pages="13">
   <diagram id="Zu0FmYBq3nrZf4LQwaN9" name="PK-FK-Integration">
     <mxGraphModel dx="1434" dy="-54" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -534,6 +421,119 @@
         </mxCell>
         <mxCell id="Eynk5AJ8al8NvpA766xT-10" value="&lt;br&gt;Need to know the delta volume per day" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="12" y="270" width="98" height="103" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YAG_m8FKvapoZAz-z-hm" name="Microsoft Dynamics Integration">
+    <mxGraphModel dx="2534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-1" value="MSD" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=bUlvpztL_vZH;" parent="1" vertex="1">
+          <mxGeometry x="-940" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-2" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=bUlvn9g4rLrz;" parent="1" vertex="1">
+          <mxGeometry x="-715" y="200" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PYleG9Tigm1waNkjYXM3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;strokeColor=#ac1111;" parent="1" target="PYleG9Tigm1waNkjYXM3-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-185" y="245" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-15" y="245" />
+              <mxPoint x="-15" y="558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-3" value="Informatica C360 SaaS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=bUlvinlmgR~6;" parent="1" vertex="1">
+          <mxGeometry x="-385" y="200" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-4" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=bUlvj-nnMmwv;" parent="1" source="55Xy1Wuzpp9JHucnG_1e-1" target="55Xy1Wuzpp9JHucnG_1e-2" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-5" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=bUlvlj02tcWa;" parent="1" source="55Xy1Wuzpp9JHucnG_1e-2" target="55Xy1Wuzpp9JHucnG_1e-3" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-6" value="Attributes" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=bUlvYQVKywe3;" parent="1" vertex="1">
+          <mxGeometry x="-885" y="299" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-7" value="MSD Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" parent="1" vertex="1">
+          <mxGeometry x="-685" y="299" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-8" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="290" width="50" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-9" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-8" vertex="1">
+          <mxGeometry width="11.125" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-10" value="Data Mapping" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-8" vertex="1">
+          <mxGeometry x="11.125" width="38.875" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;AWS Secured Agent&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=bUlvb7MhZSi5;" parent="1" vertex="1">
+          <mxGeometry x="-805" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-12" value="INGRESS JOBS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvAMRIZ7et;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="114" width="90" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-13" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="299" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-14" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-13" vertex="1">
+          <mxGeometry width="8.25" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-15" value="Connects  MSD to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="55Xy1Wuzpp9JHucnG_1e-13" vertex="1">
+          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-16" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvYD6kmpxl;" parent="1" vertex="1">
+          <mxGeometry x="-395" y="311" width="70" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-17" value="Organizations" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#b85450;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f8cecc;strokeWidth=0.8;lucidId=bUlvPkUPyNve;" parent="1" vertex="1">
+          <mxGeometry x="-315" y="307.5" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-18" value="Hierarchy" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=0.8;lucidId=bUlvytaZ2RYU;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="306" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;" parent="1" source="PYleG9Tigm1waNkjYXM3-1" target="55Xy1Wuzpp9JHucnG_1e-1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1037" y="558" />
+              <mxPoint x="-1037" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-20" value="EGRESS JOBS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" parent="1" vertex="1">
+          <mxGeometry x="-175" y="127" width="90" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-21" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/f46f2021-4d45-42d7-9c89-75c820f80cf2/content;imageAspect=0;lucidId=2Ulv0K1G5tmi;" parent="1" vertex="1">
+          <mxGeometry x="-985" y="298" width="61" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-22" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/9d3bc0cd-0a96-4a7c-a0e9-641003121c62/content;imageAspect=0;lucidId=MWlvqWu-Pxan;" parent="1" vertex="1">
+          <mxGeometry x="-715" y="379" width="245" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-23" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=_0lvATdMyfsU;" parent="1" vertex="1">
+          <mxGeometry x="-385" y="85" width="180" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-24" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Ingest the records sourced from Local CRM and MSD.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Artificial records created during clustering should be filtered out.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=document;boundedLbl=1;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=a5lvIaTQ~gkd;" parent="1" vertex="1">
+          <mxGeometry x="-392" y="49" width="195" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="55Xy1Wuzpp9JHucnG_1e-31" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Currently MSD contains records from all the srouces&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#3a414a;&quot;&gt;Additionally one artificial record is created after clustering is also stored in MSD&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=document;boundedLbl=1;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=e~lvVH--_mER;" parent="1" vertex="1">
+          <mxGeometry x="-985" y="379" width="195" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="PYleG9Tigm1waNkjYXM3-1" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" parent="1" vertex="1">
+          <mxGeometry x="-205" y="520" width="120" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PYleG9Tigm1waNkjYXM3-5" value="Using &lt;b&gt;&lt;i&gt;Cloud Application Integration (CAI)&lt;/i&gt;&lt;/b&gt;. it is possible to integrate near-real time events from Customer 360 SaaS" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#da1010;" parent="1" vertex="1">
+          <mxGeometry x="-705" y="570" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PYleG9Tigm1waNkjYXM3-7" value="MDM_ID and all the attributes which are mapped during ingestion" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="264.5" width="100" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="dSxSk_7cQHGUhECG6MVQ-1" value="Person to Vehicle relationship" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="425" width="100" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
