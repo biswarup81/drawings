@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T12:51:20.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="k7ySUkR_Of2G_y7Co06R" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-27T12:55:30.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qXaAGKuL98tCQTvrTE93" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2061,10 +2061,7 @@
         <mxCell id="X8GZFVs7JJGSs6QRhlxR-2" value="CDQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X8GZFVs7JJGSs6QRhlxR-4" value="OneToyotaFrance" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#9933FF;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="900" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X8GZFVs7JJGSs6QRhlxR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;dashed=1;" edge="1" parent="1" source="X8GZFVs7JJGSs6QRhlxR-5" target="X8GZFVs7JJGSs6QRhlxR-4">
+        <mxCell id="X8GZFVs7JJGSs6QRhlxR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.617;entryDx=0;entryDy=0;shape=flexArrow;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="X8GZFVs7JJGSs6QRhlxR-5" target="X8GZFVs7JJGSs6QRhlxR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X8GZFVs7JJGSs6QRhlxR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -2075,6 +2072,15 @@
         </mxCell>
         <mxCell id="X8GZFVs7JJGSs6QRhlxR-8" value="Whether we use the same org or different org, is to be decided later" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;align=left;strokeColor=#b85450;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="680" y="72.5" width="340" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X8GZFVs7JJGSs6QRhlxR-9" value="OneToyotaItaly" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="850" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X8GZFVs7JJGSs6QRhlxR-10" value="OneToyotaSpain" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillStyle=auto;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X8GZFVs7JJGSs6QRhlxR-4" value="OneToyotaGermany" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="920" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
