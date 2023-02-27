@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T12:55:30.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qXaAGKuL98tCQTvrTE93" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-27T12:56:50.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Km5GM_t_VmPYVtAV3vkA" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2067,7 +2067,7 @@
         <mxCell id="X8GZFVs7JJGSs6QRhlxR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="530" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="X8GZFVs7JJGSs6QRhlxR-7" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Export of modules work. But, need modification.&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Integration logic might change&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;i&gt;Match model can be re-used&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Survivorship to be changed&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;align=left;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="X8GZFVs7JJGSs6QRhlxR-7" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Export of modules work. But, need modification.&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Integration logic might change&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;i&gt;Match model can be re-used&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Survivorship has to be changed&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;align=left;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="320" height="150" as="geometry" />
         </mxCell>
         <mxCell id="X8GZFVs7JJGSs6QRhlxR-8" value="Whether we use the same org or different org, is to be decided later" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;align=left;strokeColor=#b85450;fontSize=17;" vertex="1" parent="1">
