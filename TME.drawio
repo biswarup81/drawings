@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T14:17:16.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WOdW-nDtxAAW5eXgVfJq" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-27T14:36:57.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aAijE_SQk8iqtS1vSWF8" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1945,7 +1945,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LAVdnu9qb-hyPG9f-BYu" name="Standardization / Customization">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2090,6 +2090,12 @@
         </mxCell>
         <mxCell id="0w8Sv-P02tLXgOgCK7Jn-3" value="UK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="37" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Msc8rh41P7-gB4s4pK9V-1" value="&lt;b&gt;&lt;i&gt;DG Council&#39;s&lt;/i&gt;&lt;/b&gt; activity to align on the logical data model (e.g adding or removing the attribute) across country" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="700" y="590" width="279" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Msc8rh41P7-gB4s4pK9V-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="590" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
