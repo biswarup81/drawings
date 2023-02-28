@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:09:34.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-s6ZoVEXrblNMhRzudf-" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-28T12:19:01.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x8UkcdgVi82WxDzIx4Ih" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,8 +14,8 @@
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-1" value="Custromer Portal" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=35;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=_zfvtoaLD8R3;" parent="1" vertex="1">
           <mxGeometry x="217" y="201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-2" value="Informatica Cloud Application Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" parent="1" vertex="1">
-          <mxGeometry x="442" y="186" width="210" height="90" as="geometry" />
+        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-2" value="Informatica Cloud Application Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" parent="1" vertex="1">
+          <mxGeometry x="442" y="186" width="108" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OrqWzSjP3aU3WPAsT8gT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;" parent="1" source="fzvRdtjxUZJkbR7ym9By-3" target="OrqWzSjP3aU3WPAsT8gT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -167,7 +167,8 @@
         <mxCell id="Eynk5AJ8al8NvpA766xT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=18;" parent="1" source="Eynk5AJ8al8NvpA766xT-5" target="RqYj1Fic9LRMK6Ap2Z2q-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="519" y="70" />
+              <mxPoint x="482" y="140" />
+              <mxPoint x="482" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Eynk5AJ8al8NvpA766xT-5" value="Lamda Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="352" y="50" width="130" height="44" as="geometry" />
+          <mxGeometry x="352" y="50" width="98" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Eynk5AJ8al8NvpA766xT-9" value="Lamda service is owned by CP" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="12" y="165" width="98" height="85" as="geometry" />
@@ -190,9 +191,6 @@
         </mxCell>
         <mxCell id="B8xcEjuAAv2TkULlORLp-2" value="Match/Merge&lt;br&gt;API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="659" y="240" width="103" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="B8xcEjuAAv2TkULlORLp-3" value="Best Practivce - Match/Merge 1 hr interval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
-          <mxGeometry x="347" y="660" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
