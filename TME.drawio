@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:22:55.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dQZT8Iq4Nw9FQCvGtYIF" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-28T12:23:38.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IBoHm9CXFBNmf45KQKec" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -42,9 +42,6 @@
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Attributes to publish&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=GWfvRAXIjcSH;" parent="1" vertex="1">
           <mxGeometry x="917" y="100" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-7" value="MongoDB Connector" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;lucidId=8WfvRNrdkDAF;" parent="1" vertex="1">
-          <mxGeometry x="472" y="285" width="78" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-8" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="276" width="50" height="89" as="geometry" />
         </mxCell>
@@ -53,15 +50,6 @@
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-11" value="AWS Secured Agent" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=V0fvz383fF~9;" parent="1" vertex="1">
           <mxGeometry x="352" y="111" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-13" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
-          <mxGeometry x="557" y="285" width="125" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-14" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="RqYj1Fic9LRMK6Ap2Z2q-13" vertex="1">
-          <mxGeometry width="8.25" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-15" value="Connects  MongoDB to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="RqYj1Fic9LRMK6Ap2Z2q-13" vertex="1">
-          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-16" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d4;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" parent="1" vertex="1">
           <mxGeometry x="802" y="294" width="68" height="46" as="geometry" />
