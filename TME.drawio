@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T16:25:23.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="d36nzisyAjsZP79eIWKC" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-28T08:22:42.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wpnfMuRz-GLys1nHjaE6" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-1" value="Custromer Portal" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=35;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=_zfvtoaLD8R3;" parent="1" vertex="1">
           <mxGeometry x="217" y="201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-2" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" parent="1" vertex="1">
+        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-2" value="Informatica Cloud Application Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" parent="1" vertex="1">
           <mxGeometry x="442" y="186" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OrqWzSjP3aU3WPAsT8gT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;" parent="1" source="fzvRdtjxUZJkbR7ym9By-3" target="OrqWzSjP3aU3WPAsT8gT-1" edge="1">
@@ -55,9 +55,6 @@
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-11" value="AWS Secured Agent" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=V0fvz383fF~9;" parent="1" vertex="1">
           <mxGeometry x="352" y="111" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-12" value="INGRESS JOBS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=91fvOSBpeZ~O;" parent="1" vertex="1">
-          <mxGeometry x="667" y="100" width="90" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RqYj1Fic9LRMK6Ap2Z2q-13" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
           <mxGeometry x="557" y="285" width="125" height="66" as="geometry" />
@@ -188,11 +185,14 @@
         <mxCell id="Eynk5AJ8al8NvpA766xT-10" value="&lt;br&gt;Need to know the delta volume per day" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="12" y="270" width="98" height="103" as="geometry" />
         </mxCell>
+        <mxCell id="B8xcEjuAAv2TkULlORLp-1" value="Insert /Update API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="652" y="171" width="110" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="YAG_m8FKvapoZAz-z-hm" name="Microsoft Dynamics Integration">
-    <mxGraphModel dx="2534" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,7 +336,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xMMUa4bT3e4jTUvDhEqV" name="DMS Integration">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
