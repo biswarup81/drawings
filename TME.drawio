@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:09:00.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LbM3WFGuIkSjkNP5_qmZ" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-28T12:09:34.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-s6ZoVEXrblNMhRzudf-" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -258,13 +258,7 @@
           <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-16" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvYD6kmpxl;" parent="1" vertex="1">
-          <mxGeometry x="-395" y="311" width="70" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-17" value="Organizations" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#b85450;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f8cecc;strokeWidth=0.8;lucidId=bUlvPkUPyNve;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="307.5" width="80" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-18" value="Hierarchy" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=0.8;lucidId=bUlvytaZ2RYU;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="306" width="65" height="52" as="geometry" />
+          <mxGeometry x="-330" y="304.5" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;" parent="1" source="55ZpHvoEU4gKxhg3eMm8-4" target="55Xy1Wuzpp9JHucnG_1e-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
