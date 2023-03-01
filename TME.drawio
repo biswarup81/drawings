@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T10:28:54.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="M8BJQhGr6V5TxnsEshXj" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-01T10:41:19.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TIVvL-O73Mt-9Gd-NFxd" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1937,10 +1937,69 @@
           <mxGeometry x="650" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-6" value="Consumes the exported META data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
-          <mxGeometry x="890" y="255" width="100" height="110" as="geometry" />
+          <mxGeometry x="880" y="280" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-7" value="Vehicle" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;fontSize=12;fontColor=#030303;entryPerimeter=0;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-9" target="MPh8s1LQNtPP-GgRSk-1-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-9" value="DMS&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Cusomer name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-10" target="MPh8s1LQNtPP-GgRSk-1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Customer Master&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Customer name&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="522" y="540" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-12" value="Sales&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Customer name&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monthly sales&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-15" target="MPh8s1LQNtPP-GgRSk-1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Customer Sales&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Transaction on slaes&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="522" y="640" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-17" target="MPh8s1LQNtPP-GgRSk-1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-17" value="Aggregation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillStyle=auto;fontSize=12;fontColor=#030303;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;fontSize=12;fontColor=#030303;entryPerimeter=0;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-21" target="MPh8s1LQNtPP-GgRSk-1-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-21" value="CP&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Cusomer name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;fontSize=12;fontColor=#030303;entryPerimeter=0;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-22" target="MPh8s1LQNtPP-GgRSk-1-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-22" value="MSD&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Cusomer name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-30" target="MPh8s1LQNtPP-GgRSk-1-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-30" value="Rules are documented against customer master" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;size=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="378" y="565" width="92" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-31" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//TextField,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;name&quot;:&quot;X_CustomField&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;description&quot;:&quot;&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;mandatory&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;position&quot;:100010,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;length&quot;:255,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;allowMany&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;hasDefaultValue&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;options&quot;:{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//FieldOptions&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;},&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;label&quot;:{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//LocalizedText,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;en&quot;:&quot;Custom Field&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;}&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;}&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=9;fillColor=#fff2cc;align=left;size=20;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="830" y="60" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-32" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Business Gloserry&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="890" y="540" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
