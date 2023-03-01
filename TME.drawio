@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T12:27:50.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8qE_2zI2_biLu7eFsZsM" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-01T12:45:29.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AxkqPOXumbpPOq9IcoPt" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1938,7 +1938,7 @@
           <mxGeometry x="590" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-1" value="Batch mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="100" height="30" as="geometry" />
+          <mxGeometry x="370" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-2" value="Export METADATA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="650" y="110" width="100" height="30" as="geometry" />
@@ -2020,14 +2020,14 @@
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-34" value="COLLIBRA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#030303;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="920" y="493" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MPh8s1LQNtPP-GgRSk-1-35" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Technical Metadata&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-35" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Physical Metadata&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="491" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-36" value="Data Products" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="905.75" y="750" width="66.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MPh8s1LQNtPP-GgRSk-1-39" value="What is the frequency?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=auto;fontSize=14;fontColor=#030303;fillColor=none;size=29;" vertex="1" parent="1">
-          <mxGeometry x="906" y="360" width="80" height="100" as="geometry" />
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-39" value="Daily batch" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=auto;fontSize=14;fontColor=#030303;fillColor=none;size=29;" vertex="1" parent="1">
+          <mxGeometry x="906" y="360" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
