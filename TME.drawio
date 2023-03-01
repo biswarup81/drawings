@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T12:25:22.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dP83nDtUxg6DHudm1kLs" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-01T12:26:52.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nK4iLQ8YPPABvzNaQofu" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2008,7 +2008,7 @@
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-31" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//TextField,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;name&quot;:&quot;X_CustomField&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;description&quot;:&quot;&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;mandatory&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;position&quot;:100010,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;length&quot;:255,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;allowMany&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;hasDefaultValue&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;options&quot;:{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//FieldOptions&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;},&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;label&quot;:{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//LocalizedText,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;en&quot;:&quot;Custom Field&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;}&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;}&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=9;fillColor=#fff2cc;align=left;size=20;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="830" y="60" width="250" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="MPh8s1LQNtPP-GgRSk-1-32" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Business Gloserry&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-32" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Business Glossary&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="859" y="563" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#030303;" edge="1" parent="1">
@@ -2025,6 +2025,9 @@
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-36" value="Data Products" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="905.75" y="750" width="66.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-39" value="What is the frequecy?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=auto;fontSize=14;fontColor=#030303;fillColor=none;size=29;" vertex="1" parent="1">
+          <mxGeometry x="906" y="360" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
