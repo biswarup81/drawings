@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T10:43:10.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yEFSkwg5fAGkBGq5VWK4" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-01T10:44:27.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JIRnrMhfNtT8b2s971TP" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1956,13 +1956,16 @@
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Customer Master&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Customer name&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="491" y="563" width="128" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-12" target="MPh8s1LQNtPP-GgRSk-1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-12" value="Sales&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Customer name&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monthly sales&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="859" y="603" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-15" target="MPh8s1LQNtPP-GgRSk-1-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MPh8s1LQNtPP-GgRSk-1-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Customer Sales&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Transaction (sales)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Customer Sales&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Transaction on slaes&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="491" y="663" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="MPh8s1LQNtPP-GgRSk-1-17" target="MPh8s1LQNtPP-GgRSk-1-12">
@@ -2009,6 +2012,12 @@
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-34" value="COLLIBRA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#030303;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="920" y="493" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-35" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Technical Metadata&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="491" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-36" value="Data Products" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="905.75" y="750" width="66.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
