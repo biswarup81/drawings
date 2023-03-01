@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T12:52:25.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="46ypq6nkzxyPhmL2S8s-" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-01T12:53:49.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xXO8XCZWGQz53m2NowuG" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2002,8 +2002,8 @@
             <mxPoint x="449" y="653" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPh8s1LQNtPP-GgRSk-1-30" value="Rules are documented against customer master" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;size=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="347" y="588" width="92" height="100" as="geometry" />
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-30" value="Quality Rules, Transformations&amp;nbsp; are documented against customer master" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;size=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="347" y="588" width="93" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-31" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//TextField,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;name&quot;:&quot;X_CustomField&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;description&quot;:&quot;&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;mandatory&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;position&quot;:100010,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;length&quot;:255,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;allowMany&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;hasDefaultValue&quot;:false,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;options&quot;:{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//FieldOptions&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;},&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;label&quot;:{&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;eClass&quot;:http://informatica.com/mdm/v2/Core#//LocalizedText,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&quot;en&quot;:&quot;Custom Field&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;}&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;}&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=9;fillColor=#fff2cc;align=left;size=20;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="830" y="60" width="250" height="210" as="geometry" />
