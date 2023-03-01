@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:05:11.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FSi4bLhFhWQUpcnUIUYZ" version="20.8.23" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:36:35.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YGIeL9pZUR2LtudPix7j" version="20.8.23" type="github" pages="15">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1876,7 +1876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mNGErkyWDKKa4by51u5p" name="MDM-TGB-Informatica Collibra Integration">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1888,7 +1888,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qdt1ruN27FP7po-l25D--1" value="Informatica SaaS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Qdt1ruN27FP7po-l25D--1" value="Informatica Customer 360 SaaS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qdt1ruN27FP7po-l25D--2" value="Collibra" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#F0F5D3;" parent="1" vertex="1">
@@ -1912,7 +1912,7 @@
             <mxPoint x="810" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IaFlH0XlIda9ZomA4ljJ-8" value="CAI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="IaFlH0XlIda9ZomA4ljJ-8" value="Cloud Data Integration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#030303;" edge="1" parent="1" source="IaFlH0XlIda9ZomA4ljJ-10" target="IaFlH0XlIda9ZomA4ljJ-1">
@@ -1932,6 +1932,9 @@
         </mxCell>
         <mxCell id="MPh8s1LQNtPP-GgRSk-1-2" value="Export METADATA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="710" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPh8s1LQNtPP-GgRSk-1-6" value="Consumes the exported META data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="890" y="255" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
