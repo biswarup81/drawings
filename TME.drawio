@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T14:09:43.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="39jUdllM51BmG6AKAgEI" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-02T14:11:10.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Hpo5rGdHymx7nwG6rM-8" version="20.8.23" type="github" pages="16">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -710,8 +710,8 @@
         <mxCell id="Xd9RFFAkH409MBMWKBLn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="Xd9RFFAkH409MBMWKBLn-7" target="AZZi1-bYMdaTji60QZRv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xd9RFFAkH409MBMWKBLn-24" value="Ingestionto be discussed" style="shape=card;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="80" height="100" as="geometry" />
+        <mxCell id="Xd9RFFAkH409MBMWKBLn-24" value="Ingestionto be discussed" style="shape=card;whiteSpace=wrap;html=1;fontSize=11;size=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
