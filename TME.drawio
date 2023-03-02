@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T13:06:54.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aLClUJyDVp4y1ETzrT6u" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-02T13:07:41.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="doAT8ybI1yVdvRG6FjcE" version="20.8.23" type="github" pages="16">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -299,8 +299,8 @@
         <mxCell id="dSxSk_7cQHGUhECG6MVQ-1" value="Person to Vehicle relationship" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-140" y="425" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="55ZpHvoEU4gKxhg3eMm8-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Need info about the interval&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="-656.5" y="85" width="80" height="100" as="geometry" />
+        <mxCell id="55ZpHvoEU4gKxhg3eMm8-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;of 1 hour.&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="-656.5" y="110" width="80" height="75" as="geometry" />
         </mxCell>
         <mxCell id="55ZpHvoEU4gKxhg3eMm8-3" value="Synchronization Task" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-282.5" y="580" width="47.5" height="50" as="geometry" />
@@ -338,6 +338,9 @@
         </mxCell>
         <mxCell id="yOIvOps9DIQ8fXJlm5_n-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Updates the record&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-1065" y="590" width="80" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yOIvOps9DIQ8fXJlm5_n-3" value="Delta records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
