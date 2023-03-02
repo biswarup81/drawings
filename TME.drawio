@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T13:05:40.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HYisgos_M_aki85vlNnm" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-02T13:06:23.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GNQ-RC6UbDCO5k7ZsmpL" version="20.8.23" type="github" pages="16">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -272,9 +272,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-20" value="EGRESS JOBS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" parent="1" vertex="1">
-          <mxGeometry x="-175" y="127" width="90" height="86" as="geometry" />
-        </mxCell>
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-21" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/f46f2021-4d45-42d7-9c89-75c820f80cf2/content;imageAspect=0;lucidId=2Ulv0K1G5tmi;" parent="1" vertex="1">
           <mxGeometry x="-985" y="298" width="61" height="60" as="geometry" />
         </mxCell>
@@ -335,6 +332,9 @@
         </mxCell>
         <mxCell id="NW7GmriVZgLJUEKGnVvj-43" value="INGRESS" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" parent="1" vertex="1">
           <mxGeometry x="-494" y="140" width="90" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="yOIvOps9DIQ8fXJlm5_n-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval of 1 hour&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="593" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
