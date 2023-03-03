@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T15:27:12.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="04KYQbw0VerhZVTthvsf" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-03T08:36:02.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FA_yM2-nnL_-i9a9ym-S" version="20.8.23" type="github" pages="16">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -287,9 +287,6 @@
         <mxCell id="PYleG9Tigm1waNkjYXM3-1" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" parent="1" vertex="1">
           <mxGeometry x="-235" y="520" width="120" height="75.5" as="geometry" />
         </mxCell>
-        <mxCell id="PYleG9Tigm1waNkjYXM3-5" value="Using &lt;b&gt;&lt;i&gt;Cloud Application Integration (CAI)&lt;/i&gt;&lt;/b&gt;. it is possible to integrate near-real time events from Customer 360 SaaS" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#da1010;" parent="1" vertex="1">
-          <mxGeometry x="-705" y="570" width="370" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="PYleG9Tigm1waNkjYXM3-7" value="MDM_ID and all the attributes which are mapped during ingestion" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-140" y="264.5" width="100" height="142" as="geometry" />
         </mxCell>
@@ -299,9 +296,6 @@
         <mxCell id="55ZpHvoEU4gKxhg3eMm8-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;of 1 hour.&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-656.5" y="110" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="55ZpHvoEU4gKxhg3eMm8-3" value="Synchronization Task" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="-282.5" y="580" width="47.5" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="55ZpHvoEU4gKxhg3eMm8-5" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#b0084d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;lucidId=bUlvd23XZRDU;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PYleG9Tigm1waNkjYXM3-1" target="55ZpHvoEU4gKxhg3eMm8-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
@@ -310,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="55ZpHvoEU4gKxhg3eMm8-4" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=bUlvn9g4rLrz;" parent="1" vertex="1">
-          <mxGeometry x="-910" y="512.75" width="180" height="90" as="geometry" />
+          <mxGeometry x="-835" y="512.75" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="55ZpHvoEU4gKxhg3eMm8-6" value="MSD Target Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" parent="1" vertex="1">
           <mxGeometry x="-940" y="610" width="75" height="60" as="geometry" />
@@ -331,7 +325,7 @@
           <mxGeometry x="-494" y="140" width="90" height="86" as="geometry" />
         </mxCell>
         <mxCell id="yOIvOps9DIQ8fXJlm5_n-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval of 1 hour&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-298.75" y="670" width="80" height="74.5" as="geometry" />
+          <mxGeometry x="-630" y="570" width="80" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="yOIvOps9DIQ8fXJlm5_n-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Updates the record&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-1065" y="590" width="80" height="74.5" as="geometry" />
@@ -358,6 +352,12 @@
         </mxCell>
         <mxCell id="NhRyaEziGyMNhmCxcwtp-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/98843362-60f4-46ee-85de-753dc02aa09e/content;lucidId=MXlvsj6demjr;" vertex="1" parent="1">
           <mxGeometry x="-277" y="293" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="c_yy8OJzR9G1AP2zXrJU-1" value="EGRESS job" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="564.25" width="90" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="c_yy8OJzR9G1AP2zXrJU-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Runs in interval of 1 hour&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-334.5" y="570" width="80" height="74.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2210,7 +2210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jEUEYLc-y3kGbIb-O0vo" name="REST API">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
