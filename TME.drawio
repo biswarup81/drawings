@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T08:36:08.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0CkXOyhl74vJQAxAihKp" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-03T08:43:10.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q4KnZivtjZ7_p_e0vTo7" version="20.8.23" type="github" pages="16">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -707,8 +707,14 @@
         <mxCell id="Xd9RFFAkH409MBMWKBLn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="Xd9RFFAkH409MBMWKBLn-7" target="AZZi1-bYMdaTji60QZRv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xd9RFFAkH409MBMWKBLn-24" value="Ingestionto be discussed" style="shape=card;whiteSpace=wrap;html=1;fontSize=11;size=20;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="Xd9RFFAkH409MBMWKBLn-24" value="Legal to finalize this decision" style="shape=card;whiteSpace=wrap;html=1;fontSize=13;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j6r9zlWLp76JCVUOIPgG-1" value="Copy of latest consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j6r9zlWLp76JCVUOIPgG-3" value="Consent is stored in OneTrust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
