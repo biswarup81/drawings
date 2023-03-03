@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T18:02:24.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3iuugbvvAwPT8uJXeJfE" version="20.8.23" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-03-03T19:09:51.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qBJv-akwK0JDUHKFdDMV" version="20.8.23" type="github" pages="17">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -489,7 +489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b3_89EzrjdhL4OJJmsYn" name="OneTrust - DSR">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -723,13 +723,13 @@
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXZGQvLwt5rhV2w1DfGh-2" target="LXZGQvLwt5rhV2w1DfGh-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="385" y="922" />
-              <mxPoint x="385" y="922" />
+              <mxPoint x="480" y="962" />
+              <mxPoint x="480" y="962" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-2" value="One Trust" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="892" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="932" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXZGQvLwt5rhV2w1DfGh-5" target="LXZGQvLwt5rhV2w1DfGh-2">
           <mxGeometry relative="1" as="geometry" />
@@ -740,45 +740,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="45" y="852" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="892" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.111;exitY=1.028;exitDx=0;exitDy=0;entryX=0.84;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;exitPerimeter=0;" edge="1" parent="1" source="LXZGQvLwt5rhV2w1DfGh-7" target="LXZGQvLwt5rhV2w1DfGh-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="498" y="972" />
-              <mxPoint x="276" y="972" />
+              <mxPoint x="593" y="1012" />
+              <mxPoint x="371" y="1012" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-7" value="MDM SaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="485" y="892" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="932" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-8" value="1. Finds the MDM_ID&lt;br&gt;&lt;br&gt;2. Send the MDM_ID to different Systems" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="958" width="100" height="90" as="geometry" />
+          <mxGeometry x="620" y="998" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-9" value="First name,&lt;br&gt;Last Name&lt;br&gt;E-Mail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="820" width="100" height="70" as="geometry" />
+          <mxGeometry x="430" y="860" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-10" value="First name,&lt;br&gt;Last Name&lt;br&gt;E-Mail&lt;br&gt;Phone number" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="177" y="972" width="100" height="70" as="geometry" />
+          <mxGeometry x="272" y="1012" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-11" value="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="55" y="944.5" width="30" height="35" as="geometry" />
+          <mxGeometry x="150" y="984.5" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-12" value="2" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="295" y="837.5" width="30" height="35" as="geometry" />
+          <mxGeometry x="390" y="877.5" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-13" value="3" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="495" y="842" width="30" height="35" as="geometry" />
+          <mxGeometry x="590" y="882" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-14" value="https" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#050505;" vertex="1" parent="1">
-          <mxGeometry x="345" y="896" width="70" height="20" as="geometry" />
+          <mxGeometry x="440" y="936" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-15" value="3.1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="315" y="979.5" width="30" height="35" as="geometry" />
+          <mxGeometry x="410" y="1019.5" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-16" value="Sends all the ipersonal nformation for the customer (in MDMD)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="977" width="100" height="70" as="geometry" />
+          <mxGeometry x="459" y="1017" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
