@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T09:15:50.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UtLkI9cXBjmwzymYiGpp" version="21.0.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-03-06T09:22:26.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cIPexdINLgpx8ANSKY-n" version="21.0.2" type="github" pages="17">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -750,8 +750,8 @@
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-7" value="MDM SaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="530" y="1042" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXZGQvLwt5rhV2w1DfGh-9" value="First name,&lt;br&gt;Last Name&lt;br&gt;E-Mail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="970" width="100" height="70" as="geometry" />
+        <mxCell id="LXZGQvLwt5rhV2w1DfGh-9" value="&lt;b&gt;&lt;u&gt;Subject identities&lt;/u&gt;&lt;/b&gt;&lt;br&gt;First name,&lt;br&gt;Last Name&lt;br&gt;E-Mail&lt;br&gt;Phone" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="389" y="970" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-10" value="First name,&lt;br&gt;Last Name&lt;br&gt;E-Mail&lt;br&gt;Phone number" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="222" y="1122" width="100" height="70" as="geometry" />
@@ -768,7 +768,7 @@
         <mxCell id="LXZGQvLwt5rhV2w1DfGh-15" value="3" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="1129.5" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LXZGQvLwt5rhV2w1DfGh-16" value="Sends all the ipersonal nformation for the customer (in MDMD)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LXZGQvLwt5rhV2w1DfGh-16" value="Sends all the personal information for the customer (in MDMD)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="409" y="1127" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CoSDhPHSPj20NZ5F4yNk-1" value="DSR Erasure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
