@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T12:50:47.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-H0Cde2Gs_1v2bh91BSF" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:51:29.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bVW5RUco7w2pWG4g3mnZ" version="21.0.2" type="github" pages="18">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -205,6 +205,9 @@
         </mxCell>
         <mxCell id="qBmzPPXZGigZsDDVO3MT-6" value="Search Before Create (SBC)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="85" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBmzPPXZGigZsDDVO3MT-8" value="~2600 records per day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="456.75" width="169" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
