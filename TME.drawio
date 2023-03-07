@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:47:17.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zVEgmQN0dKclMM0cc9XD" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-07T11:48:36.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AoJoFFyU5grv53AT2ZXF" version="21.0.2" type="github" pages="18">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -383,18 +383,19 @@
         <mxCell id="_6AaaQi1rOL5PPzXIvO7-2" value="Azure Data Lake (Delta)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6AaaQi1rOL5PPzXIvO7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;" parent="1" source="_6AaaQi1rOL5PPzXIvO7-10" target="_6AaaQi1rOL5PPzXIvO7-1" edge="1">
+        <mxCell id="_6AaaQi1rOL5PPzXIvO7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;" parent="1" target="_6AaaQi1rOL5PPzXIvO7-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="550" y="175" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_6AaaQi1rOL5PPzXIvO7-3" value="Data Locker&lt;br&gt;(SQL)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6AaaQi1rOL5PPzXIvO7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=none;" parent="1" source="_6AaaQi1rOL5PPzXIvO7-3" target="_6AaaQi1rOL5PPzXIvO7-10" edge="1">
+        <mxCell id="_6AaaQi1rOL5PPzXIvO7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=none;" parent="1" source="_6AaaQi1rOL5PPzXIvO7-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="250" as="sourcePoint" />
-            <mxPoint x="630" y="175" as="targetPoint" />
+            <mxPoint x="430" y="175" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390" y="250" />
               <mxPoint x="390" y="175" />
@@ -405,9 +406,6 @@
           <mxGeometry x="-0.6971" relative="1" as="geometry">
             <mxPoint x="41" y="-20" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_6AaaQi1rOL5PPzXIvO7-10" value="CSV / Databricks" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="430" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJnaAHWYHX7GpQuSmOoC-1" value="Aggregated records are sent to Databricks or any other sftp location from which &lt;br&gt;&lt;i&gt;&lt;br&gt;Informatica SaaS can ingest in real-time or in batch is based on the number of ingestion per day&lt;/i&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="410" y="230" width="200" height="150" as="geometry" />
