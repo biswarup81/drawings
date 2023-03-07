@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:56:30.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FCyUoRdPSr72WKudMRjC" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:11:14.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="r7PwQBif5GY0CjSDqYD5" version="21.0.2" type="github" pages="18">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -468,14 +468,17 @@
         <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-8" value="Connects  DWH to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="gf6_Jgt6Y_O3-IY-I-OX-6">
           <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-9" value="1 hr interval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-9" value="daily job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="668.5999999999999" y="410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-10" value="1 hr interval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-10" value="Daily job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="579.9999999999999" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="acoNVAbTzCj7xFOTu4Gr-1" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" vertex="1" parent="1">
           <mxGeometry x="663" y="439.5" width="120" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7T0zgwuhss5eWf-N3Wke-1" value="Delta records to be calculated&lt;br&gt;1. provide the delta file&lt;br&gt;2.timestamp the record&lt;br&gt;interval - check the inteval" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="515" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
