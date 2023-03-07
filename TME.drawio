@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:48:36.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AoJoFFyU5grv53AT2ZXF" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-07T11:51:39.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KnTnoRcUszk_EVwCJNTf" version="21.0.2" type="github" pages="18">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -361,8 +361,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_6AaaQi1rOL5PPzXIvO7-1" target="n3HIbdPjck9hHsv_ve7o-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n3HIbdPjck9hHsv_ve7o-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_6AaaQi1rOL5PPzXIvO7-1" target="n3HIbdPjck9hHsv_ve7o-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="798" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_6AaaQi1rOL5PPzXIvO7-1" value="Informatica C360 SaaS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;" parent="1" vertex="1">
           <mxGeometry x="700" y="130" width="195" height="90" as="geometry" />
@@ -408,62 +412,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HJnaAHWYHX7GpQuSmOoC-1" value="Aggregated records are sent to Databricks or any other sftp location from which &lt;br&gt;&lt;i&gt;&lt;br&gt;Informatica SaaS can ingest in real-time or in batch is based on the number of ingestion per day&lt;/i&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="410" y="230" width="200" height="150" as="geometry" />
+          <mxGeometry x="200" y="294.5" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UJwnXvDaJkDfANL11Zks-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Azure Secured Agent&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=bUlvb7MhZSi5;" parent="1" vertex="1">
-          <mxGeometry x="560" y="60" width="60" height="60" as="geometry" />
+        <mxCell id="UJwnXvDaJkDfANL11Zks-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Azure&amp;nbsp; TGB Secure Agent&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=bUlvb7MhZSi5;" parent="1" vertex="1">
+          <mxGeometry x="437.5" y="44" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rM60GX4plo4797Sjd4qm-1" value="INGRESS JOB" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=rtmv1XBsKIsu;" parent="1" vertex="1">
-          <mxGeometry x="620" y="194" width="58.6" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;" parent="1" source="n3HIbdPjck9hHsv_ve7o-15" target="n3HIbdPjck9hHsv_ve7o-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="605" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="610" y="74" width="58.6" height="56" as="geometry" />
         </mxCell>
         <mxCell id="n3HIbdPjck9hHsv_ve7o-3" value="Azure DWH" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=_zfvtoaLD8R3;" parent="1" vertex="1">
           <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n3HIbdPjck9hHsv_ve7o-5" target="n3HIbdPjck9hHsv_ve7o-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-5" value="EGRESS JOBS (on Create and Update trigger)" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=rtmv1XBsKIsu;" parent="1" vertex="1">
-          <mxGeometry x="766" y="339" width="63.84" height="61" as="geometry" />
+        <mxCell id="n3HIbdPjck9hHsv_ve7o-5" value="EGRESS JOBS&amp;nbsp;" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=rtmv1XBsKIsu;" parent="1" vertex="1">
+          <mxGeometry x="700" y="310" width="63.84" height="61" as="geometry" />
         </mxCell>
         <mxCell id="n3HIbdPjck9hHsv_ve7o-6" value="Created and updated Golden Records" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="840" y="249" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-7" value="Ingested into Azure Data Lake&lt;br&gt;(Part of DMS System)" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="220" y="490" width="140" height="97" as="geometry" />
-        </mxCell>
         <mxCell id="n3HIbdPjck9hHsv_ve7o-10" value="Sends records in Batches&lt;br&gt;&lt;i&gt;&lt;b&gt;Need discussion if records are to be sent near-real time&lt;/b&gt;&lt;/i&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="910" y="104" width="120" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-11" value="SFTP connectors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="840" y="390" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="n3HIbdPjck9hHsv_ve7o-12" value="MDM_ID and all the consolidated attribute for person and organization" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="860" y="450" width="120" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-13" value="CSV" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/file-text-o-128.png;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="655" y="530" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-15" value="Downstream Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n3HIbdPjck9hHsv_ve7o-16" target="n3HIbdPjck9hHsv_ve7o-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-16" value="SFTP Location" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=_zfvtoaLD8R3;" parent="1" vertex="1">
-          <mxGeometry x="620" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pTG981BmIphUvjChBRcc-1" value="&lt;i&gt;Decide on CSV or Databricks&lt;/i&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="430" y="30" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="pTG981BmIphUvjChBRcc-2" value="Owned by DMS" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="400" y="520" width="140" height="60" as="geometry" />
+          <mxGeometry x="830" y="360" width="120" height="113" as="geometry" />
         </mxCell>
         <mxCell id="Q8DBPlkbBd89MH71lUp4-1" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d4;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" parent="1" vertex="1">
           <mxGeometry x="724.42" y="42" width="68" height="46" as="geometry" />
@@ -479,6 +449,30 @@
         </mxCell>
         <mxCell id="Q8DBPlkbBd89MH71lUp4-4" value="Relationship" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" parent="Q8DBPlkbBd89MH71lUp4-3" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-1" value="Data Lake v2 connector" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" vertex="1" parent="1">
+          <mxGeometry x="430" y="184" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-2" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="184" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-3" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="gf6_Jgt6Y_O3-IY-I-OX-2">
+          <mxGeometry width="8.25" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-4" value="Connects  DWH to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="gf6_Jgt6Y_O3-IY-I-OX-2">
+          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-5" value="Data Lake v2 connector" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" vertex="1" parent="1">
+          <mxGeometry x="438" y="400" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-6" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="400" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-7" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="gf6_Jgt6Y_O3-IY-I-OX-6">
+          <mxGeometry width="8.25" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-8" value="Connects  DWH to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="gf6_Jgt6Y_O3-IY-I-OX-6">
+          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
