@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T11:26:56.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vwAiJw3d1csCpmiaebcE" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-09T11:30:34.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zRYTZnRKBMOI8cW76z3o" version="21.0.2" type="github" pages="18">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -375,6 +375,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vp1Wg933-Bfk4Hc7vNZ--17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="350" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="n3HIbdPjck9hHsv_ve7o-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="vp1Wg933-Bfk4Hc7vNZ--12" target="n3HIbdPjck9hHsv_ve7o-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -423,7 +426,7 @@
         <mxCell id="rM60GX4plo4797Sjd4qm-1" value="INGRESS JOB" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=rtmv1XBsKIsu;" parent="1" vertex="1">
           <mxGeometry x="610" y="74" width="58.6" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="n3HIbdPjck9hHsv_ve7o-3" value="TGB EDP" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0.8;lucidId=_zfvtoaLD8R3;" parent="1" vertex="1">
+        <mxCell id="n3HIbdPjck9hHsv_ve7o-3" value="TGB EDP" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=default;strokeWidth=0.8;lucidId=_zfvtoaLD8R3;" parent="1" vertex="1">
           <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n3HIbdPjck9hHsv_ve7o-5" value="EGRESS JOBS&amp;nbsp;" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=rtmv1XBsKIsu;" parent="1" vertex="1">
@@ -451,16 +454,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-1" value="Microsoft Azure Blob Storage v3 connector" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" parent="1" vertex="1">
-          <mxGeometry x="397" y="206" width="95" height="60" as="geometry" />
+          <mxGeometry x="405" y="203" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-2" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="197" width="125" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-3" value="" style="shape=curlyBracket;rounded=1;flipH=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="gf6_Jgt6Y_O3-IY-I-OX-2" vertex="1">
-          <mxGeometry width="8.25" height="66" as="geometry" />
+          <mxGeometry x="6" width="8.25" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-4" value="Connects  Blob Storage v3 to C360 SaaS" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="gf6_Jgt6Y_O3-IY-I-OX-2" vertex="1">
-          <mxGeometry x="8.25" width="116.75" height="66" as="geometry" />
+          <mxGeometry x="15.25" width="116.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gf6_Jgt6Y_O3-IY-I-OX-6" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" parent="1" vertex="1">
           <mxGeometry x="538" y="395" width="125" height="66" as="geometry" />
@@ -517,6 +520,9 @@
         </mxCell>
         <mxCell id="vp1Wg933-Bfk4Hc7vNZ--16" value="Format of the publication" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560.5" y="501.75" width="80" height="68.25" as="geometry" />
+        </mxCell>
+        <mxCell id="vp1Wg933-Bfk4Hc7vNZ--18" value="&lt;span style=&quot;color: rgb(58, 65, 74); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TGB EDP&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
