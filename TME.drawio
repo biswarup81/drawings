@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T16:26:06.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jL57jv_e5--aLCoXYEXg" version="21.0.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-09T16:26:13.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Tl5k57D6_d6edqA64lRm" version="21.0.4" type="github" pages="18">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -288,9 +288,6 @@
         </mxCell>
         <mxCell id="55Xy1Wuzpp9JHucnG_1e-22" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/9d3bc0cd-0a96-4a7c-a0e9-641003121c62/content;imageAspect=0;lucidId=MWlvqWu-Pxan;" parent="1" vertex="1">
           <mxGeometry x="-715" y="379" width="245" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="55Xy1Wuzpp9JHucnG_1e-23" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=_0lvATdMyfsU;" parent="1" vertex="1">
-          <mxGeometry x="-385" y="85" width="180" height="104" as="geometry" />
         </mxCell>
         <mxCell id="PYleG9Tigm1waNkjYXM3-1" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" parent="1" vertex="1">
           <mxGeometry x="-235" y="520" width="120" height="75.5" as="geometry" />
