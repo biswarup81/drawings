@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T14:57:28.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_IcQtZwQdQ7u1XV9wN71" version="21.0.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-03-13T09:15:26.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZcGIZ7ENA6iGBXaSeB2r" version="21.0.6" type="github" pages="19">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1422,6 +1422,9 @@
         </mxCell>
         <mxCell id="0dmjFG-VNGugwyKYdHGU-3" value="Preferred Dealer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="390" y="160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2X16-WMe14bIPgpDK1mN-1" value="Household" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="850" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
