@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T08:14:53.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5nP7GCN3PslNmIqspHQL" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T08:19:13.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zwgek-X2yu2QUjtdwR-w" version="21.0.6" type="github">
   <diagram name="Page-1" id="TvIRm6VvuLr9aHApxvSN">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -22,11 +22,35 @@
         <mxCell id="y6mYHDqp7UsWAF3ANAkN-5" value="Founder/Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="476.25" y="250" width="117.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6mYHDqp7UsWAF3ANAkN-6" value="Peripheral Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="458.13" y="395" width="153.75" height="30" as="geometry" />
+        <mxCell id="y6mYHDqp7UsWAF3ANAkN-6" value="Peripheral Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="444.06" y="395" width="181.87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6mYHDqp7UsWAF3ANAkN-7" value="Family Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="476.25" y="560" width="117.5" height="30" as="geometry" />
+        <mxCell id="y6mYHDqp7UsWAF3ANAkN-7" value="Family Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="463.13" y="570" width="143.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6mYHDqp7UsWAF3ANAkN-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677" y="311" as="sourcePoint" />
+            <mxPoint x="1060" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6mYHDqp7UsWAF3ANAkN-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="310" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6mYHDqp7UsWAF3ANAkN-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="503" as="sourcePoint" />
+            <mxPoint x="1070" y="503" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6mYHDqp7UsWAF3ANAkN-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="505" as="sourcePoint" />
+            <mxPoint x="240" y="505" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
