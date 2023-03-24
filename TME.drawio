@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T11:08:14.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MU9PwCNWc-YEinKb8d-v" version="21.0.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-03-24T11:12:45.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kQDiuHV5nTU9bNP5H6XA" version="21.0.6" type="github" pages="20">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3176,7 +3176,7 @@
         <mxCell id="QtWQXwK5kEfZGOMSNV3a-1" value="EGRESS job" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" vertex="1" parent="1">
           <mxGeometry x="991" y="254" width="69.07" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="QtWQXwK5kEfZGOMSNV3a-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="QtWQXwK5kEfZGOMSNV3a-2" value="SQS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="387" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>
