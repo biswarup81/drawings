@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T12:54:11.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mzE7cmY9a10SvWEp-Df7" version="21.1.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-03-30T12:54:29.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_j19aNJHrme0FGM1pKY0" version="21.1.1" type="github" pages="21">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3280,7 +3280,7 @@
         <mxCell id="IwQcmB7pQ-A8OldIvxZE-11" value="SessionID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwQcmB7pQ-A8OldIvxZE-12" target="IwQcmB7pQ-A8OldIvxZE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwQcmB7pQ-A8OldIvxZE-12" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwQcmB7pQ-A8OldIvxZE-12" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="160" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IwQcmB7pQ-A8OldIvxZE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IwQcmB7pQ-A8OldIvxZE-15" target="IwQcmB7pQ-A8OldIvxZE-18">
@@ -3307,7 +3307,7 @@
         <mxCell id="IwQcmB7pQ-A8OldIvxZE-20" value="TME AWS&lt;br&gt;MDM Lambda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="535" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IwQcmB7pQ-A8OldIvxZE-21" value="MDM (needs to process the messages correctly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwQcmB7pQ-A8OldIvxZE-21" value="MDM (needs to process the messages correctly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="900" y="535" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IwQcmB7pQ-A8OldIvxZE-22" value="Can be consumed in batches" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwQcmB7pQ-A8OldIvxZE-23" target="IwQcmB7pQ-A8OldIvxZE-21">
