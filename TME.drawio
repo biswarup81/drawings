@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T13:40:42.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ktzcSqfn72UGBmxpy3o_" version="21.1.2" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-04-03T13:57:57.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IUpkuWDWd5GIak0WwBYB" version="21.1.2" type="github" pages="22">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3338,7 +3338,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RpYuBpr6lENsXfctVByU-2" value="MDM_ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RpYuBpr6lENsXfctVByU-1" vertex="1" connectable="0">
+        <mxCell id="RpYuBpr6lENsXfctVByU-2" value="MDM_ID,CP_ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RpYuBpr6lENsXfctVByU-1" vertex="1" connectable="0">
           <mxGeometry x="-0.6353" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
