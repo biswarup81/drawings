@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T10:23:31.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SUXpXqMsrbGTZnZiZqb8" version="21.1.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-04-07T10:25:00.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6yXdVd2V2UY1F5_Cl0mM" version="21.1.4" type="github" pages="22">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1418" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3637,6 +3637,9 @@
         </mxCell>
         <mxCell id="RpYuBpr6lENsXfctVByU-78" value="App&lt;br&gt;Connector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="463" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="27vdMNm3b-WwSGSIiLHs-1" value="SQS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="378" y="253" width="14" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
