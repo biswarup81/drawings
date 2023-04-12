@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T14:26:30.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Yf3ePH0Yi2X3kCKlhP-I" version="21.1.7" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-04-12T14:29:55.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Gnm9090f0L-cVee1_1li" version="21.1.7" type="github" pages="23">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1415" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -588,7 +588,7 @@
         <mxCell id="jPWqI7IsRYqokotSj5xS-20" value="Relationship" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jPWqI7IsRYqokotSj5xS-21" value="FTP/SFTP Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+        <mxCell id="jPWqI7IsRYqokotSj5xS-21" value="Informatica SFTP Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="370" y="223" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-22" value="" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;align=left;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
@@ -619,8 +619,8 @@
         <mxCell id="jPWqI7IsRYqokotSj5xS-33" value="DSR, Legal Base, Retention Period" style="shape=tape;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;size=0.11;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="663" y="439.5" width="120" height="75.5" as="geometry" />
         </mxCell>
-        <mxCell id="jPWqI7IsRYqokotSj5xS-34" value="TGB Secure Agent (Azure)" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
-          <mxGeometry x="455" y="120" width="116.75" height="40" as="geometry" />
+        <mxCell id="jPWqI7IsRYqokotSj5xS-34" value="Secure Agent" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="466.13" y="113" width="116.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="jPWqI7IsRYqokotSj5xS-1" target="jPWqI7IsRYqokotSj5xS-37">
           <mxGeometry relative="1" as="geometry">
@@ -654,6 +654,15 @@
         </mxCell>
         <mxCell id="RPGOmraRPaYIx7-VgdzC-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transfer_for_sftp;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="430" y="438.25" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RPGOmraRPaYIx7-VgdzC-13" value="1. Customer&lt;br&gt;2. Vehicle&lt;br&gt;3. Customer-Vehicle" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="320" y="88" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RPGOmraRPaYIx7-VgdzC-14" value="CSV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="320" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPGOmraRPaYIx7-VgdzC-15" value="Format of the CSV to be shared to Kinto Team&lt;br&gt;&lt;br&gt;SFTP location is managed by Kinto Team" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="138" y="20" width="162" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
