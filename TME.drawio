@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T12:08:36.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZwOEgMSQx95Tj5kLl3so" version="21.1.7" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-04-12T12:08:52.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HL1b5-V3GJ74vOf6aJ30" version="21.1.7" type="github" pages="23">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1415" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -628,10 +628,10 @@
           <mxGeometry x="250" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-38" value="Application is maintained by Kinto" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
-          <mxGeometry x="280" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="270" y="345" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-39" value="Format of the publication" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
-          <mxGeometry x="560.5" y="501.75" width="80" height="68.25" as="geometry" />
+          <mxGeometry x="551.63" y="402" width="80" height="68.25" as="geometry" />
         </mxCell>
         <mxCell id="RPGOmraRPaYIx7-VgdzC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPWqI7IsRYqokotSj5xS-1" source="RPGOmraRPaYIx7-VgdzC-0" target="jPWqI7IsRYqokotSj5xS-4">
           <mxGeometry relative="1" as="geometry" />
