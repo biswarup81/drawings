@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T17:42:16.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WBKB0MBhxng1B17GzVdK" version="21.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-12T17:42:22.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jQT3h11KO3rh09Kwefuc" version="21.1.7" type="github" pages="3">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1415" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry x="93" y="452" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pEo_Ud3W3kTd7akFbJNE-10" value="Select vehicledetail.chassisnumber, vehicledetail.registrationnumber from&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;vehicledetails, customerdelear, customerdetail&lt;br style=&quot;font-size: 14px;&quot;&gt;where&lt;br style=&quot;font-size: 14px;&quot;&gt;vehicledetail.salescustomerdelearId=customerdelear.id&lt;br style=&quot;font-size: 14px;&quot;&gt;and&lt;br style=&quot;font-size: 14px;&quot;&gt;customerdelear.customerid = customerdetail.ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="pEo_Ud3W3kTd7akFbJNE-1">
-          <mxGeometry x="500" y="202" width="520" height="108" as="geometry" />
+          <mxGeometry x="500" y="202" width="470" height="108" as="geometry" />
         </mxCell>
         <mxCell id="pEo_Ud3W3kTd7akFbJNE-26" value="Entity Relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="pEo_Ud3W3kTd7akFbJNE-1">
           <mxGeometry x="98" y="60" width="118" height="30" as="geometry" />
