@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T12:08:52.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HL1b5-V3GJ74vOf6aJ30" version="21.1.7" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-04-12T12:14:22.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="P0ItNaZ6kR-DsG6959J1" version="21.1.7" type="github" pages="23">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1415" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -534,7 +534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Kinto Inegration" id="bTIaQswR8J-3hDXmwUIW">
-    <mxGraphModel dx="1415" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1415" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="jPWqI7IsRYqokotSj5xS-0" />
         <mxCell id="jPWqI7IsRYqokotSj5xS-1" parent="jPWqI7IsRYqokotSj5xS-0" />
@@ -598,7 +598,7 @@
         <mxCell id="jPWqI7IsRYqokotSj5xS-28" value="Daily job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="668.5999999999999" y="410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jPWqI7IsRYqokotSj5xS-29" value="Daily job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+        <mxCell id="jPWqI7IsRYqokotSj5xS-29" value="Weekly job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="579.9999999999999" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jPWqI7IsRYqokotSj5xS-1" source="jPWqI7IsRYqokotSj5xS-4">
@@ -641,6 +641,9 @@
         </mxCell>
         <mxCell id="RPGOmraRPaYIx7-VgdzC-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="433.5" y="449" width="66.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="RPGOmraRPaYIx7-VgdzC-7" value="Full Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="530" y="191" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
