@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T10:31:18.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TJ_7Yu2e08j6oTMAvd_z" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T10:32:39.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ui4EMeoIIkhIYKbJd1Yq" version="21.1.7" type="github" pages="2">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1415" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -24,6 +24,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-1" value="ID (PK)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-2" value="Customerdetail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-3" value="Chassisnumber (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-4" value="Vehicledetail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-6" value="Vehicledetail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
