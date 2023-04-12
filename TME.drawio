@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T14:05:33.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="n8i3_U3sLm4viGqBHKQF" version="21.1.7" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-04-12T14:06:31.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UMEbPj9VoHH20RP_a5vG" version="21.1.7" type="github" pages="23">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1415" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -539,7 +539,7 @@
         <mxCell id="jPWqI7IsRYqokotSj5xS-0" />
         <mxCell id="jPWqI7IsRYqokotSj5xS-1" parent="jPWqI7IsRYqokotSj5xS-0" />
         <mxCell id="RPGOmraRPaYIx7-VgdzC-8" value="" style="rounded=0;html=1;labelBackgroundColor=default;fontColor=default;fillColor=none;strokeColor=#6600CC;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
-          <mxGeometry x="140" y="290" width="820" height="290" as="geometry" />
+          <mxGeometry x="138" y="290" width="820" height="290" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="jPWqI7IsRYqokotSj5xS-1" source="jPWqI7IsRYqokotSj5xS-37" target="jPWqI7IsRYqokotSj5xS-8">
           <mxGeometry relative="1" as="geometry">
@@ -567,11 +567,11 @@
         <mxCell id="jPWqI7IsRYqokotSj5xS-14" value="EGRESS JOBS&amp;nbsp;" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=rtmv1XBsKIsu;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="700" y="310" width="63.84" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="jPWqI7IsRYqokotSj5xS-15" value="Created and updated Golden Records" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+        <mxCell id="jPWqI7IsRYqokotSj5xS-15" value="Created and updated Golden Records" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=center;fontSize=13;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="820" y="300" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jPWqI7IsRYqokotSj5xS-16" value="MDM_ID and all the consolidated attribute for person" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=13;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
-          <mxGeometry x="820" y="402" width="120" height="113" as="geometry" />
+        <mxCell id="jPWqI7IsRYqokotSj5xS-16" value="MDM_ID and all the consolidated attribute for person" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=13;size=19;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="820" y="402" width="120" height="88" as="geometry" />
         </mxCell>
         <mxCell id="jPWqI7IsRYqokotSj5xS-17" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d4;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="724.42" y="42" width="68" height="46" as="geometry" />
