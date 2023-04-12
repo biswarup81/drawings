@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T13:25:56.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vccg7scoZRbXrXK_siyJ" version="21.1.7" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-04-12T13:27:19.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="O_0Wg2axAV6OduLUM2aM" version="21.1.7" type="github" pages="23">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1415" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -644,6 +644,12 @@
         </mxCell>
         <mxCell id="RPGOmraRPaYIx7-VgdzC-7" value="Full Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
           <mxGeometry x="530" y="191" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPGOmraRPaYIx7-VgdzC-8" value="" style="rounded=0;html=1;labelBackgroundColor=default;fontColor=default;fillColor=none;strokeColor=#6600CC;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="140" y="290" width="820" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RPGOmraRPaYIx7-VgdzC-9" value="Early Next Year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="jPWqI7IsRYqokotSj5xS-1">
+          <mxGeometry x="491.63" y="540" width="157" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
