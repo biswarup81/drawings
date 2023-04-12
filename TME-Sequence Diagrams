@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T10:42:51.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DrLCsuMlBEChklOQIwiF" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T10:47:18.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6bFnXAbfLWLpRMkft7qt" version="21.1.7" type="github" pages="2">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1415" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
           <mxGeometry x="155" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxWg3bcXOPbmFsIKiUCl-3" value="SalesCustomerDealerId (FK)&lt;br&gt;Chassisnumber (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="160" width="180" height="150" as="geometry" />
+          <mxGeometry x="345" y="210" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hxWg3bcXOPbmFsIKiUCl-4" value="Vehicledetail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="370" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxWg3bcXOPbmFsIKiUCl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hxWg3bcXOPbmFsIKiUCl-3" target="hxWg3bcXOPbmFsIKiUCl-9">
           <mxGeometry relative="1" as="geometry">
@@ -45,13 +45,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hxWg3bcXOPbmFsIKiUCl-9" value="ID (PK)&lt;br&gt;customerid(FK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="520" width="120" height="150" as="geometry" />
+          <mxGeometry x="150" y="330" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hxWg3bcXOPbmFsIKiUCl-10" value="Customerdelear" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="480" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxWg3bcXOPbmFsIKiUCl-14" value="Select vehicledetail.chassisnumber, vehicledetail.registrationnumber from&amp;nbsp;&lt;br&gt;vehicledetails, customerdelear, customerdetail&lt;br&gt;where&lt;br&gt;vehicledetail.salescustomerdelearId=customerdelear.id&lt;br&gt;and&lt;br&gt;customerdelear.customerid = customerdetail.ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="480" height="90" as="geometry" />
+          <mxGeometry x="570" y="230" width="480" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.032;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hxWg3bcXOPbmFsIKiUCl-16" target="hxWg3bcXOPbmFsIKiUCl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-16" value="customerdetail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxWg3bcXOPbmFsIKiUCl-17" target="hxWg3bcXOPbmFsIKiUCl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-17" value="customerdelear" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxWg3bcXOPbmFsIKiUCl-18" target="hxWg3bcXOPbmFsIKiUCl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-18" value="customerdelear.customerid = customerdetail.ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-21" value="Joiner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxWg3bcXOPbmFsIKiUCl-22" target="hxWg3bcXOPbmFsIKiUCl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-22" value="vehicledetail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxWg3bcXOPbmFsIKiUCl-24" target="hxWg3bcXOPbmFsIKiUCl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-24" value="vehicledetail.salescustomerdelearId=&lt;br&gt;customerdelear.id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="630" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-27" value="Joiner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-29" value="customerdetail.ID&lt;br&gt;vehicledetail.chassisnumber, vehicledetail.registrationnumber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="630" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxWg3bcXOPbmFsIKiUCl-31" value="Target" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970.5" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
