@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T14:27:18.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ow9vNq4eixKwc3cfeOvO" version="21.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-11T16:07:42.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="axYqqoc9VE_ht7V7Jw4r" version="21.2.9" type="github" pages="12">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -548,6 +548,9 @@
         <mxCell id="t864lPCyRzbMh0QFAFLI-32" value="7-00 PM" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t864lPCyRzbMh0QFAFLI-1">
           <mxGeometry x="1640" y="270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oD1N-2C6Wm34SmrOZF_M-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t864lPCyRzbMh0QFAFLI-1" source="t864lPCyRzbMh0QFAFLI-33" target="oD1N-2C6Wm34SmrOZF_M-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t864lPCyRzbMh0QFAFLI-33" value="MSD Completes the other activities" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t864lPCyRzbMh0QFAFLI-1">
           <mxGeometry x="1810" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -583,6 +586,12 @@
         </mxCell>
         <mxCell id="nPNOXaD1pXfkCVqFhpEs-0" value="What are the other activities" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="t864lPCyRzbMh0QFAFLI-1">
           <mxGeometry x="1810" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oD1N-2C6Wm34SmrOZF_M-0" value="Data Lake" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="t864lPCyRzbMh0QFAFLI-1">
+          <mxGeometry x="2010" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oD1N-2C6Wm34SmrOZF_M-2" value="Lead, Contact data, lead management" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="t864lPCyRzbMh0QFAFLI-1">
+          <mxGeometry x="1740" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
