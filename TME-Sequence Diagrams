@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T09:36:31.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gdNACsncFdYWLtPTBGU0" version="21.2.9" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-15T09:41:03.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="E1pfKa5br6iVm_w4i30N" version="21.2.9" type="github" pages="14">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -811,7 +811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5wk0PrB9a9TXfFDFrxej" name="OT-INFA">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -846,6 +846,43 @@
         </mxCell>
         <mxCell id="r7Y9JA4_uwtRXPpf7u8H-11" value="Add/Modify of consent (e.g. CP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="INFA-OT" id="4AtWxNeeOdaVhJOqU7yn">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="bE6WY8f2_fzt_Pmv9gW_-0" />
+        <mxCell id="bE6WY8f2_fzt_Pmv9gW_-1" parent="bE6WY8f2_fzt_Pmv9gW_-0" />
+        <mxCell id="bE6WY8f2_fzt_Pmv9gW_-4" value="OT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE6WY8f2_fzt_Pmv9gW_-1">
+          <mxGeometry x="820" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PBmZDYxlwaJfPrhsHuY5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bE6WY8f2_fzt_Pmv9gW_-1" source="bE6WY8f2_fzt_Pmv9gW_-9" target="PBmZDYxlwaJfPrhsHuY5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE6WY8f2_fzt_Pmv9gW_-9" value="Informatica MDM" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="bE6WY8f2_fzt_Pmv9gW_-1">
+          <mxGeometry x="390" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bE6WY8f2_fzt_Pmv9gW_-11" value="Add/Change of consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bE6WY8f2_fzt_Pmv9gW_-1">
+          <mxGeometry x="250" y="370" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PBmZDYxlwaJfPrhsHuY5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bE6WY8f2_fzt_Pmv9gW_-1" source="PBmZDYxlwaJfPrhsHuY5-0" target="bE6WY8f2_fzt_Pmv9gW_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PBmZDYxlwaJfPrhsHuY5-0" value="MSD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE6WY8f2_fzt_Pmv9gW_-1">
+          <mxGeometry x="90" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PBmZDYxlwaJfPrhsHuY5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bE6WY8f2_fzt_Pmv9gW_-1" source="PBmZDYxlwaJfPrhsHuY5-3" target="bE6WY8f2_fzt_Pmv9gW_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PBmZDYxlwaJfPrhsHuY5-3" value="INFA CAI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bE6WY8f2_fzt_Pmv9gW_-1">
+          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PBmZDYxlwaJfPrhsHuY5-8" value="REST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bE6WY8f2_fzt_Pmv9gW_-1">
+          <mxGeometry x="750" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
