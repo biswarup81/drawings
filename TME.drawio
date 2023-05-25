@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T06:57:28.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="D9mSnhjK6T2oxHxue5te" version="21.3.3" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:00:23.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rgG8t0fuTIq7yGCcA89J" version="21.3.3" type="github" pages="26">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="2954" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4164,7 +4164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MSD Intergration-Latest" id="kN-FL1Lsarghg1C6c4A7">
-    <mxGraphModel dx="1407" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-0" />
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-1" parent="8FzNZ3q8MbwthM3eQl0N-0" />
@@ -4269,14 +4269,8 @@
             <mxPoint x="1027" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-52" value="&lt;b&gt;Best Practice&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Match/Merge Job should be used instead of API and to be scheduled in 1 hr interval" style="shape=card;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=16;fontColor=#030303;fillColor=none;align=left;size=20;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry x="130" y="640" width="740" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-58" value="~ How many total records daily ?&lt;br&gt;~ How many new records daily ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
           <mxGeometry x="50" y="440" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-59" value="Fault handling to be finalized" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry x="949" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-60" value="Business Event" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
           <mxGeometry x="987" y="261" width="69.07" height="66" as="geometry" />
@@ -4284,32 +4278,14 @@
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-62" value="SQS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
           <mxGeometry x="600" y="387" width="70" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-63" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="780" as="sourcePoint" />
-            <mxPoint x="120" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="58" y="810" as="sourcePoint" />
-            <mxPoint x="118" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-65" value="Real-time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry x="130" y="766" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-66" value="Batch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry x="119" y="794" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="99.5" y="116" as="sourcePoint" />
             <mxPoint x="159.5" y="116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FzNZ3q8MbwthM3eQl0N-70" value="Real-time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
-          <mxGeometry x="160.5" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="8FzNZ3q8MbwthM3eQl0N-70" value="Near real-time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
+          <mxGeometry x="160.5" y="100" width="99.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-71" value="Create/Update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
           <mxGeometry x="326.5" y="231" width="120" height="30" as="geometry" />
