@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T07:15:04.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rtE5PYiJ6tnAPpMd-fG6" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T07:21:19.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lDhkxJR4jUew13hFeeW3" version="21.3.7" type="github">
   <diagram name="Page-1" id="kcEuqjkQgL32cvvFv_7w">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gFP8oRgVTRER96iRmuCu-1" value="CAI :Lead" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="190" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFP8oRgVTRER96iRmuCu-2" value="CDI Lead" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gFP8oRgVTRER96iRmuCu-3" value="MDM Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="30" height="60" as="geometry" />
+        <mxCell id="gFP8oRgVTRER96iRmuCu-3" value="MDM Lead" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFP8oRgVTRER96iRmuCu-4" value="&lt;font color=&quot;#000000&quot;&gt;Migration Lead&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="30" height="60" as="geometry" />
@@ -19,14 +19,20 @@
         <mxCell id="gFP8oRgVTRER96iRmuCu-5" value="&lt;font color=&quot;#000000&quot;&gt;MDM Test Lead&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="640" y="210" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gFP8oRgVTRER96iRmuCu-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="710" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="gFP8oRgVTRER96iRmuCu-8" value="Lead Business Analyst" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="270" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFP8oRgVTRER96iRmuCu-9" value="Scrum Master" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="550" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gFP8oRgVTRER96iRmuCu-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="50" width="580" height="270" as="geometry" />
+        <mxCell id="gFP8oRgVTRER96iRmuCu-13" value="MDM Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFP8oRgVTRER96iRmuCu-14" value="Business Analyst" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
