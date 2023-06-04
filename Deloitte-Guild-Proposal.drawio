@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T08:20:12.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="y4GWrVNaRYsa7ZJKbqMu" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-04T11:32:23.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HJmfNQJcRTRvC14dA8sS" version="21.3.7" type="github" pages="3">
   <diagram name="MDM Guild Delivery" id="kcEuqjkQgL32cvvFv_7w">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gFP8oRgVTRER96iRmuCu-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="20" width="780" height="450" as="geometry" />
+          <mxGeometry x="85" y="20" width="1015" height="480" as="geometry" />
         </mxCell>
         <mxCell id="9kzjjH1bRcHk7Z0w_79C-1" value="Sales Lead" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="680" y="90" width="30" height="60" as="geometry" />
@@ -144,6 +144,21 @@
         </mxCell>
         <mxCell id="llGlC6vn6_8WmVwevJTp-2" value="Analytics/&lt;br&gt;Reporting" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="850" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bxry-XjI54zwO9HeJ4ow-1" value="&lt;font color=&quot;#000000&quot;&gt;DG Lead&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bxry-XjI54zwO9HeJ4ow-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="939" y="324" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxry-XjI54zwO9HeJ4ow-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="949" y="334" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxry-XjI54zwO9HeJ4ow-6" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxry-XjI54zwO9HeJ4ow-9" value="DG Specialists" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="939" y="384" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
