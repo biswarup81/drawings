@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T10:10:36.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u81QtzG3WnG22HlYEXMe" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T10:29:24.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tffrbKOr48BUl-m9Sw0h" version="21.3.7" type="github">
   <diagram name="Page-1" id="8jqE3-M1yPvAMIlNB3aw">
     <mxGraphModel dx="1147" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -89,6 +89,9 @@
         </mxCell>
         <mxCell id="O8KPhh6g1splYn8zCWNG-30" value="Sindhu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8KPhh6g1splYn8zCWNG-31" value="Data Platform - Informatica MDM (System name)&lt;br&gt;&lt;br&gt;MongoDB - Informatica (Database name)&lt;br&gt;&lt;br&gt;Customer C360 Saas (Schema name)" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="830" width="310" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
