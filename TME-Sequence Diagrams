@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T17:27:32.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ak9EAZH9GSsY1GiKAGyY" version="21.3.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-09T17:40:34.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="25uqxxAVtwucroakooOA" version="21.3.7" type="github" pages="16">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -924,8 +924,8 @@
         <mxCell id="NPj6YTlm5AITm_f4kixr-2" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="350" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tlf12eftUP83u5Urj1fq-1" value="Migration - MSD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="100" height="30" as="geometry" />
+        <mxCell id="tlf12eftUP83u5Urj1fq-1" value="Migration - MSD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tlf12eftUP83u5Urj1fq-3" value="1. Initial Data Load (Records added/updated in MSD) without consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="90" width="440" height="30" as="geometry" />
@@ -1003,6 +1003,72 @@
         </mxCell>
         <mxCell id="tlf12eftUP83u5Urj1fq-26" value="Final mapping between MDM and MSD_ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="690" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xRDEMl_Mjmoh_QvIXwSg" name="Migration-OT">
+    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_LYJy9Ckb5oWDUfGjRpa-1" value="Migration - OT (After Step-5 of Informatica)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TEg89JBad4tTJybtqSGF-3" target="TEg89JBad4tTJybtqSGF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-2" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TEg89JBad4tTJybtqSGF-1">
+          <mxGeometry x="355" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-3" value="Consent Centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-4" value="OT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-5" value="6. Consent Centre to OT Migration with Local ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-6" value="OT contains local id" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEg89JBad4tTJybtqSGF-7" value="7. Informatica to OT (MDM_ID) (One time Data Load)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-3" value="MDM_ID and Local_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bi0CFjockzKHn-5g3nIQ-1" target="Bi0CFjockzKHn-5g3nIQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-1" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-2" value="One Trust" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-4" value="Extract contains MDM_ID and Local_ID mapping" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-5" value="8. OT to Informatica (Consents) (One time data load)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bi0CFjockzKHn-5g3nIQ-6" target="Bi0CFjockzKHn-5g3nIQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-9" value="MDM_ID and Consent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bi0CFjockzKHn-5g3nIQ-8">
+          <mxGeometry x="0.1014" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-6" value="One Trust" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-7" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi0CFjockzKHn-5g3nIQ-10" value="Extract contains MDM_ID and Consent" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
