@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T17:12:53.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YgCeHeGr7IePDi9hLDv7" version="21.3.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-09T17:27:32.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ak9EAZH9GSsY1GiKAGyY" version="21.3.7" type="github" pages="15">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -906,11 +906,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4m-tGI7G7buN73WvfETw" name="Migration-MSD">
-    <mxGraphModel dx="989" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NPj6YTlm5AITm_f4kixr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NPj6YTlm5AITm_f4kixr-1" target="NPj6YTlm5AITm_f4kixr-2" edge="1">
+        <mxCell id="NPj6YTlm5AITm_f4kixr-3" value="MSD Connector" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NPj6YTlm5AITm_f4kixr-1" target="NPj6YTlm5AITm_f4kixr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NPj6YTlm5AITm_f4kixr-5" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NPj6YTlm5AITm_f4kixr-3" vertex="1" connectable="0">
@@ -919,13 +919,90 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NPj6YTlm5AITm_f4kixr-1" value="MSD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NPj6YTlm5AITm_f4kixr-2" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tlf12eftUP83u5Urj1fq-1" value="Migration - MSD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-3" value="1. Initial Data Load (Records added/updated in MSD) without consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-4" value="2. Egress MDM_ID along with source_system_id in BLOB Storage in csv file" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="220" width="428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-5" value="Consolidated MDM_ID generated after match and merge" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-6" target="tlf12eftUP83u5Urj1fq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-6" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="340" y="287.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-9" value="3. Read from CSV file and update Cluster_ID with MDM_ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="360" width="428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-10" target="tlf12eftUP83u5Urj1fq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-11" value="MSD" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#00BEF2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="428.75" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-13" value="Logic for mapping between MDM_ID and cluster_id" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="402.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-14" value="4. Full Data Load from MSD to Informatica (Artificial records)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="510" width="428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-15" value="MSD Connector" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-17" target="tlf12eftUP83u5Urj1fq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-16" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tlf12eftUP83u5Urj1fq-15">
+          <mxGeometry x="355" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-17" value="MSD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-18" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-19" value="MSD_IDs to be associated with&amp;nbsp; consolidated MDM_ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-20" value="5. Egress from Informatica to MSD" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="680" width="428" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-22" target="tlf12eftUP83u5Urj1fq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-22" value="Informatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="752.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="340" y="750" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-24" value="MSD" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#00BEF2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="758.75" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tlf12eftUP83u5Urj1fq-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="772.1600000000001" as="sourcePoint" />
+            <mxPoint x="570" y="772.1600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlf12eftUP83u5Urj1fq-26" value="Final mapping between MDM and MSD_ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="690" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
