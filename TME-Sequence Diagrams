@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T17:40:34.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="25uqxxAVtwucroakooOA" version="21.3.7" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-09T17:56:16.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DOIEuE8dnZ6E0tvoy_qn" version="21.3.7" type="github" pages="16">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -906,15 +906,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4m-tGI7G7buN73WvfETw" name="Migration-MSD">
-    <mxGraphModel dx="989" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NPj6YTlm5AITm_f4kixr-3" value="MSD Connector" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NPj6YTlm5AITm_f4kixr-1" target="NPj6YTlm5AITm_f4kixr-2" edge="1">
+        <mxCell id="4dyhVdexhEjKZ1JHFeQh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPj6YTlm5AITm_f4kixr-1" target="NPj6YTlm5AITm_f4kixr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NPj6YTlm5AITm_f4kixr-5" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NPj6YTlm5AITm_f4kixr-3" vertex="1" connectable="0">
-          <mxGeometry x="355" y="-10" relative="1" as="geometry">
+        <mxCell id="4dyhVdexhEjKZ1JHFeQh-2" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4dyhVdexhEjKZ1JHFeQh-1">
+          <mxGeometry x="0.167" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -948,7 +948,7 @@
         <mxCell id="tlf12eftUP83u5Urj1fq-9" value="3. Read from CSV file and update Cluster_ID with MDM_ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="62" y="360" width="428" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tlf12eftUP83u5Urj1fq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-10" target="tlf12eftUP83u5Urj1fq-11">
+        <mxCell id="4dyhVdexhEjKZ1JHFeQh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-10" target="tlf12eftUP83u5Urj1fq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tlf12eftUP83u5Urj1fq-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
@@ -963,11 +963,11 @@
         <mxCell id="tlf12eftUP83u5Urj1fq-14" value="4. Full Data Load from MSD to Informatica (Artificial records)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="62" y="510" width="428" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tlf12eftUP83u5Urj1fq-15" value="MSD Connector" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-17" target="tlf12eftUP83u5Urj1fq-18">
+        <mxCell id="4dyhVdexhEjKZ1JHFeQh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlf12eftUP83u5Urj1fq-17" target="tlf12eftUP83u5Urj1fq-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tlf12eftUP83u5Urj1fq-16" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tlf12eftUP83u5Urj1fq-15">
-          <mxGeometry x="355" y="-10" relative="1" as="geometry">
+        <mxCell id="4dyhVdexhEjKZ1JHFeQh-5" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4dyhVdexhEjKZ1JHFeQh-4">
+          <mxGeometry x="0.1374" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1008,20 +1008,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xRDEMl_Mjmoh_QvIXwSg" name="Migration-OT">
-    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_LYJy9Ckb5oWDUfGjRpa-1" value="Migration - OT (After Step-5 of Informatica)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TEg89JBad4tTJybtqSGF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TEg89JBad4tTJybtqSGF-3" target="TEg89JBad4tTJybtqSGF-4">
+        <mxCell id="pOqdBJkIUIU63teSgZ30-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TEg89JBad4tTJybtqSGF-3" target="TEg89JBad4tTJybtqSGF-4">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TEg89JBad4tTJybtqSGF-2" value="MSD Connector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TEg89JBad4tTJybtqSGF-1">
-          <mxGeometry x="355" y="-10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TEg89JBad4tTJybtqSGF-3" value="Consent Centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="120" height="40" as="geometry" />
