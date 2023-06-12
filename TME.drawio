@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T11:11:33.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_myhrflbkoOz82pSh22T" version="21.3.8" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-06-12T11:39:44.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="feJfEP_VRlkYrQElTjeg" version="21.3.8" type="github" pages="27">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4304,6 +4304,29 @@
         </mxCell>
         <mxCell id="M1V-zXihuIqoSdTHY3mc-4" value="&lt;ul&gt;&lt;li&gt;Person payload with consent with Cross reference&lt;/li&gt;&lt;li&gt;Vehicle Payload&lt;/li&gt;&lt;li&gt;Relationship payload&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="8FzNZ3q8MbwthM3eQl0N-1">
           <mxGeometry x="706" y="456.75" width="244" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IT9X0Gm96D--0ocfztuo" name="Page-27">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iihD6qISuWUTj-vuMEPb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iihD6qISuWUTj-vuMEPb-1" target="iihD6qISuWUTj-vuMEPb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iihD6qISuWUTj-vuMEPb-1" value="TOSHIKO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iihD6qISuWUTj-vuMEPb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iihD6qISuWUTj-vuMEPb-2" target="iihD6qISuWUTj-vuMEPb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iihD6qISuWUTj-vuMEPb-2" value="Informatica MDM C360" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="395" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iihD6qISuWUTj-vuMEPb-4" value="MSD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
