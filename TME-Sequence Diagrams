@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T11:16:05.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dSDT5ofSgoYikJBEkKH7" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-20T11:20:04.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ep92rrxxRqx5hQzIffvT" version="21.3.8" type="github" pages="17">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1069,10 +1069,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WqIUmolapZ09lFObqCab" name="MSD-Bulk-export">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WP0oqHHzhSRenFJHAye4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-1" target="WP0oqHHzhSRenFJHAye4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="55" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-2" target="WP0oqHHzhSRenFJHAye4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-2" value="Search person (*)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-4" target="WP0oqHHzhSRenFJHAye4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-4" value="count&amp;lt;size" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-6" target="WP0oqHHzhSRenFJHAye4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-6" value="count++" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-8" target="WP0oqHHzhSRenFJHAye4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-8" value="Get the MDM_ID" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-10" target="WP0oqHHzhSRenFJHAye4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-10" value="Call relationships API for MDM_ID" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WP0oqHHzhSRenFJHAye4-12" target="WP0oqHHzhSRenFJHAye4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WP0oqHHzhSRenFJHAye4-12" value="Merge person and relationship JSON" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
