@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T15:17:55.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5FPGuADNzZjb1D1gBGod" version="21.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-30T15:18:31.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xrb0LDNnal65eV1O5X2s" version="21.6.9" type="github" pages="4">
   <diagram name="Page-1" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -298,9 +298,6 @@
         <mxCell id="ZE-nWkMqNcIyirlXJKJp-14" value="Informatica C360 SaaS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;" vertex="1" parent="1">
           <mxGeometry x="802" y="221" width="195" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZE-nWkMqNcIyirlXJKJp-16" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Attributes to publish&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.attributes;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=GWfvRAXIjcSH;" vertex="1" parent="1">
-          <mxGeometry x="917" y="138" width="50" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ZE-nWkMqNcIyirlXJKJp-20" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Secured Agent&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.agent2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=15;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1c7b68;strokeWidth=0.8;lucidId=V0fvz383fF~9;" vertex="1" parent="1">
           <mxGeometry x="370" y="36" width="38" height="32" as="geometry" />
         </mxCell>
@@ -330,12 +327,6 @@
         </mxCell>
         <mxCell id="ZE-nWkMqNcIyirlXJKJp-29" value="Downstream application" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="380.88" y="429.75" width="130" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ZE-nWkMqNcIyirlXJKJp-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="880" y="132" width="20" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="ZE-nWkMqNcIyirlXJKJp-33" value="Data Mapping" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="825.125" y="118" width="38.875" height="89" as="geometry" />
         </mxCell>
         <mxCell id="ZE-nWkMqNcIyirlXJKJp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZE-nWkMqNcIyirlXJKJp-37" target="ZE-nWkMqNcIyirlXJKJp-6">
           <mxGeometry relative="1" as="geometry" />
