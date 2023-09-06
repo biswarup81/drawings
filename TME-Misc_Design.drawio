@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T07:40:01.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vC1EYQyGyuZHvwVXPkVi" version="21.7.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-09-06T09:29:15.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CKiD2rApOI-t_dCD0rUw" version="21.7.2" type="github" pages="6">
   <diagram name="Page-1" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -575,6 +575,41 @@
         </mxCell>
         <mxCell id="t_BVDtABDlsJXRlT_HiE-12" value="Near real time Ingress" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PZ_3jigwq752qhaAHpBI" name="Page-6">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQSWuYxW3NTt83LJOnHF-2" target="EQSWuYxW3NTt83LJOnHF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-2" value="Person JSON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-3" value="MDM_ID&lt;br&gt;PII data" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=20;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EQSWuYxW3NTt83LJOnHF-5" target="EQSWuYxW3NTt83LJOnHF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-5" value="Vehicle JSON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQSWuYxW3NTt83LJOnHF-10" target="EQSWuYxW3NTt83LJOnHF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-10" value="Person X Relationship&lt;br&gt;(MDM_ID, PII, VRN, Reln)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-11" value="Person X Relationship X Vehicle&lt;br&gt;(MDM_ID, PII, VIN, Reln,&amp;nbsp;VRN)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQSWuYxW3NTt83LJOnHF-12" value="VIN&lt;br&gt;VRN" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=20;" vertex="1" parent="1">
+          <mxGeometry x="405" y="400" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
