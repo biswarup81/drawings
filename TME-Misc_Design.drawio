@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T13:55:10.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fnwbsC65-CVH1qJqsjbv" version="21.7.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-09-12T14:10:44.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fOIVEgWndoDywcqFAZVQ" version="21.7.2" type="github" pages="10">
   <diagram name="Page-1" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -739,7 +739,7 @@
         <mxCell id="PhR4iEXmShJmvfT8sjHP-1" value="&lt;b&gt;MDM_1&lt;/b&gt;&lt;br&gt;DMS_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PhR4iEXmShJmvfT8sjHP-2" value="&lt;b&gt;MDM_2&lt;br&gt;&lt;/b&gt;DMS_2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PhR4iEXmShJmvfT8sjHP-2" value="&lt;b&gt;MDM_2&lt;br&gt;&lt;/b&gt;DMS_2&lt;br&gt;CP_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PhR4iEXmShJmvfT8sjHP-3" value="J Pindel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -748,7 +748,7 @@
         <mxCell id="PhR4iEXmShJmvfT8sjHP-6" value="Justyna Pindel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506" y="144" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PhR4iEXmShJmvfT8sjHP-7" value="&lt;b&gt;MDM_1&lt;/b&gt;&lt;br&gt;DMS_1, DMS_2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PhR4iEXmShJmvfT8sjHP-7" value="&lt;b&gt;MDM_1&lt;/b&gt;&lt;br&gt;DMS_1, DMS_2,CP_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PhR4iEXmShJmvfT8sjHP-8" value="Justyna Pindel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -814,8 +814,8 @@
         <mxCell id="PhR4iEXmShJmvfT8sjHP-31" value="New Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="550" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PhR4iEXmShJmvfT8sjHP-33" value="1. Manual Unmege by DS&lt;br&gt;2. Deletion of source system records (We can avoid this)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="700" width="320" height="50" as="geometry" />
+        <mxCell id="PhR4iEXmShJmvfT8sjHP-33" value="1. Manual Unmege by DS&lt;br&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;2. Deletion of source system records (We can avoid this)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="700" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
