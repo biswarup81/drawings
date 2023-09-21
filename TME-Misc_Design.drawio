@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T09:05:58.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dQi70qnDn4zLTzaQf0qe" version="21.7.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-21T09:11:41.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1iT_yj_KuifWdXZL0iF6" version="21.7.4" type="github" pages="11">
   <diagram name="Page-1" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -905,6 +905,9 @@
         <mxCell id="yCsrFzY32UlOJLUgR_Ul-21" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="yCsrFzY32UlOJLUgR_Ul-1">
           <mxGeometry x="360" y="645" width="120" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="Av_eBwYSm2ySRQktUnOU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yCsrFzY32UlOJLUgR_Ul-1" source="yCsrFzY32UlOJLUgR_Ul-23" target="yCsrFzY32UlOJLUgR_Ul-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yCsrFzY32UlOJLUgR_Ul-23" value="Consent= TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yCsrFzY32UlOJLUgR_Ul-1">
           <mxGeometry x="860" y="300" width="140" height="30" as="geometry" />
         </mxCell>
@@ -926,8 +929,8 @@
         <mxCell id="Av_eBwYSm2ySRQktUnOU-1" value="Justyna Pindel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yCsrFzY32UlOJLUgR_Ul-1">
           <mxGeometry x="160" y="360" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Av_eBwYSm2ySRQktUnOU-2" value="Anonimise Justyna Pindal for CP" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="yCsrFzY32UlOJLUgR_Ul-1">
-          <mxGeometry x="825" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="Av_eBwYSm2ySRQktUnOU-2" value="Anonimise &lt;b&gt;&lt;strike&gt;Justyna Pindal&lt;/strike&gt;&lt;/b&gt; for CP" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="yCsrFzY32UlOJLUgR_Ul-1">
+          <mxGeometry x="825" y="230" width="225" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
