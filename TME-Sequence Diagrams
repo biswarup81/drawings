@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T08:54:57.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iNpjzmQYFRLQnovn_FmD" version="22.0.4" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-10-16T08:59:07.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Y2ylkD67f4F9ezueFQSr" version="22.0.4" type="github" pages="21">
   <diagram name="Page-1" id="-k4keqRIDBIDj2dIprts">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1452,8 +1452,8 @@
         <mxCell id="aEqP63ZzxjZnz12kovYu-19" value="Source-2 (IT)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aEqP63ZzxjZnz12kovYu-22" value="1. Diff BEs&lt;br&gt;2. Diff Mappings&lt;br&gt;3. Diff Mapping Tasks&lt;br&gt;4. Diff Taskflows&lt;br&gt;5. Diff Ingress Jobs&lt;br&gt;&lt;br&gt;6. Diff M&amp;amp;M&lt;br&gt;7. Diff Publications&lt;br&gt;&lt;br&gt;10. Diff CP-Create-Record-Process (real-time)&lt;br&gt;11. Diff CP-update-record (real-time)&lt;br&gt;&lt;br&gt;12. MSD-Create-Process (real-time)&lt;br&gt;13. NSD-Update-Process&lt;br&gt;&lt;br&gt;14. MSD-OT-Update-Process&lt;br&gt;15. MSD-OT-Create-Process" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="270" height="260" as="geometry" />
+        <mxCell id="aEqP63ZzxjZnz12kovYu-22" value="&lt;b&gt;&lt;br&gt;Create project structure&lt;br&gt;&lt;br&gt;1. Diff BEs&lt;br&gt;&lt;/b&gt;2. Diff Mappings (MDM-CD)&lt;br&gt;3. Diff Mapping Tasks (MDM-CD)&lt;br&gt;4. Diff Taskflows (MDM-CD)&lt;br&gt;5. Diff Ingress Jobs (MDM-CD)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;6. Diff M&amp;amp;M&lt;br&gt;7. Diff Publications&lt;br&gt;&lt;br&gt;10. Diff CP-Create-Record-Process (real-time)&lt;br&gt;11. Diff CP-update-record (real-time)&lt;br&gt;&lt;br&gt;12. MSD-Create-Process (real-time)&lt;br&gt;13. NSD-Update-Process&lt;br&gt;&lt;br&gt;14. MSD-OT-Update-Process&lt;br&gt;15. MSD-OT-Create-Process&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="270" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
