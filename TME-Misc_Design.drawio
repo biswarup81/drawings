@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T14:00:41.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DltG84o8wh4i4cgY09lA" version="22.0.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-10-19T14:04:03.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ig7sys5Yp-597w35w9aZ" version="22.0.4" type="github" pages="13">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -637,6 +637,18 @@
         </mxCell>
         <mxCell id="xEOvfCF8RLlL251eNZPF-3" value="&amp;nbsp;Update&amp;nbsp;&lt;b&gt;TOSHIKO_ID &lt;/b&gt;with MDM_ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y4AkSLvDIq1BZGma-2QY-1">
           <mxGeometry x="94" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ow5_zTp_Tvg1_wY_Er49-0" value="CP1, Justyna Pindel, jpindel@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y4AkSLvDIq1BZGma-2QY-1">
+          <mxGeometry x="840" y="213" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ow5_zTp_Tvg1_wY_Er49-1" value="T1, J Pindel, jpindel@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="y4AkSLvDIq1BZGma-2QY-1">
+          <mxGeometry x="840" y="255" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ow5_zTp_Tvg1_wY_Er49-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="y4AkSLvDIq1BZGma-2QY-1">
+          <mxGeometry x="840" y="200" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ow5_zTp_Tvg1_wY_Er49-3" value="&lt;b&gt;MDM_1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y4AkSLvDIq1BZGma-2QY-1">
+          <mxGeometry x="838" y="164" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
