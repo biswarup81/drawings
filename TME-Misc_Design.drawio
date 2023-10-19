@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T13:59:48.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="B9xDLgOFusNy8TMnVpAC" version="22.0.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-10-19T14:00:41.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DltG84o8wh4i4cgY09lA" version="22.0.4" type="github" pages="13">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -720,7 +720,7 @@
         <mxCell id="OM7AHpFG5OOQ_ADWxc0T-0" value="updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zpRZkx04tqBhvRTbICM5-1">
           <mxGeometry x="144" y="283" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cJRhQ8pnCqAJlktRw_Mz-2" value="Daily Batch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zpRZkx04tqBhvRTbICM5-1">
+        <mxCell id="cJRhQ8pnCqAJlktRw_Mz-2" value="Daily Batch (?)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zpRZkx04tqBhvRTbICM5-1">
           <mxGeometry x="410" y="450" width="121.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dIMMMQBdYgsRCxQLCuxU-4" value="Export Process" style="overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Data_Box.svg;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#45ADD2;strokeWidth=0.8;lucidId=bUlvEU.89sOu;" vertex="1" parent="zpRZkx04tqBhvRTbICM5-1">
