@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T10:13:02.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GkE9ROA_OzAYJmNQkY9l" version="22.0.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-11-03T14:35:31.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="B9AB6YCA7zZG0dn2PFX3" version="22.0.8" type="github" pages="15">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1050" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1554,6 +1554,60 @@
         </mxCell>
         <mxCell id="hQIO1DzMkkODanJFKQ9--53" value="Re-use the components from TGB and then replicate per NMSC. Logic can be changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="640" width="452.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hQIO1DzMkkODanJFKQ9--56" target="hQIO1DzMkkODanJFKQ9--65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--56" value="MSD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="790" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hQIO1DzMkkODanJFKQ9--57" target="hQIO1DzMkkODanJFKQ9--59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="810" as="sourcePoint" />
+            <mxPoint x="595" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--59" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="785" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hQIO1DzMkkODanJFKQ9--59" target="hQIO1DzMkkODanJFKQ9--61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="810" as="sourcePoint" />
+            <mxPoint x="595" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--61" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="785" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hQIO1DzMkkODanJFKQ9--61" target="hQIO1DzMkkODanJFKQ9--63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="810" as="sourcePoint" />
+            <mxPoint x="595" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--63" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="790" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hQIO1DzMkkODanJFKQ9--65" target="hQIO1DzMkkODanJFKQ9--66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="770" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--66" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--67" value="NOW AND FUTURE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--68" value="Batch (first time data load)&amp;nbsp; and Real-time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="730" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQIO1DzMkkODanJFKQ9--69" value="Re-use the components from TGB and then replicate per NMSC. Logic can be changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="870" width="452.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
