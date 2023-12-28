@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:51:36.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9bHYgcV7wNGmyNt0KjUb" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T04:09:35.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y96lJqdXG-Dv1Q4MFz6_" version="22.1.15" type="github" pages="6">
   <diagram name="Page-1" id="7HnCP33ddaRD0rec6pW0">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,6 +145,108 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yjkKaahtZKCr1QFPdN_M" name="Used car journey">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8sIp4IgzL-qYaX0-0zkI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcFvVLF5O91_eoLGzDhf-1" target="8sIp4IgzL-qYaX0-0zkI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcFvVLF5O91_eoLGzDhf-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcFvVLF5O91_eoLGzDhf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcFvVLF5O91_eoLGzDhf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcFvVLF5O91_eoLGzDhf-4" value="Buys an used Car" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zcFvVLF5O91_eoLGzDhf-3">
+          <mxGeometry x="-0.0955" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcFvVLF5O91_eoLGzDhf-2" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="77" width="98" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="yQyh46L_vUeZi05Qh_IL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8sIp4IgzL-qYaX0-0zkI-1" target="yQyh46L_vUeZi05Qh_IL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="315" />
+              <mxPoint x="490" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQyh46L_vUeZi05Qh_IL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8sIp4IgzL-qYaX0-0zkI-1" target="yQyh46L_vUeZi05Qh_IL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="315" />
+              <mxPoint x="490" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sIp4IgzL-qYaX0-0zkI-1" value="Informatica C360 SaaS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="290" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8sIp4IgzL-qYaX0-0zkI-3" value="John Doe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8sIp4IgzL-qYaX0-0zkI-4" value="4S3BMHT68B3212345" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="40" width="136.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8sIp4IgzL-qYaX0-0zkI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcFvVLF5O91_eoLGzDhf-2" target="8sIp4IgzL-qYaX0-0zkI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQyh46L_vUeZi05Qh_IL-1" value="Informatica Cloud Application Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#b8f5ed;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" vertex="1" parent="1">
+          <mxGeometry x="521" y="160" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yQyh46L_vUeZi05Qh_IL-2" value="Informatica Cloud Data Integration" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;spacing=3.8;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dae8fc;strokeWidth=0.8;lucidId=kAfvMmEvo7Zt;" vertex="1" parent="1">
+          <mxGeometry x="521" y="380" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yQyh46L_vUeZi05Qh_IL-6" value="Real Time Notification to Customer for -&lt;br&gt;&lt;br&gt;1. Maintenance services&lt;br&gt;2. Warrantry Services&lt;br&gt;3. Offers" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yQyh46L_vUeZi05Qh_IL-7" value="Reporting based prospect customer -&lt;br&gt;&lt;br&gt;1. Customer History&lt;br&gt;2. Vehicle History&lt;br&gt;3. Ownership History" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="140" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="odEpL8_zmmFJgW3NRMyN" name="Test Drive">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LtliuDOVQh_sm_GnoYdt-1" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;font-family:&#xa;&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;&#xa;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Starts&#xa;journey on web unknown and schedule test drive &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="350" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="raB5P4tfHij6WRnW45Hf" name="Projected Customer">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B6M1JlMT-A4dqSdjiWog-1" value="&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;disc&quot;&gt;&#xa; &lt;li class=&quot;MsoListParagraph&quot; style=&quot;color:black;margin-left:0cm;mso-list:l0 level1 lfo1&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&#xa;     EN-US&quot;&gt;Customer buying a car and buying insurance&lt;/span&gt;&lt;/li&gt;&#xa;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="310" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QcV0xI9qe69qJ0kC0ENk" name="Moving from One to Another">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G0GBI5yPqV01_sSkoLKw" name="Connected car journey ">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
