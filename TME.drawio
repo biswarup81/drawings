@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T15:08:56.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zRzXptfFMSb12JHe5Lsc" version="23.0.1" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2024-02-02T15:10:04.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n6ufUvswkSiHWz1ODgWm" version="23.0.1" type="github" pages="33">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4695,28 +4695,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-2" value="&lt;b&gt;MDM_887&lt;/b&gt;&lt;br&gt;CP_1&lt;br&gt;DMS_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYDqlDTW6onV3YL8gRBC-3" target="XYDqlDTW6onV3YL8gRBC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-3" value="&lt;b&gt;MDM_888&lt;/b&gt;&lt;br&gt;MSD_4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYDqlDTW6onV3YL8gRBC-4" target="XYDqlDTW6onV3YL8gRBC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-4" value="MSD_4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-6" value="&lt;b&gt;MDM_887&lt;/b&gt;&lt;br&gt;CP-1&lt;br&gt;DMS_1&lt;br&gt;MSD_1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="510" y="505" width="100" height="80" as="geometry" />
+          <mxGeometry x="550" y="595" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-9" value="First one will survive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="160" height="30" as="geometry" />
+          <mxGeometry x="520" y="690" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-10" value="MDM_887 - Y&lt;br&gt;MDM_888 - Y" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XYDqlDTW6onV3YL8gRBC-11" value="Near real time for MSD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
