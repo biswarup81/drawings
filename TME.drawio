@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T15:10:56.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-lNq1kF8NazKBADasRm4" version="23.0.1" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2024-02-05T15:48:30.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Kr7djLwi8pvXtsy7hXoI" version="23.1.1" type="github" pages="34">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4720,6 +4720,55 @@
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-11" value="Near real time for MSD&lt;br&gt;(TGB Roll-out)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BZpbSbYW57mhznONNCmt" name="Page-34">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-1" value="MSD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ms-LH3OvUMVU9kOWa_E-2" target="6ms-LH3OvUMVU9kOWa_E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-2" value="Informatica MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ms-LH3OvUMVU9kOWa_E-3" target="6ms-LH3OvUMVU9kOWa_E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-3" value="TGB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-5" value="1. Ingest Relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-7" value="2. Export JSON (incl relationship)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.183;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6ms-LH3OvUMVU9kOWa_E-1" target="6ms-LH3OvUMVU9kOWa_E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-9" value="3. MSD Calculates consumer role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.663;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6ms-LH3OvUMVU9kOWa_E-1" target="6ms-LH3OvUMVU9kOWa_E-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="20" />
+              <mxPoint x="460" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-12" value="4. Exports new consumer role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ms-LH3OvUMVU9kOWa_E-13" value="5. MDM insert relationships on MSD_1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
