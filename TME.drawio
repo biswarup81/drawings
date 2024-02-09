@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T10:22:24.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SWFq7TD7cvFYa0D5CqOy" version="23.1.1" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2024-02-09T10:24:57.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2417V3BD5owMy_3wQ7oK" version="23.1.1" type="github" pages="37">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5054,11 +5054,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4QHQnCiS5tezUv805NB-22" value="Changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="c4QHQnCiS5tezUv805NB-22" value="Data Model Changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c4QHQnCiS5tezUv805NB-23" value="DG Council" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="630" width="80" height="30" as="geometry" />
+        <mxCell id="c4QHQnCiS5tezUv805NB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4QHQnCiS5tezUv805NB-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486" y="685.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c4QHQnCiS5tezUv805NB-26" value="DG Council" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="650" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c4QHQnCiS5tezUv805NB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4QHQnCiS5tezUv805NB-29" target="c4QHQnCiS5tezUv805NB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4QHQnCiS5tezUv805NB-29" value="Job" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Stream_Analytics_Jobs.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="656" width="63.31" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c4QHQnCiS5tezUv805NB-30" value="All BE data model to be modified" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="640" y="662.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c4QHQnCiS5tezUv805NB-32" value="Impl Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="760" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
