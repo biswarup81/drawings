@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T11:42:23.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="N5hcX-m4pIF1qW0v1z3A" version="23.1.4" type="github" pages="40">
+<mxfile host="app.diagrams.net" modified="2024-02-21T11:50:38.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ih0kwKl3mQEgbAh6nmPw" version="23.1.5" type="github" pages="40">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4632,7 +4632,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YWN5tanEvEmgErHOPe5b" name="MDM-Merge-OT">
+  <diagram id="YWN5tanEvEmgErHOPe5b" name="Consent-MDM-Merge-OT">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -4641,85 +4641,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-1" value="MSD_1 (MDM_1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xYKD9jk5vTgFa3Db92IS-3" target="xYKD9jk5vTgFa3Db92IS-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-3" value="MSD_2 (MDM_2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xYKD9jk5vTgFa3Db92IS-5" target="xYKD9jk5vTgFa3Db92IS-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-5" value="MDM_1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-8" value="Merge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-9" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-10" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-12" value="MDM_1 - Y&lt;br&gt;MDM_2 - Y" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="110" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="100" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-13" value="OT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="255" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="355" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-14" value="10-00 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-15" value="3-00 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-17" value="Y" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-18" value="One Trust wants to know the survivorship.&amp;nbsp; Trigger the Merge using &lt;b&gt;API&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="155" width="190" height="60" as="geometry" />
+          <mxGeometry x="340" y="255" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-20" value="MDM_1 - Y" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="500" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-22" value="5-00 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-1" value="&lt;b&gt;Consent:&lt;br&gt;Scenario-1 - &lt;/b&gt;MSD_1 is a new record and it does not merge with any other golden record. &lt;b&gt;Create &lt;/b&gt;in MSD and MDM&lt;br&gt;MSD_1 - MDM_1 - &lt;b&gt;MDM_1-Y&lt;/b&gt;&lt;br&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario-2 &lt;/b&gt;MSD_1 is new in MSD but merged in MDM System with MDM_21. &lt;b&gt;Create &lt;/b&gt;in MSD &lt;b&gt;Update &lt;/b&gt;in MDM&lt;br&gt;&lt;br&gt;MSD_1 - &lt;b&gt;MDM_21 - Y&lt;/b&gt;&lt;br&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario-3&amp;nbsp;&lt;/b&gt;&amp;nbsp;CP creates a new record. MDM_134 is a new record with consent Y. MSD_1 is new in MSD but merged in MDM System with`MDM_134.&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Create&amp;nbsp;&lt;/b&gt;in MSD&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Update&amp;nbsp;&lt;/b&gt;in MDM&lt;br&gt;&lt;br&gt;MSD_1 -&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;MDM_134 - Y&lt;br&gt;&lt;/b&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario 4 &lt;/b&gt;MSD_1 with MDM_456 is updated in MDM. MDM_456 Y is updated. Update in MSD update in MDM&lt;br&gt;&lt;br&gt;MSD_1 MDM_456 - Y&lt;br&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario 5 &lt;/b&gt;MDM_887 and MDM_888 merged together.&lt;br&gt;&lt;br&gt;See the below figure.&lt;br&gt;&lt;i&gt;&lt;b&gt;To be incorporated&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="20" width="460" height="430" as="geometry" />
+          <mxGeometry x="630" y="120" width="460" height="430" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XYDqlDTW6onV3YL8gRBC-2" target="XYDqlDTW6onV3YL8gRBC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-2" value="&lt;b&gt;MDM_887&lt;/b&gt;&lt;br&gt;CP_1&lt;br&gt;DMS_1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XYDqlDTW6onV3YL8gRBC-3" target="XYDqlDTW6onV3YL8gRBC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-3" value="&lt;b&gt;MDM_888&lt;/b&gt;&lt;br&gt;MSD_4" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XYDqlDTW6onV3YL8gRBC-4" target="XYDqlDTW6onV3YL8gRBC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-4" value="MSD_4" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-6" value="&lt;b&gt;MDM_887&lt;/b&gt;&lt;br&gt;CP-1&lt;br&gt;DMS_1&lt;br&gt;MSD_1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="550" y="595" width="100" height="80" as="geometry" />
+          <mxGeometry x="540" y="695" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-9" value="First one will survive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="690" width="160" height="30" as="geometry" />
+          <mxGeometry x="510" y="790" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-10" value="MDM_887 - Y&lt;br&gt;MDM_888 - Y" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="340" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-11" value="Near real time for MSD&lt;br&gt;(TGB Roll-out)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="520" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="620" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uImNZKtD2CZt0Zkr68Xe-1" value="One Trust" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
