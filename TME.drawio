@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T10:58:42.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="W9NP367d_JdxLgnsI3XO" version="23.1.4" type="github" pages="39">
+<mxfile host="app.diagrams.net" modified="2024-02-21T10:59:37.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a7uyLnMG2vejSVeDyzZt" version="23.1.4" type="github" pages="39">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5211,6 +5211,9 @@
         </mxCell>
         <mxCell id="D-nQX7En3nRW5aAjtHZR-16" value="&lt;b&gt;&lt;u&gt;Re-map&lt;br&gt;&lt;/u&gt;&lt;/b&gt;NEW MDM ID" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="485" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D-nQX7En3nRW5aAjtHZR-17" value="DRP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
