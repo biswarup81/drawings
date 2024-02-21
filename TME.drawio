@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T11:50:38.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ih0kwKl3mQEgbAh6nmPw" version="23.1.5" type="github" pages="40">
+<mxfile host="app.diagrams.net" modified="2024-02-21T11:51:48.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xu6FFTsNQ50O7iMxGt1z" version="23.1.5" type="github" pages="40">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4720,9 +4720,6 @@
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-11" value="Near real time for MSD&lt;br&gt;(TGB Roll-out)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="620" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uImNZKtD2CZt0Zkr68Xe-1" value="One Trust" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
