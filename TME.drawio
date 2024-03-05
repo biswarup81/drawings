@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T12:20:18.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zxT0s6U2PAuIrcSpseRM" version="24.0.0" type="github" pages="44">
+<mxfile host="app.diagrams.net" modified="2024-03-05T12:28:45.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kNlnyUKbcyvl5ZtYDzdK" version="24.0.0" type="github" pages="44">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5506,14 +5506,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5-hUN-WQEhHuPFIIfDl7-1" value="On Prem (Informatica Multi Domain MDM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1 VM (job server, Core server)&lt;/div&gt;&lt;div&gt;Shared SQLServer instance&lt;/div&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;align=left;" vertex="1" parent="1">
+        <mxCell id="5-hUN-WQEhHuPFIIfDl7-1" value="On Prem (Informatica Multi Domain MDM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1 EC2 (job server, Core server)&lt;/div&gt;&lt;div&gt;Shared SQLServer instance&lt;/div&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;align=left;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="245" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5-hUN-WQEhHuPFIIfDl7-2" value="On Prem (Informatica Product 360)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 VM (job server, Core server)&lt;/div&gt;&lt;div&gt;Shared SQLServer instance&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;align=left;" vertex="1" parent="1">
+        <mxCell id="5-hUN-WQEhHuPFIIfDl7-2" value="On Prem (Informatica Product 360)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 EC2 (job server, Core server)&lt;/div&gt;&lt;div&gt;Shared SQLServer instance&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5-hUN-WQEhHuPFIIfDl7-3" value="Informatica C360 SaaS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;VM (Secure Agent)&lt;/div&gt;&lt;div&gt;S3 Bucket&lt;/div&gt;&lt;div&gt;Logic App&lt;/div&gt;&lt;div&gt;MongoDB&lt;/div&gt;&lt;div&gt;SQS Queue&lt;/div&gt;&lt;div&gt;DynamoDB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="195" height="180" as="geometry" />
+        <mxCell id="5-hUN-WQEhHuPFIIfDl7-3" value="Informatica C360 SaaS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EC2 (Secure Agent)&lt;/div&gt;&lt;div&gt;(2 Core 8 GB)&amp;nbsp;&lt;/div&gt;&lt;div&gt;S3 Bucket&lt;/div&gt;&lt;div&gt;Logic App&lt;/div&gt;&lt;div&gt;SQS Queue&lt;/div&gt;&lt;div&gt;DynamoDB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d5e8d4;strokeWidth=0.8;lucidId=FAfvqJk8E.Ea;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="195" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5-hUN-WQEhHuPFIIfDl7-4" value="3 VMs, DynamoDB, SQS, S3 Bucket, Lamda, Step Functions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
