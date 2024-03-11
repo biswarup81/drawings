@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T10:07:09.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UoEPgSTbazTBTLiks2mo" version="24.0.1" type="github" pages="44">
+<mxfile host="app.diagrams.net" modified="2024-03-11T10:12:15.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-mzdAOp6ZAehkc1TuU55" version="24.0.1" type="github" pages="44">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5414,8 +5414,16 @@
         <mxCell id="Tm2hWy8B21KfUAGRVySa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="Tm2hWy8B21KfUAGRVySa-1" target="Tm2hWy8B21KfUAGRVySa-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NlFochV5l6eKcCvsUUbY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#0B4D6A;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="Tm2hWy8B21KfUAGRVySa-1" target="Tm2hWy8B21KfUAGRVySa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NlFochV5l6eKcCvsUUbY-5" value="RES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#000000;fillColor=#09555B;" vertex="1" connectable="0" parent="NlFochV5l6eKcCvsUUbY-3">
+          <mxGeometry x="-0.3262" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Tm2hWy8B21KfUAGRVySa-1" value="MDM&lt;div&gt;&lt;br&gt;&lt;div&gt;MDM002-DMS001&lt;/div&gt;&lt;div&gt;MDM001 - MSD001&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm2hWy8B21KfUAGRVySa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="Tm2hWy8B21KfUAGRVySa-2" target="Tm2hWy8B21KfUAGRVySa-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5440,9 +5448,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tm2hWy8B21KfUAGRVySa-9" value="MSD is not aware of DSM001" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="470" y="340" width="230" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Tm2hWy8B21KfUAGRVySa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="Tm2hWy8B21KfUAGRVySa-3" target="Tm2hWy8B21KfUAGRVySa-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="90" as="sourcePoint" />
@@ -5452,23 +5457,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tm2hWy8B21KfUAGRVySa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="Tm2hWy8B21KfUAGRVySa-12" target="Tm2hWy8B21KfUAGRVySa-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tm2hWy8B21KfUAGRVySa-14" value="Real-time REST-API (JSON)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#EEEEEE;" parent="Tm2hWy8B21KfUAGRVySa-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.0522" y="2" relative="1" as="geometry">
-            <mxPoint x="-18" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Tm2hWy8B21KfUAGRVySa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="Tm2hWy8B21KfUAGRVySa-12" target="Tm2hWy8B21KfUAGRVySa-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="205" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NlFochV5l6eKcCvsUUbY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="Tm2hWy8B21KfUAGRVySa-12" target="Tm2hWy8B21KfUAGRVySa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NlFochV5l6eKcCvsUUbY-4" value="REQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#000000;fillColor=#09555B;" vertex="1" connectable="0" parent="NlFochV5l6eKcCvsUUbY-2">
+          <mxGeometry x="-0.0354" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm2hWy8B21KfUAGRVySa-12" value="Function&lt;div&gt;Get &lt;b&gt;MDM_ID&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
