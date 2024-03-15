@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T10:18:01.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mqqR7W1w-TJVrD2hshLr" version="24.0.4" type="github" pages="45">
+<mxfile host="app.diagrams.net" modified="2024-03-15T10:22:55.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="V1xAVL2799TLwr9lqOgg" version="24.0.4" type="github" pages="45">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5539,6 +5539,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-1" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGYlV7gyj7vDURcQFXnY-2" target="TGYlV7gyj7vDURcQFXnY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-16" value="Ingestion Mapping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TGYlV7gyj7vDURcQFXnY-5">
+          <mxGeometry x="-0.0753" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGYlV7gyj7vDURcQFXnY-3" target="TGYlV7gyj7vDURcQFXnY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-3" value="CD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-6" value="IDL and Delta (Current)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-7" value="File name remains same" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.38" y="190" width="181.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-8" value="Delta (Proposed)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-9" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="456.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGYlV7gyj7vDURcQFXnY-11" target="TGYlV7gyj7vDURcQFXnY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-17" value="Ingestion Mapping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TGYlV7gyj7vDURcQFXnY-10">
+          <mxGeometry x="-0.0753" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGYlV7gyj7vDURcQFXnY-13" target="TGYlV7gyj7vDURcQFXnY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-13" value="CD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="457" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-14" value="Filename contains &lt;b&gt;Timestamp&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.38" y="550" width="181.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYlV7gyj7vDURcQFXnY-15" value="&lt;b&gt;TO DO : &lt;/b&gt;POC to test the feasibility to change in the ingestion logic" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
