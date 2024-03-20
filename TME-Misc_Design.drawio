@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T15:53:43.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rriQKoPleJ0dT3QIEILV" version="24.0.7" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-03-20T15:54:07.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="N1MxoDXmH3qgAeN8bdyg" version="24.0.7" type="github" pages="18">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1895,6 +1895,9 @@
         <mxCell id="sCmuXrAkPcoXoewsqrTI-10" value="Check the name (DQ)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="185" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wZngckPkwxEHT_jccfeg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCmuXrAkPcoXoewsqrTI-12" target="sCmuXrAkPcoXoewsqrTI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sCmuXrAkPcoXoewsqrTI-12" value="Annonymise the source record" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1913,7 +1916,7 @@
           <mxGeometry x="720" y="175" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sCmuXrAkPcoXoewsqrTI-21" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="735" y="30" width="50" height="50" as="geometry" />
+          <mxGeometry x="735" y="25" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PV5q8W9_iY0gcX_y5T_k-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCmuXrAkPcoXoewsqrTI-24" target="PV5q8W9_iY0gcX_y5T_k-1">
           <mxGeometry relative="1" as="geometry" />
