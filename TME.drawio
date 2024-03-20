@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:28:31.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Heu51XjcpoZ6XDBtI56x" version="24.0.7" type="github" pages="46">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:28:52.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="a3gj7XjpWMebBoj5tac3" version="24.0.7" type="github" pages="46">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5622,6 +5622,9 @@
         </mxCell>
         <mxCell id="NLeC4J3QxQJnup9WRreU-6" value="Sync" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NLeC4J3QxQJnup9WRreU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.297;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NLeC4J3QxQJnup9WRreU-4" target="NLeC4J3QxQJnup9WRreU-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
