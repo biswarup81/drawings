@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:28:52.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="a3gj7XjpWMebBoj5tac3" version="24.0.7" type="github" pages="46">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:30:30.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BD4Mjrto2zs70HoN7M6-" version="24.0.7" type="github" pages="46">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -5608,7 +5608,7 @@
         <mxCell id="NLeC4J3QxQJnup9WRreU-1" value="LOCAL001 - &lt;strike&gt;Y &lt;/strike&gt;/ N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NLeC4J3QxQJnup9WRreU-2" value="MDM001 - Y&lt;div&gt;&lt;i&gt;&lt;b&gt;LOCAL001 - &lt;strike&gt;Y&lt;/strike&gt; / N (Consider the Consent update timestamp)&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;MSD001 - Y&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NLeC4J3QxQJnup9WRreU-2" value="MDM001 - Y&lt;div&gt;&lt;i&gt;&lt;b&gt;LOCAL001 - &lt;strike&gt;Y&lt;/strike&gt; / N (&lt;/b&gt;Consider the Consent update &lt;b&gt;purpose date timestamp)&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;MSD001 - Y&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="80" width="364" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLeC4J3QxQJnup9WRreU-3" value="MDM001-&lt;b&gt;Y&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
