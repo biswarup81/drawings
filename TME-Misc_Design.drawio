@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:27:02.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TzhEIzTOxyHF21jjNrjg" version="24.0.7" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:27:36.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IcYzLGXpFqHCT0QnsZoZ" version="24.0.7" type="github" pages="18">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2046,7 +2046,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PV5q8W9_iY0gcX_y5T_k-33" value="Insert Vehicle Data" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="PV5q8W9_iY0gcX_y5T_k-33" value="Insert Vehicle Data with relationship (consumer role)" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="510" y="832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PV5q8W9_iY0gcX_y5T_k-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PV5q8W9_iY0gcX_y5T_k-40" target="PV5q8W9_iY0gcX_y5T_k-44" edge="1">
