@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:28:42.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zcgvnpILDDtQBoyi4UuK" version="24.0.7" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:29:43.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Af9yjk-bLvrH3l0gvEU_" version="24.0.7" type="github" pages="18">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2077,7 +2077,7 @@
         <mxCell id="PV5q8W9_iY0gcX_y5T_k-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PV5q8W9_iY0gcX_y5T_k-47" target="PV5q8W9_iY0gcX_y5T_k-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PV5q8W9_iY0gcX_y5T_k-47" value="Export Data in the Queue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PV5q8W9_iY0gcX_y5T_k-47" value="Publish to out SQS" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1122" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PV5q8W9_iY0gcX_y5T_k-52" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
