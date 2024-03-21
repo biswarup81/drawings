@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:59:12.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YDDQ6Z0uMDEMxtbtRiAB" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T13:04:41.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SvXUikOAxWhKdng0ZvGI" version="24.0.7" type="github" pages="2">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,62 @@
         </mxCell>
         <mxCell id="reyr7MXeVGvhNN7MZA6h-10" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JwgpI6v0fydB3AKI-9C6" name="MDM-OT">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="70" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-2" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-3" value="Purpose-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="75" y="140" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-4" value="Interaction date-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-5" value="Consent object (Expected).during submission&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;One Trust expects the consent to be submitted in this format using the Consent submission API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So, need to send this three times.&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="525" y="70" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="270" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-7" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-8" value="Purpose-2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="75" y="340" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-9" value="Interaction date-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="295" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="470" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-11" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-12" value="Purpose-3" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="75" y="540" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-13" value="Interaction date-3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="495" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-14" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-15" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-16" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
