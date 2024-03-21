@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T15:25:18.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rAxjB6U9yEpQg-bcA3Ts" version="24.0.7" type="github" pages="46">
+<mxfile host="app.diagrams.net" modified="2024-03-21T15:55:02.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l35DMfSTqBMuAXWs-5lH" version="24.0.7" type="github" pages="46">
   <diagram id="M0dqNfZsdV21NrBEMjli" name="Cust Portal Integration">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1053,7 +1053,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b3_89EzrjdhL4OJJmsYn" name="OneTrust - DSR">
-    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2058,7 +2058,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X73YFbi_H9mGsOb-Aj0s" name="Record-delete">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2560,7 +2560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dv4k1RYrUkI_fY-eNtMk" name="Household">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2628,7 +2628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3-PcsDyibKS8rclEnv61" name="DMS-Ingession">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2781,7 +2781,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mNGErkyWDKKa4by51u5p" name="MDM-TGB-Informatica Collibra Integration">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2944,7 +2944,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jEUEYLc-y3kGbIb-O0vo" name="REST API">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3030,7 +3030,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LAVdnu9qb-hyPG9f-BYu" name="Standardization / Customization">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3186,7 +3186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UAIVvHw0DQiSfMGSzdCX" name="Page-17">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3254,7 +3254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="imkfyPbiT3YFLr4Ny8xo" name="Page-18">
-    <mxGraphModel dx="1050" dy="-189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="-189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3382,7 +3382,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Q1vYWV9iAPf6glX4isl" name="Page-19">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3450,7 +3450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ef2vzc-t6g3rLh8BUf6w" name="CP-MDM Integration-ver2.0">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3761,7 +3761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mq6nGySLxgZ6tbKWZT0t" name="MMDM-CP Integration">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3848,7 +3848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ZXGxVAD2dfC0-6LVzAJ" name="CP Integration-Latest">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4152,7 +4152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MSD Intergration-Latest" id="kN-FL1Lsarghg1C6c4A7">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-0" />
         <mxCell id="8FzNZ3q8MbwthM3eQl0N-1" parent="8FzNZ3q8MbwthM3eQl0N-0" />
@@ -4297,7 +4297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IT9X0Gm96D--0ocfztuo" name="Page-27">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4320,7 +4320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pVmesYUKZjKQfvESRjud" name="MDM-CD-Encrypt">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4354,7 +4354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="POF1D8bALPUY3zwvHnxm" name="Page-29">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4461,7 +4461,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vIdWgspTe1sVjP1qUwP8" name="Page-30">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4490,7 +4490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sv0BhQ-VtHGm3wtVkssi" name="TOSHIKO-CRM-IDL-Op-1">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4577,7 +4577,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="swNbQ6Ic7MqEp1m0SRrT" name="TOSHIKO-CRM-IDL-Op-2">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4633,7 +4633,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BZpbSbYW57mhznONNCmt" name="Page-34">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4682,7 +4682,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Meo_ZAhd9w9pAkx8J23H" name="DMS-Deletion">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4753,7 +4753,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BmlMEVwDFtrTuS5CwWJS" name="Duplicate MDM-ID">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4880,7 +4880,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qAyHdkRnVEKRp7KpUMBh" name="Plan-Duplicate MDM-ID">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4989,7 +4989,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYNhqXV2E0ryaYBqXrkS" name="OneApp">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5078,7 +5078,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eLRYgxezgAS3gNSC5eDr" name="country-moving">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5133,7 +5133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="enK2iEvSe8oBHNseMqL5" name="Survivorship-MSD-example">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5174,7 +5174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YWN5tanEvEmgErHOPe5b" name="Consent-MDM-Merge-OT">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5182,55 +5182,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-1" value="MSD_1 (MDM_1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="170" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xYKD9jk5vTgFa3Db92IS-3" target="xYKD9jk5vTgFa3Db92IS-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-3" value="MSD_2 (MDM_2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="230" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xYKD9jk5vTgFa3Db92IS-5" target="xYKD9jk5vTgFa3Db92IS-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-5" value="MDM_1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-8" value="Merge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-9" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-10" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-12" value="MDM_1 - Y&lt;br&gt;MDM_2 - Y" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="100" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-13" value="OT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="355" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-14" value="10-00 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-15" value="3-00 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-17" value="Y" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-18" value="One Trust wants to know the survivorship.&amp;nbsp; Trigger the Merge using &lt;b&gt;API&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="255" width="190" height="60" as="geometry" />
+          <mxGeometry x="290" y="255" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-20" value="MDM_1 - Y" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="490" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="440" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xYKD9jk5vTgFa3Db92IS-22" value="5-00 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-1" value="&lt;b&gt;Consent:&lt;br&gt;Scenario-1 - &lt;/b&gt;MSD_1 is a new record and it does not merge with any other golden record. &lt;b&gt;Create &lt;/b&gt;in MSD and MDM&lt;br&gt;MSD_1 - MDM_1 - &lt;b&gt;MDM_1-Y&lt;/b&gt;&lt;br&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario-2 &lt;/b&gt;MSD_1 is new in MSD but merged in MDM System with MDM_21. &lt;b&gt;Create &lt;/b&gt;in MSD &lt;b&gt;Update &lt;/b&gt;in MDM&lt;br&gt;&lt;br&gt;MSD_1 - &lt;b&gt;MDM_21 - Y&lt;/b&gt;&lt;br&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario-3&amp;nbsp;&lt;/b&gt;&amp;nbsp;CP creates a new record. MDM_134 is a new record with consent Y. MSD_1 is new in MSD but merged in MDM System with`MDM_134.&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Create&amp;nbsp;&lt;/b&gt;in MSD&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Update&amp;nbsp;&lt;/b&gt;in MDM&lt;br&gt;&lt;br&gt;MSD_1 -&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;MDM_134 - Y&lt;br&gt;&lt;/b&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario 4 &lt;/b&gt;MSD_1 with MDM_456 is updated in MDM. MDM_456 Y is updated. Update in MSD update in MDM&lt;br&gt;&lt;br&gt;MSD_1 MDM_456 - Y&lt;br&gt;It is incorporated&lt;br&gt;&lt;br&gt;&lt;b&gt;Scenario 5 &lt;/b&gt;MDM_887 and MDM_888 merged together.&lt;br&gt;&lt;br&gt;See the below figure.&lt;br&gt;&lt;i&gt;&lt;b&gt;To be incorporated&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Scenario 6 &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Bulk Update from TGB&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Out of scope for the Go-Live&lt;/b&gt;&lt;/i&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="120" width="460" height="560" as="geometry" />
+          <mxGeometry x="580" y="120" width="260" height="560" as="geometry" />
         </mxCell>
         <mxCell id="XYDqlDTW6onV3YL8gRBC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XYDqlDTW6onV3YL8gRBC-2" target="XYDqlDTW6onV3YL8gRBC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
