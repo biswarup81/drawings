@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:57:45.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.7" etag="XhS1WCtrqqncA_qxtLyE" type="github">
-  <diagram name="Page-1" id="iXr3DxbBh9tyG3I7lu1P">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:59:02.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TbsyYaEF_u9dP78LaFhD" version="24.0.7" type="github">
+  <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="135" width="400" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-2" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-3" value="Purpose-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="205" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-4" value="Purpose-2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="275" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-5" value="Purpose-3" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="345" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-6" value="Interaction date-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-7" value="Interaction date-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-8" value="Interaction date-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-9" value="Consent object.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;One Trust is sending the consent to MDM in this format (using REST API)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MDM Data Model is also the same&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="135" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-10" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
