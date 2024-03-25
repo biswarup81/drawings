@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T08:27:29.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sIkWQ_on0uKc5V85F4VT" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T08:42:05.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="21Ku9yfcrKPlyNStmpAo" version="24.0.7" type="github" pages="3">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
-    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="reyr7MXeVGvhNN7MZA6h-8" value="Interaction date-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="reyr7MXeVGvhNN7MZA6h-9" value="Consent object.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;One Trust is sending the consent&lt;/b&gt; to MDM in this format (using REST API)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MDM &lt;b&gt;Data Model&lt;/b&gt; is also the same&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Interaction date&lt;/i&gt; &lt;/b&gt;is the timestamp for the consent timestamp from the local system by the user.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-9" value="Consent object.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;One Trust is sending the consent&lt;/b&gt; to MDM in this format (using REST API)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MDM &lt;b&gt;Data Model&lt;/b&gt; is also the same&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Interaction date (mandatory field)&lt;/i&gt;&amp;nbsp;&lt;/b&gt;is the timestamp for the consent timestamp from the local system by the user.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="550" y="130" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="reyr7MXeVGvhNN7MZA6h-10" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JwgpI6v0fydB3AKI-9C6" name="MDM-OT">
-    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
