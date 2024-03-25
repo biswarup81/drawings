@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T07:54:45.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="b1una6N_MJRv6Ov3Z_Oi" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T08:27:14.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="T9moYE0FVo7gLJZWQNxZ" version="24.0.7" type="github" pages="3">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,20 +28,23 @@
         <mxCell id="reyr7MXeVGvhNN7MZA6h-8" value="Interaction date-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="reyr7MXeVGvhNN7MZA6h-9" value="Consent object.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;One Trust is sending the consent&lt;/b&gt; to MDM in this format (using REST API)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MDM &lt;b&gt;Data Model&lt;/b&gt; is also the same&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="550" y="130" width="280" height="190" as="geometry" />
+        <mxCell id="reyr7MXeVGvhNN7MZA6h-9" value="Consent object.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;One Trust is sending the consent&lt;/b&gt; to MDM in this format (using REST API)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MDM &lt;b&gt;Data Model&lt;/b&gt; is also the same&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Interaction date&lt;/i&gt; &lt;/b&gt;is the timestamp for the consent timestamp from the local system by the user.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="550" y="130" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="reyr7MXeVGvhNN7MZA6h-10" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpIzwd7lpJzeh-wehdCQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QpIzwd7lpJzeh-wehdCQ-1" target="QpIzwd7lpJzeh-wehdCQ-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zFzDZJ6lFIhTBEleKPdN-1" value="Local_ID_001 - Yes - 111 - &lt;i&gt;&lt;b&gt;23-Jan-2024&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpIzwd7lpJzeh-wehdCQ-1" value="OT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="zFzDZJ6lFIhTBEleKPdN-2" value="Local_ID_001 - Yes - 111 - &lt;b&gt;23-Feb-2024&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpIzwd7lpJzeh-wehdCQ-2" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="zFzDZJ6lFIhTBEleKPdN-3" value="PAST - This is already stored in Informatica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFzDZJ6lFIhTBEleKPdN-4" value="NOW - This is coming in the payload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="550" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -52,52 +55,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jvlo6oTxEAvihXrLPwBr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="70" width="400" height="160" as="geometry" />
+          <mxGeometry x="45" y="210" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-2" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="205" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="205" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-3" value="Purpose-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="75" y="140" width="340" height="60" as="geometry" />
+          <mxGeometry x="75" y="280" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-4" value="Interaction date-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="65" y="80" width="110" height="30" as="geometry" />
+          <mxGeometry x="65" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jvlo6oTxEAvihXrLPwBr-5" value="Consent object (Expected).&lt;b&gt;during submission&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;One Trust expects the consent to be submitted in this format using the Consent submission API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So, need to send this three times.&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="525" y="70" width="280" height="200" as="geometry" />
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-5" value="Consent object (Expected).&lt;b&gt;during submission&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;One Trust expects the consent to be submitted in this format using the Consent submission API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So, need to send this three times.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interaction date is the sme for all the purposes&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;size=0.11764705882352941;" parent="1" vertex="1">
+          <mxGeometry x="525" y="210" width="280" height="340" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="270" width="400" height="160" as="geometry" />
+          <mxGeometry x="45" y="410" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-7" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="235" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-8" value="Purpose-2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="75" y="340" width="340" height="60" as="geometry" />
+          <mxGeometry x="75" y="480" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-9" value="Interaction date-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="295" width="110" height="30" as="geometry" />
+          <mxGeometry x="75" y="435" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="470" width="400" height="160" as="geometry" />
+          <mxGeometry x="45" y="610" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-11" value="Consent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="235" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-12" value="Purpose-3" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="75" y="540" width="340" height="60" as="geometry" />
+          <mxGeometry x="75" y="680" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-13" value="Interaction date-3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="495" width="110" height="30" as="geometry" />
+          <mxGeometry x="75" y="635" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-14" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="45" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-15" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="45" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-16" value="MDM_001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="45" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSynuTvnJzF3PBYp2YMw-2" value="OT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSynuTvnJzF3PBYp2YMw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RSynuTvnJzF3PBYp2YMw-3" target="RSynuTvnJzF3PBYp2YMw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSynuTvnJzF3PBYp2YMw-3" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
