@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T08:42:05.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="21Ku9yfcrKPlyNStmpAo" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T09:12:23.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="62y7JaGl7BOQWxo4hrhE" version="24.0.7" type="github" pages="3">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
-    <mxGraphModel dx="1290" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,8 +66,8 @@
         <mxCell id="jvlo6oTxEAvihXrLPwBr-4" value="Interaction date-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jvlo6oTxEAvihXrLPwBr-5" value="Consent object (Expected).&lt;b&gt;during submission&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;One Trust expects the consent to be submitted in this format using the Consent submission API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So, need to send this three times.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interaction date is the sme for all the purposes&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;size=0.11764705882352941;" parent="1" vertex="1">
-          <mxGeometry x="525" y="210" width="280" height="340" as="geometry" />
+        <mxCell id="jvlo6oTxEAvihXrLPwBr-5" value="Consent object (Expected).&lt;b&gt;during submission&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;One Trust expects the consent to be submitted in this format using the Consent submission API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So, need to send this three times.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interaction date is the sme for all the purposes&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;size=0.058823529411764705;" parent="1" vertex="1">
+          <mxGeometry x="525" y="320" width="280" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jvlo6oTxEAvihXrLPwBr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="410" width="400" height="160" as="geometry" />
