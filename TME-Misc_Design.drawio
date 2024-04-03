@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T14:57:08.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LhmrwU8loQQFclDMieyV" version="24.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-03T14:57:30.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WdYwGFuZrYgLALsrN6JN" version="24.2.1" type="github" pages="18">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -209,12 +209,6 @@
         </mxCell>
         <mxCell id="dVfjUr-iWaCOCzDGDX7t-20" value="Aggegated Person JSON" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dVfjUr-iWaCOCzDGDX7t-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="380" as="sourcePoint" />
-            <mxPoint x="1050" y="380" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
