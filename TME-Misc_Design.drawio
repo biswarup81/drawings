@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T14:59:07.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xYT1BM995wfCwvLiDwLH" version="24.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-04T08:41:35.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="h4juazHUjxYa6RiVT2rs" version="24.2.1" type="github" pages="18">
   <diagram name="JSON-Agreegator" id="PaBjt94Lh7cRk2becHOn">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
             <mxPoint x="620" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dVfjUr-iWaCOCzDGDX7t-2" value="Person CSV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dVfjUr-iWaCOCzDGDX7t-2" value="Person-root CSV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dVfjUr-iWaCOCzDGDX7t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dVfjUr-iWaCOCzDGDX7t-9" target="dVfjUr-iWaCOCzDGDX7t-2" edge="1">
@@ -212,6 +212,21 @@
         </mxCell>
         <mxCell id="ddCofiAqq3r9_nmyjpKa-1" value="Vehicle and Person both contain VRN. TGB holds in both, TSW holds in VIN&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="10" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCofiAqq3r9_nmyjpKa-2" value="Person-email CSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCofiAqq3r9_nmyjpKa-3" value="Person-address CSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCofiAqq3r9_nmyjpKa-4" value="Person-consent CSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCofiAqq3r9_nmyjpKa-5" value="Person-phone CSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCofiAqq3r9_nmyjpKa-6" value="Person-xref CSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
