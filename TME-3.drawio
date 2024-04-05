@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T11:45:53.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VG0gbf46IqFZPmqac1nr" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-05T11:53:40.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X8JZqdy_dHANGsBNQvhf" version="24.2.2" type="github" pages="9">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -655,6 +655,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YTmfidQ9LoUNH5HbvaFt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YTmfidQ9LoUNH5HbvaFt-1" target="YTmfidQ9LoUNH5HbvaFt-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YTmfidQ9LoUNH5HbvaFt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YTmfidQ9LoUNH5HbvaFt-1" target="YTmfidQ9LoUNH5HbvaFt-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YTmfidQ9LoUNH5HbvaFt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YTmfidQ9LoUNH5HbvaFt-1" target="YTmfidQ9LoUNH5HbvaFt-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YTmfidQ9LoUNH5HbvaFt-1" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -680,7 +701,7 @@
         <mxCell id="YTmfidQ9LoUNH5HbvaFt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YTmfidQ9LoUNH5HbvaFt-4" target="YTmfidQ9LoUNH5HbvaFt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YTmfidQ9LoUNH5HbvaFt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YTmfidQ9LoUNH5HbvaFt-4" target="YTmfidQ9LoUNH5HbvaFt-1">
+        <mxCell id="YTmfidQ9LoUNH5HbvaFt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="YTmfidQ9LoUNH5HbvaFt-4" target="YTmfidQ9LoUNH5HbvaFt-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="490" />
@@ -758,6 +779,12 @@
         </mxCell>
         <mxCell id="YTmfidQ9LoUNH5HbvaFt-33" value="CC Deletion API is out of scope for TSW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="90" y="670" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YTmfidQ9LoUNH5HbvaFt-34" value="One Time, Delta, &lt;font color=&quot;#cc0000&quot;&gt;delete&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="310" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YTmfidQ9LoUNH5HbvaFt-38" value="Batch (One time)&amp;nbsp;&lt;div&gt;Daily Sync (Delta)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
