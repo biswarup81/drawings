@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T10:08:05.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uLOG6c_q5jucmv77wkiX" version="24.2.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:49:06.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LTwFSBplzt6HKJ4cBdQC" version="24.2.3" type="github" pages="12">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1016,7 +1016,7 @@
           <mxGeometry x="190" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fmVk30FqxpFott0QaLES-6" value="Name -&amp;gt; Annonymized&lt;div&gt;Gender -&amp;gt; Annonymized&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="120" width="85" height="80" as="geometry" />
+          <mxGeometry x="350" y="142" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmVk30FqxpFott0QaLES-7" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CP001&lt;/div&gt;Annonymized&lt;div&gt;Annonymized&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="140" height="100" as="geometry" />
@@ -1027,8 +1027,8 @@
         <mxCell id="fmVk30FqxpFott0QaLES-10" value="UPDATE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="363" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-11" value="B 360 Connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="fmVk30FqxpFott0QaLES-11" value="B 360 normal&amp;nbsp; Connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
