@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T07:49:06.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LTwFSBplzt6HKJ4cBdQC" version="24.2.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-24T10:28:10.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IxUKvMGWKkhHNoMzTVSd" version="24.2.5" type="github" pages="13">
   <diagram name="OT-MDM" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1003,32 +1003,64 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fmVk30FqxpFott0QaLES-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmVk30FqxpFott0QaLES-1" target="fmVk30FqxpFott0QaLES-7">
+        <mxCell id="fmVk30FqxpFott0QaLES-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fmVk30FqxpFott0QaLES-1" target="fmVk30FqxpFott0QaLES-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-1" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CP001&lt;/div&gt;B Ghoshal&lt;div&gt;Female&lt;br&gt;&lt;div&gt;Address - Almere&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-1" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CP001&lt;/div&gt;B Ghoshal&lt;div&gt;Female&lt;br&gt;&lt;div&gt;Address - Almere&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="510" y="60" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmVk30FqxpFott0QaLES-2" target="fmVk30FqxpFott0QaLES-1">
+        <mxCell id="fmVk30FqxpFott0QaLES-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fmVk30FqxpFott0QaLES-2" target="fmVk30FqxpFott0QaLES-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-2" value="CP001" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-2" value="CP001" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" parent="1" vertex="1">
           <mxGeometry x="190" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-6" value="Name -&amp;gt; Annonymized&lt;div&gt;Gender -&amp;gt; Annonymized&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-6" value="Name -&amp;gt; Annonymized&lt;div&gt;Gender -&amp;gt; Annonymized&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="142" width="85" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-7" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CP001&lt;/div&gt;Annonymized&lt;div&gt;Annonymized&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-7" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CP001&lt;/div&gt;Annonymized&lt;div&gt;Annonymized&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="510" y="240" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-9" value="FEP Connector cannot be used because it is not an insert" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-9" value="FEP Connector cannot be used because it is not an insert" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="307.5" y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-10" value="UPDATE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-10" value="UPDATE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="363" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fmVk30FqxpFott0QaLES-11" value="B 360 normal&amp;nbsp; Connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fmVk30FqxpFott0QaLES-11" value="B 360 normal&amp;nbsp; Connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TL7xWxqFz_7wKfrlunUf" name="snowflake">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpHS4aQBLtBjQGCwXBht-1" target="JpHS4aQBLtBjQGCwXBht-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-1" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CP001&lt;/div&gt;B Ghoshal&lt;div&gt;Female&lt;br&gt;&lt;div&gt;Address - Almere&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-2" value="&lt;b&gt;Informatica&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-3" value="SNOWFLAKE" style="whiteSpace=wrap;html=1;align=left;rounded=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-5" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;MDM0001&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;CP001&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;B Ghoshal&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Female&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Address - Almere&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-8" value="&lt;ul&gt;&lt;li&gt;Person&lt;/li&gt;&lt;li&gt;Vehicle&lt;/li&gt;&lt;li&gt;Consumer roles&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-9" value="connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpHS4aQBLtBjQGCwXBht-10" value="CAI" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
