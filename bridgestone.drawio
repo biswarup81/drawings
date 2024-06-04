@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T11:45:03.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5G-UJIIEgWTXMCYILBgq" version="24.4.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-04T11:53:29.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hiqv1X6cshUzquobPV5S" version="24.4.13" type="github" pages="2">
   <diagram name="Current" id="WlEZwbyHO4XJa3ybnEBH">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="taGjOGMPIBLnMrVyjxLx-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=50;endSize=4.8;width=74;" edge="1" parent="1">
+        <mxCell id="taGjOGMPIBLnMrVyjxLx-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=50;endSize=7.73;width=65;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="300" as="sourcePoint" />
             <mxPoint x="480" y="370" as="targetPoint" />
@@ -282,6 +282,12 @@
               <mxPoint x="480" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="taGjOGMPIBLnMrVyjxLx-24" value="&lt;ul&gt;&lt;li&gt;Product coming from 3 different sources&lt;/li&gt;&lt;li&gt;Ingested in Product 360 using CAI / CDI or API&lt;/li&gt;&lt;li&gt;Product Data is Profiled and &lt;b&gt;Data Profile Report&lt;/b&gt; is visible&lt;/li&gt;&lt;li&gt;Product data is passed though the DQ check&lt;/li&gt;&lt;li&gt;&lt;b&gt;DQ Dashboard&lt;/b&gt; is visible&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="355" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="taGjOGMPIBLnMrVyjxLx-25" value="&lt;ul&gt;&lt;li&gt;Product Data is Matched and Merged&lt;/li&gt;&lt;li&gt;Consolidated Golden Record with Product is generated&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="520" width="355" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
