@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T11:53:29.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hiqv1X6cshUzquobPV5S" version="24.4.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-04T11:58:50.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LYMeoecK2nqjs-VtQGGu" version="24.4.13" type="github" pages="2">
   <diagram name="Current" id="WlEZwbyHO4XJa3ybnEBH">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -284,10 +284,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="taGjOGMPIBLnMrVyjxLx-24" value="&lt;ul&gt;&lt;li&gt;Product coming from 3 different sources&lt;/li&gt;&lt;li&gt;Ingested in Product 360 using CAI / CDI or API&lt;/li&gt;&lt;li&gt;Product Data is Profiled and &lt;b&gt;Data Profile Report&lt;/b&gt; is visible&lt;/li&gt;&lt;li&gt;Product data is passed though the DQ check&lt;/li&gt;&lt;li&gt;&lt;b&gt;DQ Dashboard&lt;/b&gt; is visible&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="520" width="355" height="100" as="geometry" />
+          <mxGeometry x="100" y="480" width="355" height="100" as="geometry" />
         </mxCell>
         <mxCell id="taGjOGMPIBLnMrVyjxLx-25" value="&lt;ul&gt;&lt;li&gt;Product Data is Matched and Merged&lt;/li&gt;&lt;li&gt;Consolidated Golden Record with Product is generated&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="479.5" y="520" width="355" height="100" as="geometry" />
+          <mxGeometry x="470" y="490" width="200.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="taGjOGMPIBLnMrVyjxLx-28" value="&lt;ul&gt;&lt;li&gt;User rights setup&lt;/li&gt;&lt;li&gt;Workflow approval is enabled&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="taGjOGMPIBLnMrVyjxLx-29" value="&lt;ul&gt;&lt;li&gt;Product Master as Data product is created in market place&lt;/li&gt;&lt;li&gt;Business Glossary for Product data maintained&lt;/li&gt;&lt;li&gt;Attach technical lineage with the business glosarry&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="660" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="taGjOGMPIBLnMrVyjxLx-30" value="&lt;ul&gt;&lt;li&gt;Data Quality enabled with Dashboard&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97" y="760" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
