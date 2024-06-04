@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T14:03:06.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7GaiUcAStuA0rh5a8BKF" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-04T14:03:43.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MqKHPOfoy3mgQdQgTRxR" version="24.4.13" type="github" pages="3">
   <diagram name="Current" id="WlEZwbyHO4XJa3ybnEBH">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -338,8 +338,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-7" value="Need to see the lineage of the product and the attributes&lt;div&gt;Data Quality Dashboard&lt;/div&gt;&lt;div&gt;End to end data product and the workflow&lt;/div&gt;&lt;div&gt;Profile report&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="230" width="530" height="140" as="geometry" />
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-7" value="&lt;ol&gt;&lt;li&gt;Need to see the lineage of the product and the attributes&lt;/li&gt;&lt;li&gt;Data Quality Dashboard&lt;/li&gt;&lt;li&gt;End to end data product and the workflow&lt;/li&gt;&lt;li&gt;Profile report&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="310" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
