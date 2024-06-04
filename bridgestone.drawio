@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T14:03:43.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MqKHPOfoy3mgQdQgTRxR" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-04T14:12:08.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pQSZqY4iL75Zgs84FDme" version="24.4.13" type="github" pages="3">
   <diagram name="Current" id="WlEZwbyHO4XJa3ybnEBH">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p-wekDUWxfodm1rAVu9g-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p-wekDUWxfodm1rAVu9g-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="180" y="165" width="220" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="p-wekDUWxfodm1rAVu9g-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p-wekDUWxfodm1rAVu9g-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="p-wekDUWxfodm1rAVu9g-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p-wekDUWxfodm1rAVu9g-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="830" y="165" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="p-wekDUWxfodm1rAVu9g-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p-wekDUWxfodm1rAVu9g-4" target="p-wekDUWxfodm1rAVu9g-37">
@@ -37,13 +37,13 @@
         <mxCell id="p-wekDUWxfodm1rAVu9g-4" value="New Product" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p-wekDUWxfodm1rAVu9g-5" value="ESGK (Service Now)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p-wekDUWxfodm1rAVu9g-5" value="&lt;b&gt;ESGK (Service Now)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p-wekDUWxfodm1rAVu9g-6" value="S4 Hana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p-wekDUWxfodm1rAVu9g-6" value="&lt;b&gt;S4 Hana&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p-wekDUWxfodm1rAVu9g-7" value="Capps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p-wekDUWxfodm1rAVu9g-7" value="&lt;b&gt;Capps&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p-wekDUWxfodm1rAVu9g-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Form_Recognizers.svg;" vertex="1" parent="1">
@@ -205,7 +205,7 @@
           <mxGeometry x="835" y="290" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p-wekDUWxfodm1rAVu9g-88" value="&lt;ol&gt;&lt;li&gt;Record created on ESGK using a webform in Service now with validations. with 28 product attributes.&lt;/li&gt;&lt;li&gt;Product lands in S4 Hana and Product Code is created in SAP (IPC)&lt;/li&gt;&lt;li&gt;Product is enriched with Product code in ESGK&lt;/li&gt;&lt;li&gt;Enrichment in ESGK with the SAP code&lt;/li&gt;&lt;li&gt;Product data propagate to S4 again&lt;/li&gt;&lt;li&gt;-&lt;/li&gt;&lt;li&gt;Product code is mapped with local vs global&lt;/li&gt;&lt;li&gt;Product code mapped in S4&lt;/li&gt;&lt;li&gt;Product Specification is mapped&lt;/li&gt;&lt;li&gt;Product level is mapped&lt;/li&gt;&lt;li&gt;Product is mapped with another product&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="670" width="550" height="190" as="geometry" />
+          <mxGeometry x="243" y="650" width="550" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
