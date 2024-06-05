@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:40:58.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KnEQEPwDrHHpvGHrLAvz" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T14:45:59.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oacaUPB5B5kmYG67R10L" version="24.4.13" type="github" pages="3">
   <diagram name="Current" id="WlEZwbyHO4XJa3ybnEBH">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -342,16 +342,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-1" value="ESGK&lt;div&gt;&lt;b&gt;Product-1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-1" value="ESGK&lt;div&gt;&lt;b&gt;Product-1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-2" value="S4 HANA&lt;div&gt;&lt;b&gt;Product-1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-2" value="S4 HANA&lt;div&gt;&lt;b&gt;Product-1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-3" value="Capps&lt;div&gt;&lt;b&gt;Product-1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-3" value="Capps&lt;div&gt;&lt;b&gt;Product-1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_eYadgrcvm2E-xCRh-q-1">
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v_eYadgrcvm2E-xCRh-q-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="361" y="230" as="targetPoint" />
             <Array as="points">
@@ -360,12 +360,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_eYadgrcvm2E-xCRh-q-2">
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v_eYadgrcvm2E-xCRh-q-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_eYadgrcvm2E-xCRh-q-3">
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v_eYadgrcvm2E-xCRh-q-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="230" as="targetPoint" />
             <Array as="points">
@@ -374,8 +374,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_eYadgrcvm2E-xCRh-q-7" value="&lt;ol&gt;&lt;li&gt;Need to see the lineage of the product and the attributes&lt;/li&gt;&lt;li&gt;Data Quality Dashboard&lt;/li&gt;&lt;li&gt;End to end data product and the workflow&lt;/li&gt;&lt;li&gt;Profile report&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="310" height="110" as="geometry" />
+        <mxCell id="v_eYadgrcvm2E-xCRh-q-7" value="&lt;ol&gt;&lt;li&gt;Create Product data model for Finished Goods&lt;/li&gt;&lt;li&gt;Mapping the attributes (for finished goods) with Product 360 data model.&lt;/li&gt;&lt;li&gt;Data Ingestion pipeline from these 3 sources and migrate the initial data and delta load.&lt;/li&gt;&lt;li&gt;MDM API exposure for other system to search.&lt;/li&gt;&lt;li&gt;Perform data quality check for each source system before storing/rejecting the data&lt;/li&gt;&lt;li&gt;Create the DQ Dashboard with KPI&lt;/li&gt;&lt;li&gt;Storing and consolidating the product data with source system information.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Match and Merge and create consolidated view&lt;/li&gt;&lt;li&gt;360 View of the Product, it&#39;s attributes with classification in Customer 360 UI.&lt;/li&gt;&lt;li&gt;Manual Merge of the Product via Data Steward UI.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Question (if these are in-scope or not)&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Real-time data ingestion for ongoing changes (if required)&lt;/li&gt;&lt;li&gt;Need to see the &lt;b&gt;Data Lineage &lt;/b&gt;of the product and the attributes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Data Quality Dashboard&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;End to end data product&lt;/b&gt;&amp;nbsp;and the workflow with data consumer request for a data product in data marketplace.&lt;/li&gt;&lt;li&gt;Data Ownership&lt;/li&gt;&lt;li&gt;Business Glossary and Technical lineage information&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="230" width="630" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
