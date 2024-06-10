@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T08:35:25.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="L6IXIbHUbaBgQXgQNb54" version="24.5.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-06-10T08:58:13.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_WW4J_jDULJYjdqnOZK1" version="24.5.2" type="github" pages="20">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="FizT9ZeB4gbp_3owZBva-3" value="MSD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FizT9ZeB4gbp_3owZBva-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0d1b63;dashed=1;dashPattern=12 12;" parent="1" source="FizT9ZeB4gbp_3owZBva-5" target="FizT9ZeB4gbp_3owZBva-2" edge="1">
+        <mxCell id="FizT9ZeB4gbp_3owZBva-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#0d1b63;dashed=1;dashPattern=12 12;" parent="1" source="FizT9ZeB4gbp_3owZBva-5" target="FizT9ZeB4gbp_3owZBva-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FizT9ZeB4gbp_3owZBva-5" value="MSD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
