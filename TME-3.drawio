@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:04:49.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EYsPU8IPeMSRqu-QIpzD" version="24.5.2" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:24:34.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kTD-svyAzwwwrIptAH4G" version="24.5.2" type="github" pages="21">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1671,7 +1671,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lTsoABDvfvdwpV3zkAOF" name="Current scenario">
+  <diagram id="lTsoABDvfvdwpV3zkAOF" name="To-Be">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1756,6 +1756,30 @@
         </mxCell>
         <mxCell id="L4n2zulmiCQpeKBN52jL-28" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0;rotation=55;" vertex="1" parent="1">
           <mxGeometry x="342.05" y="335.53000000000003" width="57.95" height="58.93" as="geometry" />
+        </mxCell>
+        <mxCell id="bE-Uognthgl1Ojyjc5VH-1" value="Biswa-Tesla-NULL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE-Uognthgl1Ojyjc5VH-2" value="5 PM 10-06" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="702" y="470" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiYwCXXmkmauksvvca4g-1" value="Daily delta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729.5" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiYwCXXmkmauksvvca4g-2" value="10 PM 10-06" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697" y="120" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiYwCXXmkmauksvvca4g-3" value="Biswa-Tesla- 01-01-24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="697" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiYwCXXmkmauksvvca4g-4" value="No End data - So ACTIVE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiYwCXXmkmauksvvca4g-5" value="End date is there - So INACTIVE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiYwCXXmkmauksvvca4g-6" value="Is this possible ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="200" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
