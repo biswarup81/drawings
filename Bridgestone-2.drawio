@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T14:28:00.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iMWxWAgcosy_R-j1cgP1" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:28:28.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AyDqc3N1wjdw2h9fnZ9s" version="24.5.4" type="github">
   <diagram name="Page-1" id="O7RHU5-fHUaLlyly1wBD">
     <mxGraphModel dx="1050" dy="-189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfvX0sW7hodaN_kgDQ0j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="RfvX0sW7hodaN_kgDQ0j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="330" y="1000" width="40" height="290" as="geometry" />
         </mxCell>
         <mxCell id="RfvX0sW7hodaN_kgDQ0j-3" value="DQ Gate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=89;" vertex="1" parent="1">
@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfvX0sW7hodaN_kgDQ0j-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#342bb1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="RfvX0sW7hodaN_kgDQ0j-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="722" y="990" width="25" height="290" as="geometry" />
         </mxCell>
         <mxCell id="RfvX0sW7hodaN_kgDQ0j-5" value="DQ Gate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=89;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfvX0sW7hodaN_kgDQ0j-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#342bb1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="RfvX0sW7hodaN_kgDQ0j-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="632.98" y="990" width="25" height="290" as="geometry" />
         </mxCell>
         <mxCell id="RfvX0sW7hodaN_kgDQ0j-7" value="DQ Gate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=89;" vertex="1" parent="1">
