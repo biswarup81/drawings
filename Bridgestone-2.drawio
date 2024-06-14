@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T07:05:50.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rMdWdGxgknHbJF0koq4V" version="24.5.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-14T07:15:13.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ASNZPQ5O8J_YHSpvxkmF" version="24.5.4" type="github" pages="6">
   <diagram name="option-1" id="O7RHU5-fHUaLlyly1wBD">
     <mxGraphModel dx="1050" dy="-189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -520,7 +520,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tiDCnAj-2T1L-0UqLkaP-19" value="(Is the product complete?)&lt;div&gt;(manual check)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="480" y="290" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tiDCnAj-2T1L-0UqLkaP-20" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="347" width="60" height="30" as="geometry" />
