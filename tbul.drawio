@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T14:40:40.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3KRtO71IMauMgT0_l5DP" version="24.5.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-18T14:41:44.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DG32Fzb0NUMtMWcZG1mO" version="24.5.5" type="github" pages="4">
   <diagram name="option-1" id="xIKOyrkWzy8Dl_fA8WEf">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -127,6 +127,12 @@
         </mxCell>
         <mxCell id="uVDd3Pz3LuNNK4ch08mF-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="529.08" y="75" width="42.599999999999994" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DJTNmcJBY1qW09pVh8I9-1" value="Secure Agent" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="480" width="116.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DJTNmcJBY1qW09pVh8I9-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="685.83" y="525" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -266,6 +272,15 @@
         </mxCell>
         <mxCell id="cWhrr_YGGOTYgEr_hmNp-1" value="Customers&lt;div&gt;(B2B,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;B2C)&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#9673a6;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e1d5e7;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" vertex="1" parent="1">
           <mxGeometry x="700" y="50" width="72.42" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JIjPr_XKXCbL7PN_Sfo1-1" value="EC2 Instance (AWS)" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="655.67" y="553" width="116.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JIjPr_XKXCbL7PN_Sfo1-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="692.75" y="494" width="42.599999999999994" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JIjPr_XKXCbL7PN_Sfo1-3" value="Secure Agent" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="651.17" y="449" width="116.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
