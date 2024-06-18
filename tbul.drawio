@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T14:30:58.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="g0CXEaZh_2rctQIDuN7g" version="24.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-18T14:33:04.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9jwcFFZBj4guw2J5y0Sf" version="24.5.5" type="github" pages="3">
   <diagram name="option-1" id="xIKOyrkWzy8Dl_fA8WEf">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -30,8 +30,8 @@
         <mxCell id="UTLVXiV4EajCc-Q2aEKk-15" value="MDM_ID and all the consolidated attribute for person (B2C) and organization (B2B)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=13;size=16;" vertex="1" parent="1">
           <mxGeometry x="830" y="347" width="120" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="UTLVXiV4EajCc-Q2aEKk-16" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d4;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" vertex="1" parent="1">
-          <mxGeometry x="724.42" y="42" width="68" height="46" as="geometry" />
+        <mxCell id="UTLVXiV4EajCc-Q2aEKk-16" value="Customers&lt;div&gt;(B2B,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;B2C)&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#9673a6;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e1d5e7;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="72.42" height="58" as="geometry" />
         </mxCell>
         <mxCell id="UTLVXiV4EajCc-Q2aEKk-17" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/98843362-60f4-46ee-85de-753dc02aa09e/content;lucidId=MXlvsj6demjr;" vertex="1" parent="1">
           <mxGeometry x="799.42" y="30" width="72" height="72" as="geometry" />
@@ -167,20 +167,20 @@
         <mxCell id="33QZVExdqFNLATZnmr2U-9" value="MDM_ID and all the consolidated attribute for person (B2C) and organization (B2B)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#da1010;fontSize=13;size=16;" vertex="1" parent="1">
           <mxGeometry x="830" y="347" width="120" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="33QZVExdqFNLATZnmr2U-10" value="Customers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d4;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" vertex="1" parent="1">
-          <mxGeometry x="724.42" y="42" width="68" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="33QZVExdqFNLATZnmr2U-11" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/98843362-60f4-46ee-85de-753dc02aa09e/content;lucidId=MXlvsj6demjr;" vertex="1" parent="1">
-          <mxGeometry x="799.42" y="30" width="72" height="72" as="geometry" />
+          <mxGeometry x="820" y="66" width="72" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="33QZVExdqFNLATZnmr2U-12" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=0.997;exitPerimeter=0;entryX=0.5;entryY=1;entryPerimeter=0;lucidId=~YlvwF8hCNBU;" edge="1" parent="1" source="33QZVExdqFNLATZnmr2U-10">
+        <mxCell id="33QZVExdqFNLATZnmr2U-12" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;lucidId=~YlvwF8hCNBU;" edge="1" parent="1" target="33QZVExdqFNLATZnmr2U-11">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="838.42" y="112" as="targetPoint" />
+            <mxPoint x="838" y="60" as="targetPoint" />
+            <mxPoint x="770" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="33QZVExdqFNLATZnmr2U-13" value="Relationship" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" vertex="1" parent="33QZVExdqFNLATZnmr2U-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="-18" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="33QZVExdqFNLATZnmr2U-14" value="AWS S3 Connectors" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;lucidId=bUlvSHZIWZw~;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="244" width="95" height="60" as="geometry" />
@@ -263,6 +263,9 @@
         </mxCell>
         <mxCell id="fpIBKw20GGPE4b_xydZ5-1" value="Secure Agent" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="30" width="116.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cWhrr_YGGOTYgEr_hmNp-1" value="Customers&lt;div&gt;(B2B,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;B2C)&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#9673a6;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e1d5e7;strokeWidth=0.8;lucidId=Y6fv7KWgEG-H;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="72.42" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
