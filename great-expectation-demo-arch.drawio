@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T15:50:09.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.3" etag="8PJWjWzD23Z1I29e2-wZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T06:54:50.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Bi9cPTDBknM71BnlDSBw" version="24.6.3" type="github">
   <diagram name="Page-1" id="nonpAsZa82sYl_suxYZ8">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YtZtdXPAw11cqxFmCjUG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YtZtdXPAw11cqxFmCjUG-1" target="YtZtdXPAw11cqxFmCjUG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZtdXPAw11cqxFmCjUG-1" value="S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZtdXPAw11cqxFmCjUG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YtZtdXPAw11cqxFmCjUG-3" target="YtZtdXPAw11cqxFmCjUG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZtdXPAw11cqxFmCjUG-3" value="Lamda Function" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZtdXPAw11cqxFmCjUG-5" value="as .csv file is posted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZtdXPAw11cqxFmCjUG-6" value="Python Code execute" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
