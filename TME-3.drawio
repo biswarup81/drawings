@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:26:33.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="E9c5C004n3_tlQT_cJ67" version="24.6.4" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2024-07-10T09:25:52.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5Ls817Bjv2z9htzJzPYm" version="24.6.4" type="github" pages="25">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1874,8 +1874,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kq-2ZfNNHFd9TeTmTqVd" name="Page-24">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="kq-2ZfNNHFd9TeTmTqVd" name="SF-INFA-POC">
+    <mxGraphModel dx="1036" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1975,6 +1975,55 @@
         </mxCell>
         <mxCell id="BXz16YTUcTg-Np8rixxf-32" value="Toshiko" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="715" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jK_1l5aZb5ZCcWDV0Xy_" name="Page-25">
+    <mxGraphModel dx="1036" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-1" target="PigWaiQDo-QiQWBWDDpr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-1" value="Keyvault" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-4" target="PigWaiQDo-QiQWBWDDpr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-4" value="Expiry&lt;div&gt;(in 10 days)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-6" target="PigWaiQDo-QiQWBWDDpr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-6" value="Create an INCIDENT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-8" target="PigWaiQDo-QiQWBWDDpr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-8" value="Change the Secrets in&amp;nbsp; the systems" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-10" target="PigWaiQDo-QiQWBWDDpr-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-10" value="Cut over and release" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-14" target="PigWaiQDo-QiQWBWDDpr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-14" value="Close the INCIDENT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-15" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="325" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
