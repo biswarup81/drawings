@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T09:25:52.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5Ls817Bjv2z9htzJzPYm" version="24.6.4" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-07-10T09:57:46.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dBk41UpfmXUlKTiXE6lF" version="24.6.4" type="github" pages="25">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1891,7 +1891,7 @@
         <mxCell id="BXz16YTUcTg-Np8rixxf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXz16YTUcTg-Np8rixxf-1" target="BXz16YTUcTg-Np8rixxf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BXz16YTUcTg-Np8rixxf-1" value="Snowflake&lt;div&gt;(RAW, MASTER, REJECTED)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="BXz16YTUcTg-Np8rixxf-1" value="Snowflake&lt;div&gt;(RAW, MASTER, REJECTED)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BXz16YTUcTg-Np8rixxf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BXz16YTUcTg-Np8rixxf-3" target="BXz16YTUcTg-Np8rixxf-1">
@@ -1979,7 +1979,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jK_1l5aZb5ZCcWDV0Xy_" name="Page-25">
+  <diagram id="jK_1l5aZb5ZCcWDV0Xy_" name="Secret-Management">
     <mxGraphModel dx="1036" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1987,7 +1987,7 @@
         <mxCell id="PigWaiQDo-QiQWBWDDpr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-1" target="PigWaiQDo-QiQWBWDDpr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PigWaiQDo-QiQWBWDDpr-1" value="Keyvault" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-1" value="Keyvault" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PigWaiQDo-QiQWBWDDpr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PigWaiQDo-QiQWBWDDpr-4" target="PigWaiQDo-QiQWBWDDpr-6">
@@ -2022,8 +2022,14 @@
         <mxCell id="PigWaiQDo-QiQWBWDDpr-14" value="Close the INCIDENT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PigWaiQDo-QiQWBWDDpr-15" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PigWaiQDo-QiQWBWDDpr-15" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="400" y="325" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfM9ZwyGNHFqMMMiZsA-1" value="Automatically created" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfM9ZwyGNHFqMMMiZsA-2" value="Assigned team works on this" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;size=10;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="130" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
