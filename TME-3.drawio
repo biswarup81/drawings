@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T10:03:57.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Rpr2QqKUV9B4rhQvWCXS" version="24.6.4" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-07-10T10:04:24.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mtlnKw_2FeaNx_vEjo-H" version="24.6.4" type="github" pages="25">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1989,7 +1989,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nAhCv84tx9QoFrO0eVzX-4" value="near real-time flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="460" width="115" height="30" as="geometry" />
+          <mxGeometry x="636" y="460" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
