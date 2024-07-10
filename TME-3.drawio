@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T14:06:41.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jUEjeoCdcDyqFootV8m6" version="24.6.2" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:14:14.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Pvg7pq7XzsdzyNTOs7GT" version="24.6.4" type="github" pages="24">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1870,6 +1870,23 @@
         </mxCell>
         <mxCell id="USCK2zjYl1e0lrxc9im6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="70" width="240" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kq-2ZfNNHFd9TeTmTqVd" name="Page-24">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9kiEQq1RMVH4alo2WvtV-1" value="Person Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9kiEQq1RMVH4alo2WvtV-2" value="Person CP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9kiEQq1RMVH4alo2WvtV-3" value="Person MDM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
