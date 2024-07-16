@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T14:41:22.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3zqwXWWfo66ZRVD5gbsr" version="24.6.5" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-07-16T14:53:59.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mMro-YK_05jTwueDtJDq" version="24.6.5" type="github" pages="27">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -989,7 +989,7 @@
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-6" target="fJ5rQr7pfSK_2KPJgg1T-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-6" value="IsDeleted?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
+        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-6" value="&lt;b&gt;IsDeleted&lt;/b&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
           <mxGeometry x="480" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C9VCBFDwzofbHBOXmhfK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-8" target="C9VCBFDwzofbHBOXmhfK-12">
@@ -1001,7 +1001,7 @@
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-11" target="fJ5rQr7pfSK_2KPJgg1T-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-11" value="Check MDM_ID in payload" style="whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
+        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-11" value="Check&amp;nbsp;&lt;b&gt;BusinessId&lt;/b&gt;&lt;div&gt;&amp;nbsp;in payload&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
           <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-13" target="fJ5rQr7pfSK_2KPJgg1T-17">
@@ -1020,13 +1020,13 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-13" value="MDM_ID exists?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
+        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-13" value="&lt;div&gt;&lt;b&gt;BusinessId&lt;/b&gt;&lt;/div&gt;&lt;div&gt;exists?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
           <mxGeometry x="840" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-17" target="fJ5rQr7pfSK_2KPJgg1T-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-17" value="Check merge_flag" style="whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
+        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-17" value="Check &lt;b&gt;merge_flag&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
           <mxGeometry x="980" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-19" target="fJ5rQr7pfSK_2KPJgg1T-21">
@@ -1040,7 +1040,7 @@
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-19" target="fJ5rQr7pfSK_2KPJgg1T-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-19" value="MergeFlag is true" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
+        <mxCell id="fJ5rQr7pfSK_2KPJgg1T-19" value="&lt;div&gt;&lt;b&gt;merge_flag&lt;/b&gt;&lt;/div&gt;&lt;div&gt;is true&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
           <mxGeometry x="1200" y="150" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJ5rQr7pfSK_2KPJgg1T-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MU_y5K5Idftd86Ugvgei-1" source="fJ5rQr7pfSK_2KPJgg1T-21" target="fJ5rQr7pfSK_2KPJgg1T-26">
@@ -1109,6 +1109,9 @@
         </mxCell>
         <mxCell id="C9VCBFDwzofbHBOXmhfK-22" value="Minimum information&lt;div&gt;full name&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
           <mxGeometry x="70" y="255" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C9VCBFDwzofbHBOXmhfK-23" value="&lt;b&gt;Merged_MDM_Ids &lt;/b&gt;- contains the list of MDM_Ids which are merged&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Merged_Customer_Ids &lt;/b&gt;- contains the list of TOSHIKO_IDs which are merged&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="MU_y5K5Idftd86Ugvgei-1">
+          <mxGeometry x="970" y="490" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
