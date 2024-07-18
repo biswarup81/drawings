@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T08:51:57.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1OaXUvQT2QjjhxTBsJCe" version="24.6.5" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-07-18T09:05:32.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pzcnIvFBho_gF2gf1i56" version="24.6.5" type="github" pages="28">
   <diagram name="Consumer role" id="iXr3DxbBh9tyG3I7lu1P">
     <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2340,10 +2340,10 @@
           <mxGeometry x="1010" y="90" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O0fxclwKdVR5TUPPP0HZ-17" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="160" width="30" height="60" as="geometry" />
+          <mxGeometry x="127.5" y="150" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O0fxclwKdVR5TUPPP0HZ-18" value="SA/EA/PO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O0fxclwKdVR5TUPPP0HZ-19" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="30" height="60" as="geometry" />
