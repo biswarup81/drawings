@@ -46,10 +46,10 @@
         <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-18" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="325" width="40" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-21" value="POC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-21" value="MVP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-22" value="MVP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-22" value="First Value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-23" value="Roll-out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -154,7 +154,7 @@
             <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-60" value="t= 3 months" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-60" value="t= 10 weeks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="ktnd4V1kFYMJ_BmFq0Xc-63">
@@ -163,10 +163,10 @@
             <mxPoint x="720" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-63" value="t= 6 months" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-63" value="t= 22 weeks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="685" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-65" value="t= 9 months" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-65" value="t= 36 weeks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="984.23" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -190,10 +190,10 @@
         <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-78" value="Informatica starts with Deloitte as support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="85" y="166" width="185" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-80" value="Deloitte implements the MVP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-80" value="Deloitte implements the Fist Value" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="408" y="114" width="302" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-81" value="Deloitte starts enabling Van OOrd with Operate model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-81" value="Deloitte starts enabling Van Oord with Operate model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="834" y="110" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ktnd4V1kFYMJ_BmFq0Xc-82" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
