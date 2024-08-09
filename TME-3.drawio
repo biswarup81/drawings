@@ -2610,7 +2610,7 @@
         <mxCell id="0r_njHaR_W0y1VP2lYgk-14" value="Commits" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0r_njHaR_W0y1VP2lYgk-15" value="Exporting the artifacts (mapping etc.)" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
+        <mxCell id="0r_njHaR_W0y1VP2lYgk-15" value="Exporting the artifacts (mapping etc.)" style="shape=card;whiteSpace=wrap;html=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0r_njHaR_W0y1VP2lYgk-16" value="Import using a script to UAT" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
