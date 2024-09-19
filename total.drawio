@@ -71,10 +71,40 @@
           <mxGeometry x="550" y="660" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="C3J2a5CztdIZ_jnSeyu1-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; box-sizing: border-box;&quot;&gt;Star-Cristal&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; box-sizing: border-box;&quot;&gt;MSBC&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="110" width="160" height="60" as="geometry" />
+          <mxGeometry x="820" y="110" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3J2a5CztdIZ_jnSeyu1-27" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(247, 249, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Corporate Systems&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="860" y="50" width="150" height="40" as="geometry" />
+          <mxGeometry x="820" y="60" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-28" value="SAP Harmony, SAP P22" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-29" value="MS Systems (optional)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="50" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="1120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-31" value="&lt;b&gt;MIDDLEWARE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="85" width="1120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-33" value="&lt;b&gt;SOURCE SYSTEMS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="10" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="70" y="655" width="1120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-35" value="&lt;b&gt;INTEGRATION MONITORING&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="465" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-36" value="&lt;b&gt;REPORTING&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-37" value="&lt;b&gt;JOB SCHEDULING&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="575" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
