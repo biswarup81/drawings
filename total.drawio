@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="PuhWOrIOxxOIXB0-ARhf">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3J2a5CztdIZ_jnSeyu1-1" target="C3J2a5CztdIZ_jnSeyu1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-1" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(247, 249, 251);&quot;&gt;SAP UNISOL, SALSA, UNISUP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-2" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(247, 249, 251);&quot;&gt;Exploration &amp;amp; Production (EP)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3J2a5CztdIZ_jnSeyu1-3" target="C3J2a5CztdIZ_jnSeyu1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-3" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(247, 249, 251);&quot;&gt;SAP P3A, P8B, O54, O02&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(247, 249, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Refining &amp;amp; Chemicals (RC)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3J2a5CztdIZ_jnSeyu1-5" target="C3J2a5CztdIZ_jnSeyu1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-5" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(247, 249, 251);&quot;&gt;SAP IS-U, MSBC, Sunsystems&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(247, 249, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Gas, Renewables &amp;amp; Power (GRP)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-7" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(247, 249, 251);&quot;&gt;SAP BTP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-9" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(247, 249, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Integration Suite&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-11" value="APIGEE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-12" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(247, 249, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;API Gateway&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-13" value="&lt;span style=&quot;box-sizing: border-box; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(247, 249, 251);&quot;&gt;Axway Managed File Transfer (AMFT)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-17" value="&lt;pre style=&quot;box-sizing: border-box; font-family: monospace, monospace; font-size: 14px; background: var(--color-nav-text); padding: 0px 0px 1rem 1rem; margin-right: 1rem; overflow-x: auto; width: auto; max-width: 100%; border-top-left-radius: var(--default-border-radius); border-top-right-radius: var(--default-border-radius); text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: monospace, monospace; font-size: 1em; color: rgb(36, 41, 46); background: rgb(255, 255, 255); max-width: 100%; text-wrap: wrap;&quot; data-highlighted=&quot;yes&quot; class=&quot;language-plaintext hljs&quot;&gt;SAP Cloud ALM &lt;/code&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="450" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-18" value="&lt;pre style=&quot;box-sizing: border-box; font-family: monospace, monospace; font-size: 14px; background: var(--color-nav-text); padding: 0px 0px 1rem 1rem; margin-right: 1rem; overflow-x: auto; width: auto; max-width: 100%; border-top-left-radius: var(--default-border-radius); border-top-right-radius: var(--default-border-radius); text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: monospace, monospace; font-size: 1em; color: rgb(36, 41, 46); background: rgb(255, 255, 255); max-width: 100%; text-wrap: wrap;&quot; data-highlighted=&quot;yes&quot; class=&quot;language-plaintext hljs&quot;&gt;BMC Control-M&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="560" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="710" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-24" value="&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;SAP BW-BPS&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Anaplan&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Workiva&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;SAP BFC&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Cognos CDM&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;SAP Analytics Cloud&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Power BI&lt;/span&gt;&lt;/li&gt;&lt;li&gt;ACL&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="660" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; box-sizing: border-box;&quot;&gt;Star-Cristal&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 249, 251); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; box-sizing: border-box;&quot;&gt;MSBC&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J2a5CztdIZ_jnSeyu1-27" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(247, 249, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Corporate Systems&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="860" y="50" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
