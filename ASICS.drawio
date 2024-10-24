@@ -404,10 +404,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="20U2L3nlHllKh6OY4-fw" name="CDC">
-    <mxGraphModel dx="1290" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eeo32iHcp4Kant-rCxcW-1" target="Eeo32iHcp4Kant-rCxcW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-1" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-2" value="INFA" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-4" value="job_full_load" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-5" value="2 - Delta Initialization with transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-6" value="&lt;b&gt;One Time&lt;/b&gt;&lt;div&gt;Custom tables in secure agent captures the timestamp&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1875;" vertex="1" parent="1">
+          <mxGeometry x="560" y="195" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eeo32iHcp4Kant-rCxcW-8" target="Eeo32iHcp4Kant-rCxcW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-8" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-9" value="INFA" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-10" value="job_delta_update" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-11" value="3 - Delta updates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-13" value="5 mins interval" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eeo32iHcp4Kant-rCxcW-14" value="&lt;div&gt;&lt;b&gt;5 mins interval&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Update IDMC with the changes happened in last 5 mins&amp;nbsp;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1875;" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
