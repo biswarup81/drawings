@@ -512,8 +512,8 @@
         <mxCell id="Rne-RHlaspr-qzh9SZaG-25" value="SPARC executor + SPARC drivers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="380" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rne-RHlaspr-qzh9SZaG-26" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;AWS managed cluster - preferred, but all AWS services run via NTT contractually, and this will be via IDMC giving a complication&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="350" height="30" as="geometry" />
+        <mxCell id="Rne-RHlaspr-qzh9SZaG-26" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;AWS managed cluster - preferred, but all AWS services run via NTT contractually, and this will be via IDMC giving a complication&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
