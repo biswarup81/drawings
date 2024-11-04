@@ -22,13 +22,13 @@
         <mxCell id="s0mZ-STEKIC7qLcdaXOQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s0mZ-STEKIC7qLcdaXOQ-5" target="s0mZ-STEKIC7qLcdaXOQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s0mZ-STEKIC7qLcdaXOQ-5" value="Infa Middleware&lt;div&gt;(CAI)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s0mZ-STEKIC7qLcdaXOQ-5" value="Infa Middleware&lt;div&gt;(CAI)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0mZ-STEKIC7qLcdaXOQ-7" value="Listens" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s0mZ-STEKIC7qLcdaXOQ-8" value="OT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="s0mZ-STEKIC7qLcdaXOQ-8" value="OT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0mZ-STEKIC7qLcdaXOQ-10" value="Calls OT API Merge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
