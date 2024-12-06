@@ -16,7 +16,7 @@
         <mxCell id="hXpVFQbr3joO_DWSpM0u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hXpVFQbr3joO_DWSpM0u-3" target="hXpVFQbr3joO_DWSpM0u-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hXpVFQbr3joO_DWSpM0u-3" value="DI Publish" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hXpVFQbr3joO_DWSpM0u-3" value="CDI Publish" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hXpVFQbr3joO_DWSpM0u-5" value="topic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="hXpVFQbr3joO_DWSpM0u-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hXpVFQbr3joO_DWSpM0u-6" target="hXpVFQbr3joO_DWSpM0u-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hXpVFQbr3joO_DWSpM0u-6" value="DI Subscribe" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hXpVFQbr3joO_DWSpM0u-6" value="CDI Subscribe" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hXpVFQbr3joO_DWSpM0u-8" value="topic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
