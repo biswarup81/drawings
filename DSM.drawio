@@ -7,7 +7,7 @@
         <mxCell id="hXpVFQbr3joO_DWSpM0u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hXpVFQbr3joO_DWSpM0u-1" target="hXpVFQbr3joO_DWSpM0u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hXpVFQbr3joO_DWSpM0u-1" value="Integration Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hXpVFQbr3joO_DWSpM0u-1" value="Integration Hub" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hXpVFQbr3joO_DWSpM0u-2" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
