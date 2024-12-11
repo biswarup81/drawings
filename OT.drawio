@@ -430,10 +430,10 @@
         <mxCell id="8MsqvExFg49jGTHITrXp-7" value="OT Objects" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
           <mxGeometry x="259" y="540" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8MsqvExFg49jGTHITrXp-13" value="Project" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8MsqvExFg49jGTHITrXp-13" value="Project" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="123" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8MsqvExFg49jGTHITrXp-14" value="Folders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8MsqvExFg49jGTHITrXp-14" value="Folders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8MsqvExFg49jGTHITrXp-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
