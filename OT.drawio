@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="11">
   <diagram id="HEb7EunNR4BFm2dMl4f9" name="Submit">
     <mxGraphModel dx="1050" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -647,6 +647,71 @@
         </mxCell>
         <mxCell id="BUwLtcU6y8ggA5aPsac3-19" value="GITHUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hAuwj3aH4O9KBrOo86Zk" name="Page-11">
+    <mxGraphModel dx="1050" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dRqrigq0CmYm98_DBTdE-1" value="NMSC" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-2" value="NMSC" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dRqrigq0CmYm98_DBTdE-3" target="dRqrigq0CmYm98_DBTdE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-3" value="NMSC" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dRqrigq0CmYm98_DBTdE-4" target="dRqrigq0CmYm98_DBTdE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="490" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dRqrigq0CmYm98_DBTdE-5" target="dRqrigq0CmYm98_DBTdE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-5" value="Interface-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dRqrigq0CmYm98_DBTdE-6" target="dRqrigq0CmYm98_DBTdE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dRqrigq0CmYm98_DBTdE-6" target="dRqrigq0CmYm98_DBTdE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-6" value="Interface-7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dRqrigq0CmYm98_DBTdE-7" target="dRqrigq0CmYm98_DBTdE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-7" value="Interface-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-9" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&#xa;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&#xa;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consent upload from&#xa;Local system to Integration Layer&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-10" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&#xa;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&#xa;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Get MDM id from&#xa;Informatica&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-11" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&#xa;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&#xa;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Consent upload from Integration&#xa;Layer to Onetrust&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="285" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-13" value="SubmitConsentRequest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-14" value="SubmitConsentResponse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dRqrigq0CmYm98_DBTdE-16" value="Informatica Middleware" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
