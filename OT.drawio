@@ -931,6 +931,9 @@
         <mxCell id="ekrcLgkH4Lhpy4wLEzze-34" value="REST API : POST ENDPOST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2320" y="630" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ekrcLgkH4Lhpy4wLEzze-35" value="Cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
