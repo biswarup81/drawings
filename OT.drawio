@@ -835,7 +835,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekrcLgkH4Lhpy4wLEzze-2" value="PURPOSE" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="ekrcLgkH4Lhpy4wLEzze-2" value="PURPOSE (DynamoDB table)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="600" y="350" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekrcLgkH4Lhpy4wLEzze-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekrcLgkH4Lhpy4wLEzze-3" target="ekrcLgkH4Lhpy4wLEzze-4">
@@ -846,7 +846,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekrcLgkH4Lhpy4wLEzze-3" value="COMMUNICATION_CHANNEL" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="ekrcLgkH4Lhpy4wLEzze-3" value="COMMUNICATION_CHANNEL&lt;div&gt;(DynamoDB table)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="600" y="540" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekrcLgkH4Lhpy4wLEzze-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekrcLgkH4Lhpy4wLEzze-4" target="ekrcLgkH4Lhpy4wLEzze-6">
@@ -881,7 +881,7 @@
         <mxCell id="ekrcLgkH4Lhpy4wLEzze-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekrcLgkH4Lhpy4wLEzze-15" target="ekrcLgkH4Lhpy4wLEzze-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekrcLgkH4Lhpy4wLEzze-15" value="COLLECTION_POINT" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="ekrcLgkH4Lhpy4wLEzze-15" value="COLLECTION_POINT&lt;div&gt;(DynamoDB table)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="540" y="130" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekrcLgkH4Lhpy4wLEzze-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekrcLgkH4Lhpy4wLEzze-17" target="ekrcLgkH4Lhpy4wLEzze-15">
