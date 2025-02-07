@@ -1006,6 +1006,12 @@
         <mxCell id="sZT9zBQyItnci6HBOzdX-1" value="TBUL AppConnector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sZT9zBQyItnci6HBOzdX-3" value="TSW AppConnector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZT9zBQyItnci6HBOzdX-4" value="TGB AppConnector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
