@@ -992,7 +992,7 @@
           <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ap825G1y06iZB3Yg1pcI-8" value="Main Process&lt;div&gt;(Merge Consent)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ap825G1y06iZB3Yg1pcI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="Ap825G1y06iZB3Yg1pcI-1" target="Ap825G1y06iZB3Yg1pcI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1013,7 +1013,7 @@
           <mxGeometry x="510" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sZT9zBQyItnci6HBOzdX-5" value="Uniform&lt;div&gt;Payload&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="820" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
