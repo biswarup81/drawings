@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="26.0.12" pages="2">
-  <diagram name="Page-1" id="2F1eauxM8fGFwbu9mJu0">
-    <mxGraphModel dx="1182" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="website" id="2F1eauxM8fGFwbu9mJu0">
+    <mxGraphModel dx="1181" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lpkpt1s2S9Q52mZW5yr8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lpkpt1s2S9Q52mZW5yr8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="640" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="lpkpt1s2S9Q52mZW5yr8-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;1300 X 733&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lpkpt1s2S9Q52mZW5yr8-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;1300 X 733&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="190" width="560" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="lpkpt1s2S9Q52mZW5yr8-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;700 X 933&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lpkpt1s2S9Q52mZW5yr8-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;700 X 933&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="410" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="lpkpt1s2S9Q52mZW5yr8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lpkpt1s2S9Q52mZW5yr8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="410" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="lpkpt1s2S9Q52mZW5yr8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lpkpt1s2S9Q52mZW5yr8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="410" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="lpkpt1s2S9Q52mZW5yr8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lpkpt1s2S9Q52mZW5yr8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="50" width="560" height="120" as="geometry" />
         </mxCell>
       </root>
