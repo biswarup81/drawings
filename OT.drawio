@@ -1111,11 +1111,14 @@
         <mxCell id="SkPwXITmyehHpPcyp_Wh-5" value="collectionpoints.xml" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="710" y="435" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SkPwXITmyehHpPcyp_Wh-7" value="GetCollectionPointProcess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SkPwXITmyehHpPcyp_Wh-7" value="SaveCollectionPointProcess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="18" y="540" width="142" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkPwXITmyehHpPcyp_Wh-8" value="CAI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="52" y="579" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkPwXITmyehHpPcyp_Wh-9" value="All the Collection Points from One Trust" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="540" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
