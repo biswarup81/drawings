@@ -1479,8 +1479,8 @@
         <mxCell id="0ydgai-DigsDYKIcVzOu-35" value="OT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
           <mxGeometry x="740" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ydgai-DigsDYKIcVzOu-36" value="&lt;b&gt;Adopt create multiple identifier&lt;/b&gt; in near real time fashion using Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
-          <mxGeometry x="77.5" y="510" width="382.5" height="30" as="geometry" />
+        <mxCell id="0ydgai-DigsDYKIcVzOu-36" value="&lt;b&gt;Adopt create multiple identifier&lt;/b&gt; in near real time fashion using Kafka. This ensures to create the multiple identifier once any record is created in MDM" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
+          <mxGeometry x="77.5" y="510" width="762.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ydgai-DigsDYKIcVzOu-37" value="&lt;b&gt;Adopt create multiple identifier&lt;/b&gt;&amp;nbsp;using hourly scheduler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
           <mxGeometry x="67.5" y="880" width="312.5" height="30" as="geometry" />
@@ -1553,7 +1553,7 @@
         <mxCell id="0ydgai-DigsDYKIcVzOu-52" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
           <mxGeometry x="260" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ydgai-DigsDYKIcVzOu-53" value="&lt;b&gt;Merge -&lt;/b&gt; New requirments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
+        <mxCell id="0ydgai-DigsDYKIcVzOu-53" value="&lt;b&gt;Merge -&lt;/b&gt;&amp;nbsp;Retry, Update" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
           <mxGeometry x="60" y="1350" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ydgai-DigsDYKIcVzOu-54" value="Transformation of local id and store transactions" style="text;whiteSpace=wrap;" vertex="1" parent="0ydgai-DigsDYKIcVzOu-1">
