@@ -2471,7 +2471,7 @@
         <mxCell id="plWy7gQERW1YMHSeANOS-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry x="46" y="295" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-31" value="Commit changes to UAT with latest hash" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-30" parent="plWy7gQERW1YMHSeANOS-2">
+        <mxCell id="plWy7gQERW1YMHSeANOS-31" value="Commit changes to UAT Branch with latest hash" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-30" parent="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="51" y="275" as="sourcePoint" />
             <Array as="points">
