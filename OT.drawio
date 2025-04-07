@@ -2444,12 +2444,12 @@
           <mxGeometry x="45" y="50" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="plWy7gQERW1YMHSeANOS-2" value="Github" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="420" y="120" width="100" height="300" as="geometry" />
+          <mxGeometry x="372" y="120" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="plWy7gQERW1YMHSeANOS-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry x="46" y="120" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-9" value="Execute the Pipeline" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-8" parent="plWy7gQERW1YMHSeANOS-2">
+        <mxCell id="plWy7gQERW1YMHSeANOS-9" value="Execute the Pipeline (iics_deployment.yml)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-8" parent="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="51" y="100" as="sourcePoint" />
             <Array as="points">
@@ -2457,11 +2457,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-3" value="IDMC(DEV)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="680" y="120" width="100" height="300" as="geometry" />
+        <mxCell id="plWy7gQERW1YMHSeANOS-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-2">
+          <mxGeometry x="46" y="200" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-3">
-          <mxGeometry x="45" y="180" width="10" height="80" as="geometry" />
+        <mxCell id="plWy7gQERW1YMHSeANOS-27" value="&lt;span style=&quot;text-align: center;&quot;&gt;Git Chery pick(git fetch, git push)&lt;/span&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-26" parent="plWy7gQERW1YMHSeANOS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plWy7gQERW1YMHSeANOS-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-2">
+          <mxGeometry x="46" y="295" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="plWy7gQERW1YMHSeANOS-31" value="Commit changes to UAT with latest hash" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-30" parent="plWy7gQERW1YMHSeANOS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="275" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plWy7gQERW1YMHSeANOS-3" value="IDMC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="694" y="120" width="100" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="plWy7gQERW1YMHSeANOS-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-3">
+          <mxGeometry x="45" y="327" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="plWy7gQERW1YMHSeANOS-4" value="Checks in the Code in DEV branch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="plWy7gQERW1YMHSeANOS-7" target="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry width="60" relative="1" as="geometry">
@@ -2469,14 +2491,16 @@
             <mxPoint x="350" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-17" value="Git Checkpick" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="plWy7gQERW1YMHSeANOS-16" parent="1" source="plWy7gQERW1YMHSeANOS-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="305" as="sourcePoint" />
+        <mxCell id="plWy7gQERW1YMHSeANOS-21" value="Login to UAT (Python script infa_login.py)" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="421.5" y="468" as="sourcePoint" />
+            <mxPoint x="739" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-18" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="plWy7gQERW1YMHSeANOS-16" parent="1" target="plWy7gQERW1YMHSeANOS-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="375" as="targetPoint" />
+        <mxCell id="plWy7gQERW1YMHSeANOS-22" value="Sync and Test UAT (python script infa_update_test.py)" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="421.5" y="512" as="sourcePoint" />
+            <mxPoint x="739" y="512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
