@@ -2471,7 +2471,7 @@
         <mxCell id="plWy7gQERW1YMHSeANOS-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry x="46" y="295" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-31" value="Commit changes to UAT Branch with latest hash" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-30" parent="plWy7gQERW1YMHSeANOS-2">
+        <mxCell id="plWy7gQERW1YMHSeANOS-31" value="Commit changes to &lt;b&gt;UAT Branch&lt;/b&gt; with latest hash" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="plWy7gQERW1YMHSeANOS-30" parent="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="51" y="275" as="sourcePoint" />
             <Array as="points">
@@ -2485,7 +2485,7 @@
         <mxCell id="plWy7gQERW1YMHSeANOS-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="plWy7gQERW1YMHSeANOS-3">
           <mxGeometry x="45" y="327" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="plWy7gQERW1YMHSeANOS-4" value="Checks in the Code in DEV branch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="plWy7gQERW1YMHSeANOS-7" target="plWy7gQERW1YMHSeANOS-2">
+        <mxCell id="plWy7gQERW1YMHSeANOS-4" value="Checks in the Code in &lt;b&gt;DEV branch&lt;/b&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="plWy7gQERW1YMHSeANOS-7" target="plWy7gQERW1YMHSeANOS-2">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="209.5" y="200" as="sourcePoint" />
             <mxPoint x="350" y="200" as="targetPoint" />
