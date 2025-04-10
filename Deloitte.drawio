@@ -862,7 +862,7 @@
           <mxGeometry x="750" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XPQop6c3RcugDH6XMHH-27" value="Get Session ID Process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wWB6iQdm5a10fe4KRY5G-1">
-          <mxGeometry x="40" y="920" width="160" height="30" as="geometry" />
+          <mxGeometry x="40" y="923" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XPQop6c3RcugDH6XMHH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wWB6iQdm5a10fe4KRY5G-1" source="0XPQop6c3RcugDH6XMHH-28" target="0XPQop6c3RcugDH6XMHH-29">
           <mxGeometry relative="1" as="geometry" />
