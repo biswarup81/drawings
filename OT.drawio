@@ -2512,16 +2512,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B10634p_Ah7UgHEV7lJC-2" value="Informatica IDMC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="130" width="130" height="30" as="geometry" />
+          <mxGeometry x="210" y="70" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="155" y="110" width="220" height="330" as="geometry" />
         </mxCell>
         <mxCell id="B10634p_Ah7UgHEV7lJC-3" value="Secure Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="190" height="40" as="geometry" />
+          <mxGeometry x="171" y="132" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B10634p_Ah7UgHEV7lJC-4" value="Cloud Application Integration (CAI) Process Run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="B10634p_Ah7UgHEV7lJC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="170" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="B10634p_Ah7UgHEV7lJC-5" value="Platform Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="190" height="40" as="geometry" />
@@ -2529,8 +2529,17 @@
         <mxCell id="B10634p_Ah7UgHEV7lJC-7" value="Kafka Queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="310" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="768" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B10634p_Ah7UgHEV7lJC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="170" height="130" as="geometry" />
+          <mxGeometry x="480" y="240" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="B10634p_Ah7UgHEV7lJC-9" value="1. Synthetic Tests" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="260" width="125" height="30" as="geometry" />
@@ -2550,13 +2559,13 @@
         <mxCell id="B10634p_Ah7UgHEV7lJC-16" value="ServiceNow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="230" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B10634p_Ah7UgHEV7lJC-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="B10634p_Ah7UgHEV7lJC-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="290" as="sourcePoint" />
             <mxPoint x="470" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B10634p_Ah7UgHEV7lJC-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="B10634p_Ah7UgHEV7lJC-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="340" as="sourcePoint" />
             <mxPoint x="390" y="340" as="targetPoint" />
@@ -2564,9 +2573,57 @@
         </mxCell>
         <mxCell id="B10634p_Ah7UgHEV7lJC-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="669" y="310" as="sourcePoint" />
+            <mxPoint x="700" y="310" as="sourcePoint" />
             <mxPoint x="749" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-21" value="" style="rounded=0;whiteSpace=wrap;html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-22" value="Replica DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="165" y="710" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="B10634p_Ah7UgHEV7lJC-26">
+          <mxGeometry width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="B10634p_Ah7UgHEV7lJC-26">
+          <mxGeometry x="10" y="10" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="B10634p_Ah7UgHEV7lJC-26">
+          <mxGeometry x="20" y="20" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-27" value="One Trust" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="sourcePoint" />
+            <mxPoint x="340" y="533.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="534.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="740" as="sourcePoint" />
+            <mxPoint x="622" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="622" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="560" as="sourcePoint" />
+            <mxPoint x="570" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B10634p_Ah7UgHEV7lJC-35" value="Cloud Data Integration (CDI) Job Run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="189" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
