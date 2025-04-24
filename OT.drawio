@@ -2730,7 +2730,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0FA6G3JQ_IPrMOAmLMc-2" value="ServiceNow Ticket created and approved by IT Manager" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O0FA6G3JQ_IPrMOAmLMc-2" value="ServiceNow Ticket created and approved by IT Manager" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1320" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
