@@ -2629,7 +2629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQA4BBFjSU7X7itScMNS" name="CI-CD-Workflow">
-    <mxGraphModel dx="1042" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1507" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2703,7 +2703,7 @@
         <mxCell id="O0FA6G3JQ_IPrMOAmLMc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-25" target="2wKYVTb5zd0tc7tbLt_Z-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-25" value="Operation" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-25" value="Operation (Prod)&lt;div&gt;Dev Team (acc)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="33" y="395" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wKYVTb5zd0tc7tbLt_Z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-26" target="2wKYVTb5zd0tc7tbLt_Z-14" edge="1">
@@ -2730,8 +2730,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0FA6G3JQ_IPrMOAmLMc-2" value="ServiceNow Ticket created and approved by IT Manager" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="O0FA6G3JQ_IPrMOAmLMc-2" value="ServiceNow Ticket created and approved by IT Manager&lt;div&gt;(Not required for acc)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="60" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
