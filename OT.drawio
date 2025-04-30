@@ -2685,7 +2685,7 @@
         <mxCell id="2wKYVTb5zd0tc7tbLt_Z-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-20" target="2wKYVTb5zd0tc7tbLt_Z-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-20" value="System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-20" value="Pipeline" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="40" y="600" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wKYVTb5zd0tc7tbLt_Z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-21" target="2wKYVTb5zd0tc7tbLt_Z-23" edge="1">
