@@ -2629,7 +2629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQA4BBFjSU7X7itScMNS" name="CI-CD-Workflow">
-    <mxGraphModel dx="1507" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2645,28 +2645,19 @@
         <mxCell id="2wKYVTb5zd0tc7tbLt_Z-2" value="&lt;b&gt;Develops &lt;/b&gt;the code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Roe-dzxBgXzHwod5OkpJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-4" target="NsCBtxKbP3oWqzlXQB4j-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2wKYVTb5zd0tc7tbLt_Z-4" value="&lt;b&gt;Checks in&lt;/b&gt; gitHub dev branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-6" target="2wKYVTb5zd0tc7tbLt_Z-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-6" value="Scrum Master" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-7" value="Ensure all commits are part of the sprint and &lt;b&gt;Close the Sprint&lt;/b&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="180" y="230" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="O0FA6G3JQ_IPrMOAmLMc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NsCBtxKbP3oWqzlXQB4j-1" target="2wKYVTb5zd0tc7tbLt_Z-21" edge="1">
+        <mxCell id="Roe-dzxBgXzHwod5OkpJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-12" target="2wKYVTb5zd0tc7tbLt_Z-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="530" />
-              <mxPoint x="240" y="530" />
+              <mxPoint x="390" y="500" />
+              <mxPoint x="250" y="500" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NsCBtxKbP3oWqzlXQB4j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-12" target="NsCBtxKbP3oWqzlXQB4j-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2wKYVTb5zd0tc7tbLt_Z-12" value="Run the Workflow" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="330" y="395" width="120" height="60" as="geometry" />
@@ -2728,23 +2719,10 @@
         <mxCell id="O0FA6G3JQ_IPrMOAmLMc-2" value="ServiceNow Ticket created and approved by IT Manager&lt;div&gt;(Not required for acc)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1630" y="60" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NsCBtxKbP3oWqzlXQB4j-1" value="Approval by the IT Manager" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="530" y="395" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NsCBtxKbP3oWqzlXQB4j-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-7" target="NsCBtxKbP3oWqzlXQB4j-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="570" y="260" />
-              <mxPoint x="570" y="100" />
-            </Array>
-            <mxPoint x="390" y="260" as="sourcePoint" />
-            <mxPoint x="860" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NsCBtxKbP3oWqzlXQB4j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NsCBtxKbP3oWqzlXQB4j-3" target="2wKYVTb5zd0tc7tbLt_Z-26">
+        <mxCell id="NsCBtxKbP3oWqzlXQB4j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NsCBtxKbP3oWqzlXQB4j-3" target="2wKYVTb5zd0tc7tbLt_Z-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NsCBtxKbP3oWqzlXQB4j-3" value="Pull request to &lt;b&gt;master &lt;/b&gt;with the changes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NsCBtxKbP3oWqzlXQB4j-3" value="Pull request to &lt;b&gt;master &lt;/b&gt;with the changes." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
