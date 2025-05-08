@@ -2722,11 +2722,11 @@
         <mxCell id="NsCBtxKbP3oWqzlXQB4j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NsCBtxKbP3oWqzlXQB4j-3" target="2wKYVTb5zd0tc7tbLt_Z-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NsCBtxKbP3oWqzlXQB4j-3" value="Pull request to &lt;b&gt;master &lt;/b&gt;with the changes." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Roe-dzxBgXzHwod5OkpJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="10" y="530" width="800" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NsCBtxKbP3oWqzlXQB4j-3" value="Pull request to &lt;b&gt;master &lt;/b&gt;with the changes." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Roe-dzxBgXzHwod5OkpJ-4" value="Automation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="60" height="30" as="geometry" />
