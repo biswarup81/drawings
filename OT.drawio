@@ -2648,7 +2648,7 @@
         <mxCell id="Roe-dzxBgXzHwod5OkpJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-4" target="NsCBtxKbP3oWqzlXQB4j-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-4" value="&lt;b&gt;Checks in&lt;/b&gt; gitHub dev branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wKYVTb5zd0tc7tbLt_Z-4" value="&lt;b&gt;Checks in&lt;/b&gt; gitHub &lt;b&gt;dev &lt;/b&gt;branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Roe-dzxBgXzHwod5OkpJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2wKYVTb5zd0tc7tbLt_Z-12" target="2wKYVTb5zd0tc7tbLt_Z-21">
