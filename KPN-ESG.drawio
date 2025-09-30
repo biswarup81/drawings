@@ -40,6 +40,12 @@
         <mxCell id="H0wmP8DOvjntcD99sQRp-14" value="EPM Financial Reporting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="840" y="930" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dgK4W6qERTAFbobbwT4g-1" value="Provide governed exports (CSV, SQL access, Pub/Sub) for FIA/FDI consumers, supplier portals and external stakeholders." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1030" width="500" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dgK4W6qERTAFbobbwT4g-2" value="APIs / Data services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="1030" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
