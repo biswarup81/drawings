@@ -79,13 +79,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gjYrhcPvms1deV_5RMik-8" value="Governance &amp; Assurance" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="246" y="210" width="170" height="40" as="geometry" />
+          <mxGeometry x="239" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-10" target="gjYrhcPvms1deV_5RMik-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gjYrhcPvms1deV_5RMik-10" value="supplier_master&lt;div&gt;product_master&lt;/div&gt;&lt;div&gt;invoice_activity&lt;/div&gt;&lt;div&gt;travel_activity&lt;/div&gt;&lt;div&gt;waste_activity&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="501" y="80" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gjYrhcPvms1deV_5RMik-12" value="FDI: Master Data / Canonical Layer" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="501" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-13" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; color: rgb(0, 29, 53);&quot;&gt;GWP stands for&amp;nbsp;&lt;/span&gt;&lt;mark class=&quot;QVRyCf&quot; style=&quot;background: linear-gradient(90deg, rgb(211, 227, 253) 50%, rgba(0, 0, 0, 0) 50%) 75% 0px / 200% 100% no-repeat scroll padding-box border-box rgba(0, 0, 0, 0); font-weight: 500; border-radius: 4px; padding: 0px 2px; animation: 0.75s cubic-bezier(0.05, 0.7, 0.1, 1) 0.25s 1 normal forwards running highlight-animation; font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Global Warming Potential&lt;/mark&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.428;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-14" target="gjYrhcPvms1deV_5RMik-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-14" value="emission_factors table&lt;div&gt;GWP table&lt;/div&gt;&lt;div&gt;allocation_rules&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-16" value="ENRICHMENT LOOKUPS" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="506" y="210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.425;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-17" target="gjYrhcPvms1deV_5RMik-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-17" target="gjYrhcPvms1deV_5RMik-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-17" value="activity × factor × GWP&lt;div&gt;allocation fractions&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="390" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-19" value="CALCULATIONS &amp; ALLOCATION" style="text;whiteSpace=wrap;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="501" y="360" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-22" target="gjYrhcPvms1deV_5RMik-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-22" value="Persist canonical tables&lt;div&gt;Heavy compute (batch)&lt;/div&gt;&lt;div&gt;Factor versioning&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-24" target="gjYrhcPvms1deV_5RMik-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-24" value="activity × factor × GWP&lt;div&gt;allocation fractions&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="550" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-26" value="ADW / Autonomous DB" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-27" value="Emissions datasets" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="639" y="520" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-29" value="Dashboards" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-31" value="Oracle Analytics Cloud" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="365" y="680" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-32" value="EPM / Narrative Reporting" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="635" y="690" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-33" value="CSRD / ESRS disclosures" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="649" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
