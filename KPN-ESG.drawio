@@ -1,9 +1,92 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
-  <diagram name="Page-1" id="1XdUlHNQLq4-i4FHFJI1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="2">
+  <diagram name="overall" id="1XdUlHNQLq4-i4FHFJI1">
     <mxGraphModel dx="1042" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H0wmP8DOvjntcD99sQRp-2" value="Oracle ERA / AP / PO / Inventory (Fusion) — invoice lines (PO &amp;amp; non‑PO) and GL mappings.&lt;br&gt;HR systems — FTE, employee commuting declarations.&lt;br&gt;FleetSupport — fuel consumption, leased cars.&lt;br&gt;APRO / TDO network meters — network electricity usage.&lt;br&gt;ECM (Energy Management System) — site energy usage (shops &amp;amp; offices).&lt;br&gt;UDEX (grid connections) — grid/connection metadata for location‑based factors.&lt;br&gt;Travel management (BCD/TMC) — business travel legs and emissions.&lt;br&gt;Stock‑pile tool / Inventory Outflow (product outflow, installed base).&lt;br&gt;External sources: supplier LCA uploads, CEVA waste percentages, visermark.com, DEFRA Table 13 (or chosen EF dataset), national commuting stats (CBS), exchange/inflation feeds, fuel price feeds.&lt;br&gt;Manual / email feeds from product management for category 11/12/13 inputs where required." style="rounded=0;align=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="420" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-3" value="SOURCES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-4" value="&lt;b&gt;Connectors &amp;amp; ingestion: &lt;/b&gt;scheduled and event‑driven connectors to all source systems (REST, DB, SFTP, API).&lt;br&gt;&lt;b&gt;Data profiling and discovery:&lt;/b&gt; schema discovery, completeness/statistics for incoming feeds.&lt;br&gt;&lt;b&gt;Transformation &amp;amp; canonicalisation: &lt;/b&gt;apply mappings to canonical schema (supplier_master, product_master, activity tables, invoice lines, travel_activity, waste_activity).&lt;br&gt;&lt;b&gt;Enrichment &amp;amp; lookups:&lt;/b&gt; join emission_factors, GWP, exchange and inflation values; map GL→CSRD category.&lt;br&gt;&lt;b&gt;Data quality: &lt;/b&gt;validation rules, thresholds, DQ scorecards; DQ gates to block downstream publish if critical fail.&lt;br&gt;&lt;b&gt;Identity resolution:&lt;/b&gt; fuzzy matching for supplier/product dedupe; create canonical IDs.&lt;br&gt;&lt;b&gt;Allocation logic:&lt;/b&gt; implement allocation rules (physical/economic) where needed, and persist allocation metadata.&lt;br&gt;&lt;b&gt;Lineage &amp;amp; metadata: &lt;/b&gt;automatic end‑to‑end lineage, business glossary, dataset versions and provenance needed for assurance.&lt;br&gt;&lt;b&gt;Publish: &lt;/b&gt;write governed datasets to target EDW / Autonomous DB, Data Lake or to Kafka/PubSub for downstream consumers." style="rounded=1;align=left;fontColor=default;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="560" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-5" value="Fusion Data Intelligence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="330" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-6" value="&lt;div&gt;Oracle Autonomous Data Warehouse (ADW) or Oracle Exadata Cloud Service:&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Persist canonical, versioned datasets and calculation results (calculated_emissions table with factor_id, allocation_id, source_record_id, dataset_version).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Perform heavy batch calculations (Monte Carlo uncertainty, large joins) pushed down from FDI.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Oracle Enterprise Performance Management (EPM) / Planning:&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Base‑year versioning, target tracking, scenario modelling.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Archive / Data Lake:&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Raw ingestion snapshots, evidence bundles (for assurance), long‑term storage of factor versions.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="240" width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-8" value="Analytical / Calculation &amp;amp; Storage tier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="200" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="780" width="560" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-10" value="Reporting Dashboard and APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="740" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-11" value="&lt;div&gt;&lt;b&gt;Operational dashboards: &lt;/b&gt;hot‑spot analysis, supplier coverage (% from primary data), DQ dashboards.&lt;/div&gt;&lt;div&gt;Drill‑down to source records and FDI lineage.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="810" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-12" value="Oracle Analytics Cloud (OAC)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="810" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-13" value="CSRD/ESRS formatted disclosures, methodology text, base year recalculation policy." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="930" width="500" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H0wmP8DOvjntcD99sQRp-14" value="EPM Financial Reporting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="930" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WRUsux9puGQyb0FZKVJs" name="dataflow">
+    <mxGraphModel dx="1042" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gjYrhcPvms1deV_5RMik-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-1" target="gjYrhcPvms1deV_5RMik-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-1" value="Fusion Procurement&lt;br&gt;AP/Invoice lines&lt;br&gt;Inventory / Fixed&lt;br&gt;Travel / TMC&lt;br&gt;HR (FTE, commuting)&lt;br&gt;FleetSupport&lt;br&gt;APRO / ECM / UDEX&lt;br&gt;Stock‑pile tool&lt;br&gt;Supplier LCA files" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-8" target="gjYrhcPvms1deV_5RMik-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-2" target="gjYrhcPvms1deV_5RMik-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-2" value="Connectors (AP/PO/HR/TMS)&lt;div&gt;Raw snapshots, profiling&lt;/div&gt;&lt;div&gt;normalization, unit convert&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-4" value="SOURCE SYSTEMS" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-5" value="FDI: Ingestion &amp; Staging" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-6" value="Lineage, DQ reports&lt;div&gt;Evidence bundles&lt;/div&gt;&lt;div&gt;ServiceNow integration&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjYrhcPvms1deV_5RMik-2" target="gjYrhcPvms1deV_5RMik-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-8" value="Governance &amp; Assurance" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="246" y="210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-10" value="supplier_master&lt;div&gt;product_master&lt;/div&gt;&lt;div&gt;invoice_activity&lt;/div&gt;&lt;div&gt;travel_activity&lt;/div&gt;&lt;div&gt;waste_activity&lt;/div&gt;" style="rounded=0;align=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gjYrhcPvms1deV_5RMik-12" value="FDI: Master Data / Canonical Layer" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="501" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
