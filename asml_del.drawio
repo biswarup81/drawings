@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Page-1" id="FGlCivaTSvL9Ttle17Vd">
+    <mxGraphModel dx="1042" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-4" edge="1" parent="1" source="_pJmqeRW_qerQEsyZ_9S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="_pJmqeRW_qerQEsyZ_9S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="DQ Pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-14" edge="1" parent="1" source="_pJmqeRW_qerQEsyZ_9S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" target="_pJmqeRW_qerQEsyZ_9S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Source Systems" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Target" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-13" edge="1" parent="1" source="_pJmqeRW_qerQEsyZ_9S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="_pJmqeRW_qerQEsyZ_9S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-5" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#09555B;shape=mxgraph.azure.sql_reporting;labelBackgroundColor=none;fontColor=#EEEEEE;" value="" vertex="1">
+          <mxGeometry height="50" width="40" x="320" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-6" edge="1" parent="1" source="_pJmqeRW_qerQEsyZ_9S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#EEEEEE;" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;Pass&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#EEEEEE;" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;Fail&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-9" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.reported_state;fillColor=#09555B;labelBackgroundColor=none;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="" vertex="1">
+          <mxGeometry height="63" width="60" x="425" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="_pJmqeRW_qerQEsyZ_9S-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#EEEEEE;" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;Report data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="510.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
